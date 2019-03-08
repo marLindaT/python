@@ -1,0 +1,1351 @@
+Database ID,WO Type,Date Opened,Input Bulk Lot ID(s),Input Bulk Lot Type(s),Production,Total WO Input Weight,Total Finalized Weight,Output Bulk Lot ID(s),Output Bulk Lot Type(s),Production,Output Weight per Bulk Lot,Total Output Weight,Date Closed
+3402,Oil - Dilution,7/25/2018 14:44,788,Oil,Oil 1:1 (THC:CBD),9505,40828,788,Oil,Oil 1:1 (THC:CBD),40828,40828,7/25/2018 14:45
+3403,Dispose - Process Waste,7/25/2018 15:01,788,Oil,Oil 1:1 (THC:CBD),956.5,0,,,,,0,7/25/2018 15:01
+3409,Sample - QA Release,7/26/2018 9:29,788,Oil,Oil 1:1 (THC:CBD),57,57,788,Oil,Oil 1:1 (THC:CBD),57,57,7/26/2018 9:34
+3439,Oil - Dilution,8/1/2018 16:53,799,Oil,Oil 1:1 (THC:CBD),8490.5,36510,799,Oil,Oil 1:1 (THC:CBD),36510,36510,8/2/2018 10:59
+3440,Inventory Adjust - Pkg Run Variance,8/2/2018 14:04,799,Oil,Oil 1:1 (THC:CBD),36510,36510,799,Oil,Oil 1:1 (THC:CBD),36510,36510,8/2/2018 14:08
+3442,End of Lot - Complete Transfer to Other Lot,8/2/2018 14:10,799,Oil,Oil 1:1 (THC:CBD),36510,,,,,,0,
+3441,End of Lot - Complete Transfer to Other Lot,8/2/2018 14:10,799,Oil,Oil 1:1 (THC:CBD),36510,36510,799(1)-1,Oil,Oil 1:1 (THC:CBD),36510,36510,8/2/2018 14:11
+3443,Dispose - Process Waste,8/2/2018 15:41,799(1)-1,Oil,Oil 1:1 (THC:CBD),628.5,0,,,,,0,8/2/2018 15:42
+3444,Inventory Adjust - Pkg Run Variance,8/2/2018 15:43,799(1)-1,Oil,Oil 1:1 (THC:CBD),57,1197,799(1)-1,Oil,Oil 1:1 (THC:CBD),1197,1197,8/2/2018 15:45
+3446,Sample - QA Release,8/3/2018 8:07,799(1)-1,Oil,Oil 1:1 (THC:CBD),57,57,799(1)-1,Oil,Oil 1:1 (THC:CBD),57,57,8/3/2018 8:07
+3592,Inventory Adjust - Correct Entry Error,9/15/2018 10:23,788,Oil,Oil 1:1 (THC:CBD),57,0,,,,,0,9/15/2018 10:24
+3732,Inventory Adjust - Pkg Run Variance,10/12/2018 14:10,886-1,Oil,Oil 1:1 (THC:CBD),56442.5,57400.5,886-1,Oil,Oil 1:1 (THC:CBD),57400.5,57400.5,10/12/2018 14:12
+3733,Dispose - Spillage,10/12/2018 14:19,886-1,Oil,Oil 1:1 (THC:CBD),229.5,57,886-1,Oil,Oil 1:1 (THC:CBD),57,57,10/12/2018 14:21
+3722,Oil - Dilution,10/10/2018 16:09,886,Oil,Oil 1:1 (THC:CBD),9488,56442.5,886-1,Oil,Oil 1:1 (THC:CBD),56442.5,56442.5,10/10/2018 16:12
+3711,Oil - Dilution,10/9/2018 14:57,871,Oil,Oil 1:1 (THC:CBD),16602,57141,871,Oil,Oil 1:1 (THC:CBD),57141,57141,10/9/2018 14:58
+3712,Inventory Adjust - Pkg Run Variance,10/9/2018 14:59,871,Oil,Oil 1:1 (THC:CBD),57141,58853,871,Oil,Oil 1:1 (THC:CBD),58853,58853,10/9/2018 15:00
+3713,Oil - Dilution,10/9/2018 15:15,871,Oil,Oil 1:1 (THC:CBD),485,57,871,Oil,Oil 1:1 (THC:CBD),57,57,10/9/2018 15:16
+3758,Oil - Dilution,10/18/2018 15:16,894,Oil,Oil 1:1 (THC:CBD),3625.5,22522,894,Oil,Oil 1:1 (THC:CBD),22522,22522,10/18/2018 15:21
+3759,Inventory Adjust - Pkg Run Variance,10/18/2018 15:26,894,Oil,Oil 1:1 (THC:CBD),22522,26408,894,Oil,Oil 1:1 (THC:CBD),26408,26408,10/18/2018 15:27
+3760,Dispose - Process Waste,10/18/2018 15:32,894,Oil,Oil 1:1 (THC:CBD),1940.75,1149,894,Oil,Oil 1:1 (THC:CBD),1149,1149,10/18/2018 15:36
+3765,Inventory Adjust - Correct Entry Error,10/19/2018 13:31,894,Oil,Oil 1:1 (THC:CBD),1035,1054.5,894,Oil,Oil 1:1 (THC:CBD),1054.5,1054.5,10/19/2018 13:31
+3890,Process - Lot Merge,11/20/2018 10:11,894,Oil,Oil 1:1 (THC:CBD),10621.5,10602.5,940,Oil,Oil THC/CBD Mixed Blend ,10602.5,10602.5,11/20/2018 10:17
+3902,Dispose - Process Waste,11/22/2018 15:51,936-1,Oil,Oil 1:1 (THC:CBD),219.5,57,936-1,Oil,Oil 1:1 (THC:CBD),57,57,11/22/2018 15:53
+3899,Oil - Dilution,11/21/2018 13:37,936,Oil,Oil 1:1 (THC:CBD),7076,40077,936-1,Oil,Oil 1:1 (THC:CBD),40077,40077,11/21/2018 13:38
+3901,Inventory Adjust - Pkg Run Variance,11/22/2018 15:30,936-1,Oil,Oil 1:1 (THC:CBD),40020,41345,936,Oil,Oil 1:1 (THC:CBD),41345,41345,11/22/2018 15:31
+3909,Oil - Dilution,11/26/2018 14:10,936,Oil,Oil 1:1 (THC:CBD),9761,55116,936-2,Oil,Oil 1:1 (THC:CBD),55116,55116,11/26/2018 14:16
+3911,Inventory Adjust - Pkg Run Variance,11/27/2018 15:06,936-2,Oil,Oil 1:1 (THC:CBD),55116,56817.5,936-2,Oil,Oil 1:1 (THC:CBD),56817.5,56817.5,11/27/2018 15:07
+3912,Dispose - Process Waste,11/27/2018 15:16,936-2,Oil,Oil 1:1 (THC:CBD),159.5,57,936-2,Oil,Oil 1:1 (THC:CBD),57,57,11/27/2018 15:17
+931,Oil - Transfer to Extraction Department,10/24/2017 0:13,372,Oil,Oil Alien Dawg (APH),5268,5268,383,Oil,Oil Alien Dawg (APH),5268,5268,10/24/2017 9:24
+950,Oil - Decarboxylation,10/26/2017 13:08,383,Oil,Oil Alien Dawg (APH),5219,4398,383,Oil,Oil Alien Dawg (APH),4398,4398,10/26/2017 13:10
+960,Oil - Extraction,10/27/2017 17:06,383,Oil,Oil Alien Dawg (APH),4398,268.5,383(1),Oil,Oil Alien Dawg (APH),268.5,268.5,10/27/2017 17:09
+961,Oil - Winterization/Filtration,10/27/2017 17:17,383(1),Oil,Oil Alien Dawg (APH),268.5,7546.5,383(1),Oil,Oil Alien Dawg (APH),7546.5,7546.5,10/30/2017 15:07
+981,Oil - PreDilution,10/30/2017 19:25,383(1),Oil,Oil Alien Dawg (APH),844.5,4193,383(1),Oil,Oil Alien Dawg (APH),4193,4193,10/30/2017 19:25
+976,Oil - Rotary Evaporation,10/30/2017 16:35,383(1),Oil,Oil Alien Dawg (APH),7546.5,844.5,383(1),Oil,Oil Alien Dawg (APH),844.5,844.5,10/30/2017 16:36
+998,Oil - Decarboxylation,10/31/2017 16:46,372,Oil,Oil Alien Dawg (APH),6439,5429,372,Oil,Oil Alien Dawg (APH),5429,5429,10/31/2017 16:49
+999,Oil - Decarboxylation,10/31/2017 18:16,373,Oil,Oil Alien Dawg (APH),11975,10244.5,373,Oil,Oil Alien Dawg (APH),10244.5,10244.5,10/31/2017 18:18
+1022,Oil - Dilution,11/2/2017 20:41,383(1),Oil,Oil Alien Dawg (APH),4193,31445,383(1)-1,Oil,Oil Alien Dawg (APH),31445,31445,11/2/2017 21:12
+1024,Sample - Other,11/3/2017 15:12,383(1)-1,Oil,Oil Alien Dawg (APH),26.5,0,,,,,0,11/3/2017 15:13
+1035,Dispose - Process Waste,11/8/2017 14:39,383(1)-1,Oil,Oil Alien Dawg (APH),353.5,0,,,,,0,11/8/2017 14:40
+1043,Sample - QA Release,11/9/2017 16:29,383(1)-1,Oil,Oil Alien Dawg (APH),53.58,53.58,383(1)-1,Oil,Oil Alien Dawg (APH),53.58,53.58,11/9/2017 17:05
+1236,Oil - Extraction,11/24/2017 10:21,372,Oil,Oil Alien Dawg (APH),5429,1499.5,372,Oil,Oil Alien Dawg (APH),1499.5,1499.5,11/24/2017 10:30
+1237,Oil - Winterization,11/24/2017 10:33,372,Oil,Oil Alien Dawg (APH),1499.5,10845,372,Oil,Oil Alien Dawg (APH),10845,10845,11/24/2017 10:35
+1242,Oil - Filtration,11/24/2017 13:46,372,Oil,Oil Alien Dawg (APH),10845,6446.5,372(1),Oil,Oil Alien Dawg (APH),6446.5,6446.5,11/24/2017 13:52
+1243,Oil - Rotary Evaporation,11/24/2017 16:13,372(1),Oil,Oil Alien Dawg (APH),6446.5,1079.5,372(1),Oil,Oil Alien Dawg (APH),1079.5,1079.5,11/24/2017 16:16
+1244,Oil - PreDilution,11/24/2017 16:23,372(1),Oil,Oil Alien Dawg (APH),1079.5,7440,372(1),Oil,Oil Alien Dawg (APH),7440,7440,11/24/2017 16:24
+1291,Sample - HPLC,11/27/2017 14:54,372(1),Oil,Oil Alien Dawg (APH),4.6,0,,,,,0,11/27/2017 14:54
+1295,Oil - Dilution,11/27/2017 15:54,372(1),Oil,Oil Alien Dawg (APH),6409.5,35152,372(1)-1,Oil,Oil Alien Dawg (APH),35152,35152,11/27/2017 16:06
+1321,Oil - Milling,10/31/2017 11:46,372,Oil,Oil Alien Dawg (APH),6487,6439,372,Oil,Oil Alien Dawg (APH),6439,6439,10/31/2017 11:53
+1333,Dispose - Process Waste,11/30/2017 17:03,372(1)-1,Oil,Oil Alien Dawg (APH),1294,0,,,,,0,11/30/2017 17:04
+1366,Oil - Milling,10/31/2017 15:53,373,Oil,Oil Alien Dawg (APH),11867,11975,373,Oil,Oil Alien Dawg (APH),11975,11975,10/31/2017 15:58
+1359,Sample - QA Release,12/8/2017 12:24,372(1)-1,Oil,Oil Alien Dawg (APH),52.35,52.35,372(1)-1,Oil,Oil Alien Dawg (APH),52.35,52.35,12/8/2017 15:09
+1444,Sample - QA Release,12/14/2017 9:24,383(1)-1,Oil,Oil Alien Dawg (APH),0,0,,,,,0,12/14/2017 9:30
+1535,Oil - Milling,10/26/2017 11:59,383,Oil,Oil Alien Dawg (APH),5268,5219,383,Oil,Oil Alien Dawg (APH),5219,5219,10/26/2017 13:07
+1743,Oil - Extraction,1/4/2018 16:27,373,Oil,Oil Alien Dawg (APH),10244.5,2085.5,373(1),Oil,Oil Alien Dawg (APH),2085.5,2085.5,1/4/2018 16:30
+1748,Oil - PreDilution,1/5/2018 16:38,373(1),Oil,Oil Alien Dawg (APH),2070,11804.5,373(1),Oil,Oil Alien Dawg (APH),11804.5,11804.5,1/5/2018 16:40
+1747,Oil - Rotary Evaporation,1/5/2018 16:10,373(1),Oil,Oil Alien Dawg (APH),19809,2070,373(1),Oil,Oil Alien Dawg (APH),2070,2070,1/8/2018 12:19
+1744,Oil - Winterization/Filtration,1/4/2018 16:32,373(1),Oil,Oil Alien Dawg (APH),2085.5,24698.5,373(1),Oil,Oil Alien Dawg (APH),24698.5,24698.5,1/8/2018 12:48
+1749,Oil - PreDilution,1/8/2018 12:50,373(1),Oil,Oil Alien Dawg (APH),16694,11804.5,373(1),Oil,Oil Alien Dawg (APH),11804.5,11804.5,1/8/2018 12:52
+1932,Sample - HPLC,1/22/2018 15:56,373(1),Oil,Oil Alien Dawg (APH),2.5,0,,,,,0,1/22/2018 15:56
+2373,Sample - QA Retain,3/5/2018 15:56,383(1)-1,Oil,Oil Alien Dawg (APH),0,0,,,,,0,3/5/2018 15:58
+2578,Sample - Other,3/23/2018 13:36,614,Oil,Oil Alien Dawg (APH),132,0,,,,,0,3/23/2018 13:37
+2579,Oil - Decarboxylation,3/23/2018 13:38,614,Oil,Oil Alien Dawg (APH),4790.5,4137,614,Oil,Oil Alien Dawg (APH),4137,4137,3/23/2018 13:39
+2601,Oil - Dilution,3/28/2018 13:39,373(1),Oil,Oil Alien Dawg (APH),2587.5,16401.5,373(1)-1,Oil,Oil Alien Dawg (APH),16401.5,16401.5,3/28/2018 13:41
+2597,Sample - HPLC,3/27/2018 12:44,372(1),Oil,Oil Alien Dawg (APH),6.4,0,,,,,0,3/27/2018 12:45
+2617,Oil - Winterization/Filtration,4/3/2018 15:17,614(1),Oil,Oil Alien Dawg (APH),1131.4,6531,614(1),Oil,Oil Alien Dawg (APH),6531,6531,4/3/2018 15:19
+2616,Oil - Extraction,4/3/2018 15:14,614,Oil,Oil Alien Dawg (APH),4137,1131.4,614(1),Oil,Oil Alien Dawg (APH),1131.4,1131.4,4/3/2018 15:16
+2643,Oil - Winterization/Filtration,4/5/2018 12:46,614(1),Oil,Oil Alien Dawg (APH),6531,8713,614(1),Oil,Oil Alien Dawg (APH),8713,8713,4/5/2018 12:47
+2652,Oil - Rotary Evaporation,4/5/2018 15:38,614(1),Oil,Oil Alien Dawg (APH),8713,813,614(1),Oil,Oil Alien Dawg (APH),813,813,4/5/2018 15:39
+2748,Inventory Adjust - Pkg Run Variance,4/20/2018 11:54,373(1)-1,Oil,Oil Alien Dawg (APH),42.5,57,373(1)-1,Oil,Oil Alien Dawg (APH),57,57,4/20/2018 11:55
+2771,Sample - Other,4/23/2018 14:22,373(1)-1,Oil,Oil Alien Dawg (APH),57,0,,,,,0,4/23/2018 14:22
+2806,Oil - Milling,3/23/2018 13:32,614,Oil,Oil Alien Dawg (APH),4969.72,4922.5,614,Oil,Oil Alien Dawg (APH),4922.5,4922.5,3/23/2018 13:34
+3006,Oil - Dilution,5/22/2018 16:12,373(1),Oil,Oil Alien Dawg (APH),6860,41724,373(1)-2,Oil,Oil Alien Dawg (APH),41724,41724,5/22/2018 16:14
+3022,Dispose - Process Waste,5/24/2018 9:25,373(1)-2,Oil,Oil Alien Dawg (APH),484.5,0,,,,,0,5/24/2018 9:25
+3064,Oil - Decarboxylation,5/30/2018 16:26,691,Oil,Oil Alien Dawg (APH),9944,8705.5,691,Oil,Oil Alien Dawg (APH),8705.5,8705.5,5/30/2018 16:26
+3154,Oil - Rotary Evaporation,6/12/2018 15:37,691(1),Oil,Oil Alien Dawg (APH),22076,1909,691(1),Oil,Oil Alien Dawg (APH),1909,1909,6/12/2018 15:37
+3132,Oil - Extraction,6/8/2018 14:03,691,Oil,Oil Alien Dawg (APH),8705.5,1865,691,Oil,Oil Alien Dawg (APH),1865,1865,6/8/2018 14:04
+3133,Oil - Extraction,6/8/2018 14:05,691,Oil,Oil Alien Dawg (APH),1865,1865,691(1),Oil,Oil Alien Dawg (APH),1865,1865,6/8/2018 14:06
+3138,Oil - Winterization,6/8/2018 15:29,691(1),Oil,Oil Alien Dawg (APH),1865,9375.5,691(1),Oil,Oil Alien Dawg (APH),9375.5,9375.5,6/8/2018 15:30
+3150,Oil - Winterization/Filtration,6/12/2018 9:16,691(1),Oil,Oil Alien Dawg (APH),9375.5,22076,691(1),Oil,Oil Alien Dawg (APH),22076,22076,6/12/2018 9:16
+3155,Oil - PreDilution,6/12/2018 16:04,691(1),Oil,Oil Alien Dawg (APH),1909,10785.5,691(1),Oil,Oil Alien Dawg (APH),10785.5,10785.5,6/12/2018 16:05
+3321,Oil - Dilution,7/10/2018 16:09,373(1),Oil,Oil Alien Dawg (APH),2354.5,14709,373(1)-3,Oil,Oil Alien Dawg (APH),14709,14709,7/10/2018 16:10
+3327,Inventory Adjust - Pkg Run Variance,7/11/2018 15:04,373(1)-3,Oil,Oil Alien Dawg (APH),14709,14794,373(1)-3,Oil,Oil Alien Dawg (APH),14794,14794,7/11/2018 15:06
+3363,Dispose - Process Waste,7/16/2018 15:09,373(1)-3,Oil,Oil Alien Dawg (APH),259,0,,,,,0,7/16/2018 15:09
+3368,Sample - QA Release,7/17/2018 11:46,373(1)-3,Oil,Oil Alien Dawg (APH),57,57,373(1)-3,Oil,Oil Alien Dawg (APH),57,57,7/17/2018 11:47
+3573,Inventory Adjust - Correct Entry Error,9/11/2018 11:14,373(1)-3,Oil,Oil Alien Dawg (APH),14.25,0,,,,,0,9/11/2018 11:15
+3919,Oil - Dilution,11/28/2018 16:03,691(1),Oil,Oil Alien Dawg (APH),6663,47995,691(1)-1,Oil,Oil Alien Dawg (APH),47995,47995,11/28/2018 16:04
+3925,Inventory Adjust - Pkg Run Variance,11/29/2018 15:55,691(1)-1,Oil,Oil Alien Dawg (APH),36908.5,38381.5,691(1)-1,Oil,Oil Alien Dawg (APH),38381.5,38381.5,11/29/2018 15:56
+3926,Dispose - Process Waste,11/29/2018 16:29,691(1)-1,Oil,Oil Alien Dawg (APH),134.5,57,691(1)-1,Oil,Oil Alien Dawg (APH),57,57,11/29/2018 16:30
+4017,Inventory Adjust - End of Lot,12/19/2018 12:57,373(1)-2,Oil,Oil Alien Dawg (APH),325.5,0,,,,,0,12/19/2018 12:57
+4128,End of Lot - Destroyed,1/17/2019 16:21,373(1)-3,Oil,Oil Alien Dawg (APH),527.25,0,,,,,0,1/17/2019 16:21
+4240,Dispose - Process Waste,2/5/2019 15:38,373(1)-3,Oil,Oil Alien Dawg (APH),14.25,0,,,,,0,2/5/2019 15:39
+2774,Oil - Decarboxylation,4/23/2018 15:01,640,Oil,Oil Atomical Haze,9794.5,8691,640,Oil,Oil Atomical Haze,8691,8691,4/23/2018 15:02
+2787,Oil - Decarboxylation,4/24/2018 12:46,642,Oil,Oil Atomical Haze,4724,4179.5,642,Oil,Oil Atomical Haze,4179.5,4179.5,4/24/2018 12:47
+2807,Oil - Decarboxylation,4/26/2018 15:28,641,Oil,Oil Atomical Haze,9910,8873,641,Oil,Oil Atomical Haze,8873,8873,4/26/2018 15:34
+2862,Oil - Filtration,5/4/2018 13:35,640,Oil,Oil Atomical Haze,11622.5,16921.5,640,Oil,Oil Atomical Haze,16921.5,16921.5,5/4/2018 13:37
+2864,Oil - Rotary Evaporation,5/4/2018 15:24,640,Oil,Oil Atomical Haze,16921.5,1565.5,640,Oil,Oil Atomical Haze,1565.5,1565.5,5/4/2018 15:25
+2866,Oil - PreDilution,5/4/2018 16:28,640,Oil,Oil Atomical Haze,1565.5,7829,640,Oil,Oil Atomical Haze,7829,7829,5/4/2018 16:29
+2856,Oil - Extraction,5/3/2018 15:59,640,Oil,Oil Atomical Haze,8691,1547.5,640,Oil,Oil Atomical Haze,1547.5,1547.5,5/3/2018 16:01
+2857,Oil - Winterization,5/3/2018 16:01,640,Oil,Oil Atomical Haze,1547.5,8874,640,Oil,Oil Atomical Haze,8874,8874,5/3/2018 16:02
+2858,Oil - Winterization/Filtration,5/3/2018 16:03,640,Oil,Oil Atomical Haze,8874,11622.5,640,Oil,Oil Atomical Haze,11622.5,11622.5,5/3/2018 16:04
+2885,Oil - PreDilution,5/7/2018 15:51,640,Oil,Oil Atomical Haze,7829,13836,640,Oil,Oil Atomical Haze,13836,13836,5/7/2018 15:57
+2935,Oil - Extraction,5/11/2018 13:35,642,Oil,Oil Atomical Haze,4179.5,661,642(1),Oil,Oil Atomical Haze,661,661,5/11/2018 13:40
+2937,Oil - Winterization,5/11/2018 14:26,642(1),Oil,Oil Atomical Haze,661,3137,630(1),Oil,Oil Northern Lights,3137,3137,5/11/2018 14:28
+2964,Oil - PreDilution,5/15/2018 15:02,642(1),Oil,Oil Atomical Haze,91,675,642(1),Oil,Oil Atomical Haze,675,675,5/15/2018 15:03
+2958,Oil - Winterization/Filtration,5/15/2018 11:50,642(1),Oil,Oil Atomical Haze,6397,7155,642(1),Oil,Oil Atomical Haze,7155,7155,5/15/2018 11:50
+2961,Oil - Rotary Evaporation,5/15/2018 13:05,642(1),Oil,Oil Atomical Haze,7155,665.5,642(1),Oil,Oil Atomical Haze,665.5,665.5,5/15/2018 13:06
+2963,Oil - Rotary Evaporation,5/15/2018 14:19,642(1),Oil,Oil Atomical Haze,574.5,574.5,672(1),Oil,Oil Atomical Haze,574.5,574.5,5/15/2018 14:22
+3223,Oil - Extraction,6/25/2018 10:00,641,Oil,Oil Atomical Haze,8873,1586.5,641(1),Oil,Oil Atomical Haze,1586.5,1586.5,6/25/2018 10:01
+3224,Oil - Winterization,6/25/2018 10:29,641(1),Oil,Oil Atomical Haze,1586.5,12629.5,641(1),Oil,Oil Atomical Haze,12629.5,12629.5,6/25/2018 10:29
+3253,Oil - Winterization/Filtration,6/27/2018 13:28,641(1),Oil,Oil Atomical Haze,12629.5,15783.5,641(1),Oil,Oil Atomical Haze,15783.5,15783.5,6/27/2018 13:29
+3264,Oil - Winterization/Filtration,6/28/2018 11:47,641(1),Oil,Oil Atomical Haze,15783.5,17127.5,641(1),Oil,Oil Atomical Haze,17127.5,17127.5,6/28/2018 11:48
+3266,Oil - Rotary Evaporation,6/28/2018 14:57,641(1),Oil,Oil Atomical Haze,17127.5,1663,641(1),Oil,Oil Atomical Haze,1663,1663,6/28/2018 14:57
+3411,Oil - Milling,4/23/2018 11:03,640,Oil,Oil Atomical Haze,9877,9794.5,640,Oil,Oil Atomical Haze,9794.5,9794.5,4/23/2018 11:04
+3405,Oil - Milling,4/26/2018 15:26,641,Oil,Oil Atomical Haze,9943.5,9910,641,Oil,Oil Atomical Haze,9910,9910,4/26/2018 15:27
+3481,Oil - Milling,4/24/2018 10:21,642,Oil,Oil Atomical Haze,4786.1,4724,642,Oil,Oil Atomical Haze,4724,4724,4/24/2018 10:23
+3891,Process - Lot Merge,11/20/2018 13:05,640,Oil,Oil Atomical Haze,23831.5,24517,937,Oil,Oil Hybrid Blend,24517,24517,11/20/2018 13:06
+3891,Process - Lot Merge,11/20/2018 13:05,642(1),Oil,Oil Atomical Haze,23831.5,24517,937,Oil,Oil Hybrid Blend,24517,24517,11/20/2018 13:06
+211,Oil - Dilution,5/4/2017 17:54,197(1),Oil,Oil Black Widow,756,3763,197(1)-1,Oil,Oil Black Widow,3763,3763,5/4/2017 17:57
+204,Oil - Milling,5/1/2017 12:48,197,Oil,Oil Black Widow,5046.5,4753,197,Oil,Oil Black Widow,4753,4753,5/1/2017 12:50
+205,Oil - Decarboxylation,5/1/2017 12:57,197,Oil,Oil Black Widow,4711.5,4028.5,197,Oil,Oil Black Widow,4028.5,4028.5,
+206,Oil - Extraction,5/1/2017 18:15,197,Oil,Oil Black Widow,3085.5,1399,197(1),Oil,Oil Black Widow,1399,1399,5/2/2017 18:33
+207,Oil - Winterization,5/2/2017 18:36,197(1),Oil,Oil Black Widow,1399,0,197(1),Oil,Oil Black Widow,0,0,5/2/2017 18:37
+212,Oil - Dilution,5/4/2017 17:59,197(1),Oil,Oil Black Widow,748,3811,197(1)-2,Oil,Oil Black Widow,3811,3811,5/4/2017 18:00
+208,Oil - Filtration,5/3/2017 16:05,197(1),Oil,Oil Black Widow,0,0,197(1),Oil,Oil Black Widow,0,0,5/3/2017 16:06
+2893,Oil - Rotary Evaporation,5/8/2018 14:09,631,Oil,Oil Black Widow,4707.5,438.5,631,Oil,Oil Black Widow,438.5,438.5,5/8/2018 14:10
+213,Oil - Dilution,5/17/2017 15:46,197(1),Oil,Oil Black Widow,476.5,2813.5,197(1)-3,Oil,Oil Black Widow,2813.5,2813.5,5/17/2017 17:08
+210,Oil - PreDilution,5/3/2017 18:52,197(1),Oil,Oil Black Widow,706.5,2752.5,197(1),Oil,Oil Black Widow,2752.5,2752.5,5/3/2017 18:55
+214,Oil - Dilution,5/18/2017 10:45,197(1),Oil,Oil Black Widow,752,4361,197(1)-4,Oil,Oil Black Widow,4361,4361,5/18/2017 11:57
+509,Oil - Production Reassignment,8/29/2017 16:30,197,Oil,Oil Black Widow,943,943,197,Oil,R&D Oil Black Widow,943,943,8/29/2017 16:38
+511,Oil - Production Reassignment,8/29/2017 17:04,276,Oil,Oil Black Widow,48.1,48.1,276,Oil,R&D Oil Black Widow,48.1,48.1,8/29/2017 17:05
+510,Oil - Production Reassignment,8/29/2017 17:02,277,Oil,Oil Black Widow,45.56,45.56,277,Oil,R&D Oil Black Widow,45.56,45.56,8/29/2017 17:07
+537,Oil - Production Reassignment,8/31/2017 15:44,197(1)-3,Oil,Oil Black Widow,2746.5,2746.5,197(1)-3,Oil,R&D Oil Black Widow,2746.5,2746.5,8/31/2017 15:46
+538,Oil - Production Reassignment,8/31/2017 15:47,197(1)-4,Oil,Oil Black Widow,4311.49,4311.49,197(1)-4,Oil,R&D Oil Black Widow,4311.49,4311.49,8/31/2017 15:48
+615,Oil - Production Reassignment,9/6/2017 12:49,197(1)-1,Oil,Oil Black Widow,2736,2736,197(1)-1,Oil,R&D Oil Black Widow,2736,2736,9/6/2017 12:50
+616,Oil - Production Reassignment,9/6/2017 12:53,197(1)-2,Oil,Oil Black Widow,3192,3192,197(1)-2,Oil,R&D Oil Black Widow,3192,3192,9/6/2017 12:53
+730,Sample - HPLC,9/22/2017 14:45,339,Oil,Oil Black Widow,1.5,0,,,,,0,9/22/2017 14:50
+731,Sample - HPLC,9/22/2017 14:51,340,Oil,Oil Black Widow,2.5,0,,,,,0,9/22/2017 14:52
+732,Sample - HPLC,9/22/2017 14:54,341,Oil,Oil Black Widow,4,0,,,,,0,9/22/2017 14:55
+733,Sample - HPLC,9/22/2017 14:56,338,Oil,Oil Black Widow,3.5,0,,,,,0,9/22/2017 14:57
+756,Sample - HPLC,9/26/2017 13:39,340,Oil,Oil Black Widow,7,0,,,,,0,9/26/2017 13:42
+761,Sample - HPLC,9/27/2017 10:23,340,Oil,Oil Black Widow,7,0,,,,,0,9/27/2017 10:24
+953,Oil - Decarboxylation,10/26/2017 15:58,341,Oil,Oil Black Widow,5708.5,4910.5,341,Oil,Oil Black Widow,4910.5,4910.5,10/26/2017 16:00
+962,Oil - Milling,11/1/2017 11:40,338,Oil,Oil Black Widow,10875.5,10820.5,338,Oil,Oil Black Widow,10820.5,10820.5,11/1/2017 11:45
+963,Oil - Decarboxylation,10/27/2017 18:54,340,Oil,Oil Black Widow,8414,7285,340,Oil,Oil Black Widow,7285,7285,10/27/2017 18:55
+964,Sample - HPLC,10/30/2017 10:30,340,Oil,Oil Black Widow,7278,7285,340,Oil,Oil Black Widow,7285,7285,10/30/2017 10:43
+965,Sample - HPLC,10/30/2017 10:51,340,Oil,Oil Black Widow,7292,7285,340,Oil,Oil Black Widow,7285,7285,10/30/2017 10:53
+966,Sample - HPLC,10/30/2017 10:53,340,Oil,Oil Black Widow,6.07,0,,,,,0,10/30/2017 10:54
+979,Transfer Into Child Lot,10/30/2017 17:36,341,Oil,Oil Black Widow,1277,1277,341(1),Oil,Oil Black Widow,1277,1277,10/30/2017 17:38
+994,Oil - PreDilution,10/31/2017 13:41,341(1),Oil,Oil Black Widow,629.5,4540,341(1),Oil,Oil Black Widow,4540,4540,10/31/2017 15:52
+980,Oil - Winterization,10/30/2017 17:53,341(1),Oil,Oil Black Widow,1277,1884.5,341(1),Oil,Oil Black Widow,1884.5,1884.5,10/30/2017 17:53
+3780,Oil - Rotary Evaporation,10/23/2018 16:58,891,Oil,Oil Black Widow,21868,3083.5,891,Oil,Oil Black Widow,3083.5,3083.5,10/23/2018 16:59
+997,Oil - Milling,11/1/2017 16:40,339,Oil,Oil Black Widow,9653,9608.5,339,Oil,Oil Black Widow,9608.5,9608.5,11/3/2017 12:32
+1762,Oil - Extraction,1/10/2018 13:51,338,Oil,Oil Black Widow,9481.5,2064,338(1),Oil,Oil Black Widow,2064,2064,1/10/2018 13:55
+989,Oil - Milling,10/27/2017 18:48,340,Oil,Oil Black Widow,8483.5,8414,340,Oil,Oil Black Widow,8414,8414,10/27/2017 18:51
+990,Oil - Filtration,10/31/2017 12:50,341(1),Oil,Oil Black Widow,1884.5,4900,341(1),Oil,Oil Black Widow,4900,4900,10/31/2017 12:52
+1007,Oil - Milling,10/26/2017 15:19,341,Oil,Oil Black Widow,5750,5708.5,341,Oil,Oil Black Widow,5708.5,5708.5,10/26/2017 15:29
+1008,Oil - Decarboxylation,11/1/2017 17:46,339,Oil,Oil Black Widow,9608.5,8350.5,339,Oil,Oil Black Widow,8350.5,8350.5,11/1/2017 17:47
+1006,Oil - Decarboxylation,11/1/2017 16:14,338,Oil,Oil Black Widow,10820.5,9481.5,338,Oil,Oil Black Widow,9481.5,9481.5,11/1/2017 16:18
+1776,Oil - Extraction,1/12/2018 14:09,339,Oil,Oil Black Widow,8350.5,1574,339(1),Oil,Oil Black Widow,1574,1574,1/12/2018 14:13
+1025,Oil - Winterization/Filtration,11/3/2017 16:21,340(1),Oil,Oil Black Widow,1560.5,11308.5,340(1),Oil,Oil Black Widow,11308.5,11308.5,11/3/2017 16:47
+1026,Oil - Winterization/Filtration,11/6/2017 15:21,340(1),Oil,Oil Black Widow,11308.5,11050,340(1),Oil,Oil Black Widow,11050,11050,11/6/2017 15:22
+1027,Oil - Winterization/Filtration,11/6/2017 15:24,340(1),Oil,Oil Black Widow,11050,12625,340(1),Oil,Oil Black Widow,12625,12625,11/6/2017 15:26
+1029,Oil - PreDilution,11/6/2017 17:35,340(1),Oil,Oil Black Widow,12625,8408.5,340(1),Oil,Oil Black Widow,8408.5,8408.5,11/6/2017 17:37
+1030,Oil - Dilution,11/6/2017 18:08,341(1),Oil,Oil Black Widow,4540,13666.5,341(1)-1,Oil,Oil Black Widow,13666.5,13666.5,11/6/2017 18:13
+1031,Oil - Dilution,11/7/2017 15:17,340(1),Oil,Oil Black Widow,8408.5,34815,340(1)-1,Oil,Oil Black Widow,34815,34815,11/7/2017 16:37
+1042,Sample - QA Release,11/9/2017 15:59,340(1)-1,Oil,Oil Black Widow,102,56.51,340(1)-1,Oil,Oil Black Widow,56.51,56.51,11/9/2017 16:14
+1044,Dispose - Process Waste,11/9/2017 17:28,340(1)-1,Oil,Oil Black Widow,56.51,0,,,,,0,11/9/2017 17:28
+1045,Dispose - Process Waste,11/9/2017 17:29,341(1)-1,Oil,Oil Black Widow,271.5,0,,,,,0,11/9/2017 17:29
+1292,Lot Transfer - Reclaimed Oil Bottles Stored in Level 2 Fridge,11/27/2017 14:56,340(1)-1,Oil,Oil Black Widow,57,57,444,Oil,Oil Black Widow,57,57,11/27/2017 14:56
+1293,Sample - HPLC,11/27/2017 15:08,444,Oil,Oil Black Widow,3.8,0,,,,,0,11/27/2017 15:09
+1052,Sample - QA Release,11/10/2017 14:25,341(1)-1,Oil,Oil Black Widow,53.13,52.13,341(1)-1,Oil,Oil Black Widow,52.13,52.13,12/8/2017 14:14
+1023,Oil - Extraction,11/3/2017 14:42,340,Oil,Oil Black Widow,7278.93,1560.5,340(1),Oil,Oil Black Widow,1560.5,1560.5,11/3/2017 14:45
+3834,Oil - Rotary Evaporation,11/5/2018 14:30,900,Oil,Oil Black Widow,30565.5,3116.5,900,Oil,Oil Black Widow,3116.5,3116.5,11/5/2018 14:30
+1770,Oil - Winterization/Filtration,1/11/2018 12:43,338(1),Oil,Oil Black Widow,2064,24698.5,338(1),Oil,Oil Black Widow,24698.5,24698.5,1/11/2018 14:55
+978,Oil - Extraction,10/30/2017 17:25,341,Oil,Oil Black Widow,4910.5,1277,341,Oil,Oil Black Widow,1277,1277,10/30/2017 17:34
+1772,Inventory Adjust - Correct Entry Error,1/11/2018 14:58,338(1),Oil,Oil Black Widow,1632,0,,,,,0,1/11/2018 14:59
+3907,Oil - Rotary Evaporation,11/23/2018 15:21,920,Oil,Oil Black Widow,38283,2907.5,920,Oil,Oil Black Widow,2907.5,2907.5,11/23/2018 15:21
+1821,Oil - PreDilution,1/15/2018 16:46,339(1),Oil,Oil Black Widow,1501.5,7243,339(1),Oil,Oil Black Widow,7243,7243,1/15/2018 16:47
+1819,Oil - Winterization/Filtration,1/15/2018 16:43,339(1),Oil,Oil Black Widow,1574,13151,339(1),Oil,Oil Black Widow,13151,13151,1/15/2018 16:43
+1829,Oil - PreDilution,1/16/2018 11:56,338(1),Oil,Oil Black Widow,1955.5,9894.5,338(1),Oil,Oil Black Widow,9894.5,9894.5,1/16/2018 11:58
+2375,Sample - QA Retain,3/5/2018 15:59,340(1)-1,Oil,Oil Black Widow,0,0,,,,,0,3/5/2018 15:59
+2376,Sample - QA Retain,3/5/2018 16:00,341(1)-1,Oil,Oil Black Widow,0,0,,,,,0,3/5/2018 16:02
+2712,Oil - PreDilution,4/17/2018 9:44,338(1),Oil,Oil Black Widow,9894.5,9888,338(1),Oil,Oil Black Widow,9888,9888,4/17/2018 9:44
+2724,Oil - Dilution,4/18/2018 17:42,338(1),Oil,Oil Black Widow,9888,41779.5,338(1)-1,Oil,Oil Black Widow,41779.5,41779.5,4/18/2018 17:44
+2745,Dispose - Process Waste,4/19/2018 14:45,338(1)-1,Oil,Oil Black Widow,94.5,0,,,,,0,4/19/2018 14:45
+2746,Transfer to Totes,4/19/2018 14:54,338(1)-1,Oil,Oil Black Widow,25782,25856,338(1)-1,Oil,Oil Black Widow,25856,25856,4/19/2018 14:56
+2751,Inventory Adjust - Pkg Run Variance,4/20/2018 15:11,338(1)-1,Oil,Oil Black Widow,25856,25884.5,338(1)-1,Oil,Oil Black Widow,25884.5,25884.5,4/20/2018 15:12
+2769,Sample - Other,4/23/2018 14:04,338(1)-1,Oil,Oil Black Widow,25884.5,0,,,,,0,4/23/2018 14:11
+2843,Oil - Decarboxylation,5/1/2018 15:28,631,Oil,Oil Black Widow,2615,2350.5,631,Oil,Oil Black Widow,2350.5,2350.5,5/1/2018 15:29
+2844,Transfer to Totes,5/1/2018 15:55,631,Oil,Oil Black Widow,9.5,0,,,,,0,5/1/2018 15:57
+2863,Oil - Extraction,5/4/2018 14:55,631,Oil,Oil Black Widow,2341,421.5,631,Oil,Oil Black Widow,421.5,421.5,5/4/2018 14:58
+2865,Oil - Winterization,5/4/2018 15:32,631,Oil,Oil Black Widow,421.5,4707.5,631,Oil,Oil Black Widow,4707.5,4707.5,5/4/2018 15:33
+2859,Inventory Adjust - Pkg Run Variance,5/3/2018 16:27,338(1)-1,Oil,Oil Black Widow,25727.5,26147,338(1)-1,Oil,Oil Black Widow,26147,26147,5/3/2018 16:28
+2860,Dispose - Process Waste,5/3/2018 17:12,338(1)-1,Oil,Oil Black Widow,155,0,,,,,0,5/3/2018 17:12
+2871,Sample - QA Release,5/7/2018 9:50,338(1)-1,Oil,Oil Black Widow,57,57,338(1)-1,Oil,Oil Black Widow,57,57,5/7/2018 9:52
+2894,Oil - PreDilution,5/8/2018 14:59,631,Oil,Oil Black Widow,438.5,2216.5,631(1),Oil,Oil Black Widow,2216.5,2216.5,5/8/2018 15:06
+4262,Oil - Rotary Evaporation,2/11/2019 15:17,1032,Oil,Oil Black Widow,38097,3207.2,1032,Oil,Oil Black Widow,3207.2,3207.2,2/11/2019 15:17
+2976,Process - Lot Merge,5/17/2018 12:10,631(1),Oil,Oil Black Widow,2216.5,2216.5,339(1),Oil,Oil Black Widow,2216.5,2216.5,5/17/2018 12:11
+2982,Oil - Dilution,5/17/2018 16:09,339(1),Oil,Oil Black Widow,9459.5,42089.5,339(1)-1,Oil,Oil Black Widow,42089.5,42089.5,5/17/2018 16:10
+3024,Inventory Adjust - Pkg Run Variance,5/24/2018 9:59,338(1)-1,Oil,Oil Black Widow,28.5,0,,,,,0,5/24/2018 10:00
+3061,Sample - HPLC,5/30/2018 10:26,692,Oil,Oil Black Widow,6.5,0,,,,,0,5/30/2018 10:26
+3073,Oil - Decarboxylation,6/1/2018 14:36,692,Oil,Oil Black Widow,12717,10828.5,692,Oil,Oil Black Widow,10828.5,10828.5,6/1/2018 14:37
+3106,Oil - Extraction,6/6/2018 15:55,692,Oil,Oil Black Widow,10828.5,2142,692(1),Oil,Oil Black Widow,2142,2142,6/6/2018 15:57
+3107,Oil - Winterization/Filtration,6/6/2018 16:41,692(1),Oil,Oil Black Widow,2142,13737.5,692(1),Oil,Oil Black Widow,13737.5,13737.5,6/6/2018 16:42
+3129,Oil - Filtration,6/8/2018 12:35,692(1),Oil,Oil Black Widow,18653,19769,692(1),Oil,Oil Black Widow,19769,19769,6/8/2018 12:35
+3121,Oil - Winterization/Filtration,6/8/2018 8:22,692(1),Oil,Oil Black Widow,13737.5,18653,692(1),Oil,Oil Black Widow,18653,18653,6/8/2018 8:22
+209,Oil - Rotary Evaporation,5/3/2017 16:06,197(1),Oil,Oil Black Widow,0,706.5,197(1),Oil,Oil Black Widow,706.5,706.5,5/3/2017 18:51
+3137,Oil - PreDilution,6/8/2018 15:24,692(1),Oil,Oil Black Widow,2263.5,13491.5,692(1),Oil,Oil Black Widow,13491.5,13491.5,6/8/2018 15:25
+3236,Oil - Milling,4/30/2018 12:42,631,Oil,Oil Black Widow,2655,2615,631,Oil,Oil Black Widow,2615,2615,4/30/2018 12:48
+3274,Dispose - Process Waste,6/29/2018 14:16,339(1)-1,Oil,Oil Black Widow,1220.5,342,339(1)-1,Oil,Oil Black Widow,342,342,6/29/2018 14:17
+3275,Sample - HPLC,6/29/2018 14:28,339(1)-1,Oil,Oil Black Widow,171,0,,,,,0,6/29/2018 14:28
+3280,Sample - QA Release,7/3/2018 12:48,339(1)-1,Oil,Oil Black Widow,171,57,339(1)-1,Oil,Oil Black Widow,57,57,7/3/2018 12:49
+3301,Oil - Dilution,7/6/2018 13:24,692(1),Oil,Oil Black Widow,13491.5,47882,692(1)-1,Oil,Oil Black Widow,47882,47882,7/6/2018 13:27
+3304,Inventory Adjust - Pkg Run Variance,7/6/2018 15:46,692(1)-1,Oil,Oil Black Widow,1256,1407,692(1)-1,Oil,Oil Black Widow,1407,1407,7/6/2018 15:47
+3305,Oil - Final Package (60 mL Bottle),7/6/2018 15:48,692(1)-1,Oil,Oil Black Widow,146.5,0,,,,,0,7/6/2018 15:49
+3314,Sample - QA Release,7/9/2018 15:01,692(1)-1,Oil,Oil Black Widow,1260.5,1260.5,692(1)-1,Oil,Oil Black Widow,1260.5,1260.5,7/9/2018 15:17
+3315,Sample - QA Release,7/9/2018 15:17,692(1)-1,Oil,Oil Black Widow,57,1203.5,692(1)-1,Oil,Oil Black Widow,1203.5,1203.5,7/9/2018 15:19
+3272,Inventory Adjust - Pkg Run Variance,6/29/2018 13:34,339(1)-1,Oil,Oil Black Widow,42089.5,42089.5,339(1)-1,Oil,Oil Black Widow,42089.5,42089.5,7/17/2018 9:55
+3335,Inventory Adjust - Correct Entry Error,7/12/2018 15:08,692(1)-1,Oil,Oil Black Widow,2350,1203.5,692(1)-1,Oil,Oil Black Widow,1203.5,1203.5,7/12/2018 15:09
+3344,Oil - Dilution,7/13/2018 15:07,692(1)-1,Oil,Oil Black Widow,1203.5,15065,692(2)-1,Oil,Oil Black Widow,15065,15065,7/13/2018 15:11
+3345,Inventory Adjust - Pkg Run Variance,7/13/2018 15:13,692(2)-1,Oil,Oil Black Widow,15065,15147.75,692(2)-1,Oil,Oil Black Widow,15147.75,15147.75,7/13/2018 15:15
+3369,Sample - QA Release,7/17/2018 11:49,692(2)-1,Oil,Oil Black Widow,57,57,692(2)-1,Oil,Oil Black Widow,57,57,7/17/2018 11:49
+3486,Oil - Milling,5/29/2018 17:18,692,Oil,Oil Black Widow,12899,12723.5,692,Oil,Oil Black Widow,12723.5,12723.5,5/29/2018 17:19
+3579,Inventory Adjust - Correct Entry Error,9/13/2018 10:38,692(2)-1,Oil,Oil Black Widow,171,0,,,,,0,9/13/2018 10:39
+3763,Oil - Decarboxylation,10/19/2018 9:24,891,Oil,Oil Black Widow,18977,16348,891,Oil,Oil Black Widow,16348,16348,10/19/2018 9:25
+3774,Oil - Extraction,10/22/2018 16:55,891,Dried,Oil Black Widow,16348,2203.5,903,Dried,Oil Northern Lights,2203.5,2203.5,10/22/2018 17:05
+3772,Oil - Milling,10/19/2018 9:18,891,Oil,Oil Black Widow,18509.9,18977,891,Oil,Oil Black Widow,18977,18977,10/19/2018 9:20
+3775,Oil - Winterization/Filtration,10/22/2018 17:10,891,Oil,Oil Black Widow,2203.5,21868,891,Oil,Oil Black Widow,21868,21868,10/22/2018 17:11
+1773,Oil - Rotary Evaporation,1/11/2018 15:12,338(1),Oil,Oil Black Widow,23066.5,1955.5,338(1),Oil,Oil Black Widow,1955.5,1955.5,1/11/2018 15:16
+3781,Oil - PreDilution,10/23/2018 17:00,891,Oil,Oil Black Widow,3083.5,8003,891,Oil,Oil Black Widow,8003,8003,10/23/2018 17:01
+3782,Oil - Decarboxylation,10/24/2018 15:11,900,Dried,Oil Black Widow,17945,14467,900,Dried,Oil Black Widow,14467,14467,10/24/2018 15:12
+3783,Oil - Dilution,10/24/2018 16:03,891,Oil,Oil Black Widow,7050,35646,891-1,Oil,Oil Black Widow,35646,35646,10/24/2018 16:10
+3829,Oil - Winterization/Filtration,11/2/2018 15:45,900,Oil,Oil Black Widow,24619,29808.5,900,Oil,Oil Black Widow,29808.5,29808.5,11/2/2018 15:46
+3799,Process - Lot Split,10/30/2018 10:45,891-1,Oil,Oil Black Widow,20002,20002,891-1-3,Oil,Oil Black Widow,20002,20002,10/30/2018 10:47
+3821,Oil - Extraction,11/1/2018 16:41,900,Dried,Oil Black Widow,14467,3238.5,900,Dried,Oil Black Widow,3238.5,3238.5,11/1/2018 16:42
+3802,Oil - Milling,10/23/2018 15:50,900,Dried,Oil Black Widow,18039.6,17945,900,Dried,Oil Black Widow,17945,17945,10/23/2018 15:51
+3823,Oil - Winterization/Filtration,11/1/2018 16:53,900,Dried,Oil Black Widow,3238.5,24619,900,Dried,Oil Black Widow,24619,24619,11/1/2018 16:56
+3824,Oil - Milling,10/31/2018 12:13,911,Dried,Oil Black Widow,20864.3,20624,911,Dried,Oil Black Widow,20624,20624,10/31/2018 12:17
+3835,Oil - PreDilution,11/5/2018 15:21,900,Oil,Oil Black Widow,3116.5,15827,900,Oil,Oil Black Widow,15827,15827,11/5/2018 15:22
+3831,Inventory Adjust - Correct Entry Error,11/5/2018 7:50,891-1,Oil,Oil Black Widow,15644,15644,891-1,Oil,Oil Black Widow,15644,15644,11/5/2018 7:50
+3827,Oil - Decarboxylation,11/2/2018 15:24,911,Dried,Oil Black Widow,20624,16437.5,911,Dried,Oil Black Widow,16437.5,16437.5,11/2/2018 15:32
+3832,Oil - Milling,11/5/2018 12:15,920,Dried,Oil Black Widow,15466.2,15421,920,Dried,Oil Black Widow,15421,15421,11/5/2018 12:16
+3838,Oil - Decarboxylation,11/6/2018 13:30,920,Dried,Oil Black Widow,15421,15421,920,Dried,Oil Black Widow,15421,15421,11/6/2018 13:33
+3833,Oil - Winterization/Filtration,11/5/2018 13:11,900,Oil,Oil Black Widow,29808.5,30565.5,900,Oil,Oil Black Widow,30565.5,30565.5,11/5/2018 13:12
+1820,Oil - Rotary Evaporation,1/15/2018 16:44,339(1),Oil,Oil Black Widow,13151,1501.5,339(1),Oil,Oil Black Widow,1501.5,1501.5,1/15/2018 16:45
+3840,Dispose - Process Waste,11/6/2018 14:05,900-1,Oil,Oil Black Widow,220,57,900-1,Oil,Oil Black Widow,57,57,11/6/2018 14:07
+3837,Oil - Dilution,11/6/2018 8:03,900-1,Oil,Oil Black Widow,11643,53266,900-1,Oil,Oil Black Widow,53266,53266,11/6/2018 8:05
+3839,Inventory Adjust - Pkg Run Variance,11/6/2018 13:52,900-1,Oil,Oil Black Widow,53265.9,54940,900-1,Oil,Oil Black Widow,54940,54940,11/6/2018 13:53
+3851,Oil - Dilution,11/8/2018 15:21,925-1,Oil,Oil Black Widow,10402,52028,925-1,Oil,Oil Black Widow,52028,52028,11/8/2018 15:22
+3853,Oil - Encapsulation and Sealing,11/9/2018 11:39,891-1-3,Oil,Oil Black Widow,20002,19848,891-1-3,Oil,Oil Black Widow,19848,19848,11/9/2018 11:39
+3854,Inventory Adjust - Pkg Run Variance,11/9/2018 13:18,925-1,Oil,Oil Black Widow,52027.9,53228,925-1,Oil,Oil Black Widow,53228,53228,11/9/2018 13:19
+3855,Dispose - Process Waste,11/9/2018 13:32,925-1,Oil,Oil Black Widow,389,57,925-1,Oil,Oil Black Widow,57,57,11/9/2018 13:37
+3873,Dispose - Process Waste,11/14/2018 15:23,891-1-3,Oil,Oil Black Widow,154.5,57,891-1-3,Oil,Oil Black Widow,57,57,11/14/2018 15:25
+3885,Allocate for Bulk Sale,11/16/2018 15:47,911,Oil,Oil Black Widow,35546,3473,911,Oil,Oil Black Widow,3473,3473,11/16/2018 15:48
+3886,Allocate for Bulk Sale,11/16/2018 16:36,911,Oil,Oil Black Widow,3473,16863.5,911,Oil,Oil Black Widow,16863.5,16863.5,11/16/2018 16:39
+3892,Inventory Adjust - Pkg Run Variance,11/20/2018 15:45,911-1,Oil,Oil Black Widow,53375,53474,911-1,Oil,Oil Black Widow,53474,53474,11/20/2018 15:48
+3880,Oil - Extraction,11/15/2018 16:21,911,Dried,Oil Black Widow,16437.5,3294,911,Dried,Oil Black Widow,3294,3294,11/15/2018 16:23
+3881,Oil - Filtration,11/15/2018 16:28,911,Oil,Oil Black Widow,3294,28003.5,911,Oil,Oil Black Widow,28003.5,28003.5,11/15/2018 16:40
+3882,Oil - Filtration,11/16/2018 13:44,911,Oil,Oil Black Widow,28003.5,30216,911,Oil,Oil Black Widow,30216,30216,11/16/2018 13:59
+3883,Oil - Filtration,11/16/2018 14:01,911,Oil,Oil Black Widow,30216,35546,911,Oil,Oil Black Widow,35546,35546,11/16/2018 14:04
+3893,Dispose - Process Waste,11/20/2018 15:57,911-1,Oil,Oil Black Widow,264.5,57,911-1,Oil,Oil Black Widow,57,57,11/20/2018 15:59
+3889,Lot Transfer - Partial,11/20/2018 8:55,911,Oil,Oil Black Widow,11836.5,53432,911-1,Oil,Oil Black Widow,53432,53432,11/20/2018 8:56
+3896,Oil - Extraction,11/20/2018 17:13,920,Dried,Oil Black Widow,15421,2868,920,Dried,Oil Black Widow,2868,2868,11/20/2018 17:16
+3903,Oil - Winterization,11/23/2018 10:15,920,Oil,Oil Black Widow,2868,22647,920,Oil,Oil Black Widow,22647,22647,11/23/2018 14:16
+3904,Oil - Winterization/Filtration,11/23/2018 14:17,920,Oil,Oil Black Widow,22647,31272,920,Oil,Oil Black Widow,31272,31272,11/23/2018 14:18
+3905,Oil - Winterization/Filtration,11/23/2018 14:18,920,Oil,Oil Black Widow,31272,38283,920,Oil,Oil Black Widow,38283,38283,11/23/2018 14:19
+991,Oil - Rotary Evaporation,10/31/2017 13:03,341(1),Oil,Oil Black Widow,4900,629.5,341(1),Oil,Oil Black Widow,629.5,629.5,10/31/2017 13:26
+3908,Oil - PreDilution,11/23/2018 16:05,920,Oil,Oil Black Widow,2907.5,14736,920,Oil,Oil Black Widow,14736,14736,11/23/2018 16:05
+3917,Oil - Dilution,11/28/2018 15:19,911,Oil,Oil Black Widow,6308,32994,945-1,Oil,Oil Black Widow,32994,32994,11/28/2018 15:22
+3917,Oil - Dilution,11/28/2018 15:19,925,Oil,Oil Black Widow,6308,32994,945-1,Oil,Oil Black Widow,32994,32994,11/28/2018 15:22
+3920,Allocate for Bulk Sale,11/29/2018 8:53,945-1,Oil,Oil Black Widow,32937,34160,945-1,Oil,Oil Black Widow,34160,34160,11/29/2018 8:54
+3922,Dispose - Process Waste,11/29/2018 9:10,945-1,Oil,Oil Black Widow,102.5,0,,,,,0,11/29/2018 9:10
+3921,Allocate for Bulk Sale,11/29/2018 8:53,945-1,Oil,Oil Black Widow,32937,0,,,,,0,12/3/2018 4:30
+4018,Inventory Adjust - End of Lot,12/19/2018 12:59,339(1)-1,Oil,Oil Black Widow,1910,0,,,,,0,12/19/2018 13:00
+4062,Sample - HPLC,1/7/2019 13:24,920,Oil,Oil Black Widow,4.5,0,,,,,0,1/7/2019 13:26
+4113,Destroy Whole Lot,1/16/2019 15:18,945-1,Oil,Oil Black Widow,427.5,0,,,,,0,1/16/2019 15:18
+4177,Oil - Transfer to Extraction Department,1/23/2019 14:37,1032,Dried,Oil Black Widow,18206.96,18442,1032,Dried,Oil Black Widow,18442,18442,1/23/2019 14:38
+4178,Oil - Milling,1/23/2019 14:39,1032,Dried,Oil Black Widow,18442,18362,1032,Dried,Oil Black Widow,18362,18362,1/23/2019 14:40
+4187,Oil - Milling,1/24/2019 12:44,1035,Dried,Oil Black Widow,18903.5,18805,1035,Dried,Oil Black Widow,18805,18805,1/24/2019 12:46
+4186,Oil - Transfer to Extraction Department,1/24/2019 12:40,1035,Dried,Oil Black Widow,18000,18903.5,1035,Dried,Oil Black Widow,18903.5,18903.5,1/24/2019 12:42
+4194,Oil - Milling,1/24/2019 15:27,1037,Dried,Oil Black Widow,10791.5,10707,1037,Dried,Oil Black Widow,10707,10707,1/24/2019 15:29
+4193,Allocate for Extraction,1/24/2019 15:20,1037,Dried,Oil Black Widow,12056,10791.5,1037,Dried,Oil Black Widow,10791.5,10791.5,1/24/2019 15:24
+4197,Oil - Decarboxylation,1/25/2019 14:51,1032,Dried,Oil Black Widow,18362,16281,1032,Dried,Oil Black Widow,16281,16281,1/25/2019 14:52
+4200,Oil - Decarboxylation,1/28/2019 15:37,1035,Dried,Oil Black Widow,18805,16122.5,1035,Dried,Oil Black Widow,16122.5,16122.5,1/28/2019 15:38
+4207,Oil - Encapsulation and Sealing,1/29/2019 14:17,891-1,Oil,Oil Black Widow,15506,15147.75,891-1-3(1),Oil,Oil Black Widow,15147.75,15147.75,1/29/2019 14:19
+4209,Oil - Decarboxylation,1/29/2019 15:30,1037,Dried,Oil Black Widow,10707,9479.5,1037,Dried,Oil Black Widow,9479.5,9479.5,1/29/2019 15:30
+4237,Dispose - Process Waste,2/5/2019 11:07,891-1-3(1),Oil,Oil Black Widow,71.25,0,,,,,0,2/5/2019 11:07
+4252,Oil - Extraction,2/7/2019 14:26,1032,Dried,Oil Black Widow,16281,3526,1032,Dried,Oil Black Widow,3526,3526,2/7/2019 14:26
+4253,Oil - Winterization,2/7/2019 14:27,1032,Oil,Oil Black Widow,3526,40180,1032,Oil,Oil Black Widow,40180,40180,2/7/2019 14:27
+4258,Oil - Filtration,2/8/2019 15:04,1032,Oil,Oil Black Widow,40180,41043.5,1032,Oil,Oil Black Widow,41043.5,41043.5,2/8/2019 15:05
+4261,Oil - Filtration,2/11/2019 13:56,1032,Oil,Oil Black Widow,41043.5,38097,1032,Oil,Oil Black Widow,38097,38097,2/11/2019 13:56
+3136,Oil - Rotary Evaporation,6/8/2018 15:23,692(1),Oil,Oil Black Widow,19769,2263.5,692(1),Oil,Oil Black Widow,2263.5,2263.5,6/8/2018 15:23
+4263,Oil - PreDilution,2/11/2019 15:18,1032,Oil,Oil Black Widow,3207.2,14825.5,1032,Oil,Oil Black Widow,14825.5,14825.5,2/11/2019 15:19
+4265,Oil - Dilution,2/12/2019 12:06,920,Oil,Oil Black Widow,13844,64999,920-1,Oil,Oil Black Widow,64999,64999,2/12/2019 12:12
+4269,Inventory Adjust - Pkg Run Variance,2/14/2019 11:31,920-1,Oil,Oil Black Widow,2042.49,2042.49,920-1,Oil,Oil Black Widow,2042.49,2042.49,2/14/2019 11:37
+4271,Inventory Adjust - Pkg Run Variance,2/14/2019 12:24,920-1,Oil,Oil Black Widow,2042.49,64438.5,920-1,Oil,Oil Black Widow,64438.5,64438.5,2/14/2019 12:25
+4273,Oil - Dilution,2/14/2019 14:43,920-1,Oil,Oil Black Widow,64438.5,2280,920-1,Oil,Oil Black Widow,2280,2280,2/14/2019 14:44
+4137,Oil - Milling,1/21/2019 13:23,1020,Dried,Oil High CBD,13957.5,13926.5,1020,Dried,Oil High CBD,13926.5,13926.5,1/21/2019 13:24
+4143,Oil - Milling,1/22/2019 13:03,1021,Dried,Oil High CBD,14531.5,14524.5,1021,Dried,Oil High CBD,14524.5,14524.5,1/22/2019 13:04
+4164,Oil - Transfer to Extraction Department,1/22/2019 13:02,1021,Dried,Oil High CBD,14524.5,14531.5,1021,Dried,Oil High CBD,14531.5,14531.5,1/22/2019 13:03
+4151,Oil - Transfer to Extraction Department,1/21/2019 13:12,1020,Dried,Oil High CBD,13983.7,13957.5,1020,Dried,Oil High CBD,13957.5,13957.5,1/21/2019 13:14
+4165,Oil - Milling,1/22/2019 13:27,1022,Dried,Oil High CBD,14000,13904.5,1022,Dried,Oil High CBD,13904.5,13904.5,1/22/2019 13:29
+4167,Oil - Transfer to Extraction Department,1/22/2019 13:27,1022,Dried,Oil High CBD,14000,14000,1022,Dried,Oil High CBD,14000,14000,1/22/2019 13:27
+4174,Oil - Decarboxylation,1/22/2019 16:43,1020,Dried,Oil High CBD,13926.5,12117,1020,Dried,Oil High CBD,12117,12117,1/22/2019 16:43
+4180,Oil - Decarboxylation,1/23/2019 15:23,1021,Dried,Oil High CBD,14524.5,12673.5,1021,Dried,Oil High CBD,12673.5,12673.5,1/23/2019 15:24
+4195,Oil - Decarboxylation,1/24/2019 15:47,1022,Dried,Oil High CBD,13904.5,12187.5,1022,Dried,Oil High CBD,12187.5,12187.5,1/24/2019 15:48
+4198,Oil - Extraction,1/25/2019 15:57,1020,Dried,Oil High CBD,12117,2444.5,1020,Dried,Oil High CBD,2444.5,2444.5,1/25/2019 15:58
+4199,Oil - Winterization,1/25/2019 16:01,1020,Oil,Oil High CBD,2444.5,27974.5,1020,Oil,Oil High CBD,27974.5,27974.5,1/25/2019 16:01
+4201,Oil - Winterization/Filtration,1/28/2019 16:21,1020,Oil,Oil High CBD,27974.5,29890.5,1020,Oil,Oil High CBD,29890.5,29890.5,1/28/2019 16:21
+4206,Oil - Winterization/Filtration,1/29/2019 12:02,1020,Oil,Oil High CBD,29890.5,29732.5,1020,Oil,Oil High CBD,29732.5,29732.5,1/29/2019 12:03
+4208,Oil - Rotary Evaporation,1/29/2019 15:00,1020,Oil,Oil High CBD,29732.5,2020.8,1020,Oil,Oil High CBD,2020.8,2020.8,1/29/2019 15:01
+4234,Oil - Winterization,2/4/2019 15:04,1022,Oil,Oil High CBD,1596.5,23362.5,1022,Oil,Oil High CBD,23362.5,23362.5,2/4/2019 15:05
+4210,Oil - PreDilution,1/29/2019 16:18,1020,Oil,Oil High CBD,2020.8,13214,1020,Oil,Oil High CBD,13214,13214,1/29/2019 16:19
+4225,Oil - Extraction,2/4/2019 10:43,1022,Dried,Oil High CBD,12187.5,1596.5,1022,Dried,Oil High CBD,1596.5,1596.5,2/4/2019 10:44
+4211,Oil - Extraction,1/30/2019 10:08,1021,Dried,Oil High CBD,12673.5,1865,1021,Dried,Oil High CBD,1865,1865,1/30/2019 10:09
+4212,Oil - Winterization,1/30/2019 10:25,1021,Dried,Oil High CBD,1865,25595,1021,Dried,Oil High CBD,25595,25595,1/30/2019 10:25
+4226,Oil - Dilution,2/4/2019 11:19,1020,Oil,Oil High CBD,10317.5,51985,CBD-1020-1,Oil,Oil High CBD,51985,51985,2/4/2019 11:22
+4215,Oil - Filtration,1/31/2019 8:56,1021,Dried,Oil High CBD,25595,28728.5,1021,Dried,Oil High CBD,28728.5,28728.5,1/31/2019 8:57
+4216,Oil - Filtration,1/31/2019 12:45,1021,Dried,Oil High CBD,28728.5,29273,1021,Dried,Oil High CBD,29273,29273,1/31/2019 12:45
+4235,Oil - Winterization/Filtration,2/4/2019 15:07,1022,Oil,Oil High CBD,23362.5,26084,1022,Oil,Oil High CBD,26084,26084,2/4/2019 15:08
+4219,Oil - Rotary Evaporation,1/31/2019 15:27,1021,Oil,Oil High CBD,29273,2345.5,1021,Oil,Oil High CBD,2345.5,2345.5,1/31/2019 15:28
+4220,Oil - PreDilution,1/31/2019 16:02,1021,Oil,Oil High CBD,2345.5,13655.5,1021,Oil,Oil High CBD,13655.5,13655.5,1/31/2019 16:03
+4242,Oil - Rotary Evaporation,2/5/2019 16:12,1022,Oil,Oil High CBD,24289,2066.5,1022,Oil,Oil High CBD,2066.5,2066.5,2/5/2019 16:13
+4239,Oil - Filtration,2/5/2019 13:43,1022,Oil,Oil High CBD,26084,24289,1022,Oil,Oil High CBD,24289,24289,2/5/2019 13:44
+4243,Oil - PreDilution,2/5/2019 16:13,1022,Oil,Oil High CBD,2066.5,12050,1022,Oil,Oil High CBD,12050,12050,2/5/2019 16:14
+4250,Inventory Adjust - Pkg Run Variance,2/7/2019 13:36,CBD-1020-1,Oil,Oil High CBD,51985,53559.4,CBD-1020-1,Oil,Oil High CBD,53559.4,53559.4,2/7/2019 13:38
+4254,Oil - Dilution,2/7/2019 15:54,1021,Oil,Oil High CBD,4178.5,22900,1021-1,Oil,Oil High CBD,22900,22900,2/7/2019 15:55
+4257,Inventory Adjust - Pkg Run Variance,2/8/2019 13:45,1021-1,Oil,Oil High CBD,22900,23235.25,1021-1,Oil,Oil High CBD,23235.25,23235.25,2/8/2019 13:47
+4259,Dispose - Process Waste,2/11/2019 9:37,1021-1,Oil,Oil High CBD,136,57,1021-1,Oil,Oil High CBD,57,57,2/11/2019 9:38
+852,Oil - Milling,12/9/2017 12:20,264,Oil,Oil Hybrid Blend,5250.5,5205.5,264,Oil,Oil Hybrid Blend,5205.5,5205.5,12/9/2017 12:21
+952,Oil - Milling,12/9/2017 12:26,331,Oil,Oil Hybrid Blend,11498.5,11274.5,331,Oil,Oil Hybrid Blend,11274.5,11274.5,12/9/2017 12:29
+1306,Oil - Milling,12/9/2017 12:23,370,Oil,Oil Hybrid Blend,9691,9609,370,Oil,Oil Hybrid Blend,9609,9609,12/9/2017 12:24
+1404,Sample - Other,12/11/2017 15:52,331,Oil,Oil Hybrid Blend,105.5,0,,,,,0,12/11/2017 15:53
+1401,Sample - HPLC,12/11/2017 15:41,331,Oil,Oil Hybrid Blend,11.5,0,,,,,0,12/11/2017 15:42
+1402,Sample - HPLC,12/11/2017 15:42,370,Oil,Oil Hybrid Blend,6.5,0,,,,,0,12/11/2017 15:42
+1405,Sample - Other,12/11/2017 15:54,264,Oil,Oil Hybrid Blend,91,0,,,,,0,12/11/2017 15:55
+1406,Sample - Other,12/11/2017 15:56,370,Oil,Oil Hybrid Blend,95.5,0,,,,,0,12/11/2017 15:57
+1407,Oil - Decarboxylation,12/11/2017 16:28,264,Oil,Oil Hybrid Blend,5114.5,4511.5,264,Oil,Oil Hybrid Blend,4511.5,4511.5,12/11/2017 16:29
+1452,Oil - Decarboxylation,12/14/2017 16:14,331,Oil,Oil Hybrid Blend,11108,9730.5,331,Oil,Oil Hybrid Blend,9730.5,9730.5,12/14/2017 16:21
+1419,Sample - QA Release,12/12/2017 12:31,331,Oil,Oil Hybrid Blend,49.5,49.5,331,Oil,Oil Hybrid Blend,49.5,49.5,12/12/2017 12:38
+1420,Sample - QA Release,12/12/2017 12:39,264,Oil,Oil Hybrid Blend,44.5,44.5,264,Oil,Oil Hybrid Blend,44.5,44.5,12/12/2017 12:40
+1422,Sample - QA Release,12/12/2017 12:42,370,Oil,Oil Hybrid Blend,45,45,370,Oil,Oil Hybrid Blend,45,45,12/12/2017 12:43
+1437,Oil - Decarboxylation,12/13/2017 17:07,370,Oil,Oil Hybrid Blend,9462,8337,370,Oil,Oil Hybrid Blend,8337,8337,12/13/2017 17:14
+1431,Oil - Extraction,12/13/2017 16:30,264,Oil,Oil Hybrid Blend,4511.5,757,264(1),Oil,Oil Hybrid Blend,757,757,12/13/2017 16:37
+1493,Oil - Extraction,12/16/2017 9:52,370,Oil,Oil Hybrid Blend,8337,1281.5,370(1),Oil,Oil Hybrid Blend,1281.5,1281.5,12/16/2017 9:55
+1576,Oil - Extraction,12/21/2017 16:30,331,Oil,Oil Hybrid Blend,9730.5,1761,331(1),Oil,Oil Hybrid Blend,1761,1761,12/21/2017 16:33
+2040,Oil - Decarboxylation,2/2/2018 15:18,549,Oil,Oil Hybrid Blend,6167,5510,549,Oil,Oil Hybrid Blend,5510,5510,2/2/2018 15:19
+2416,Transfer to Totes,3/9/2018 16:05,549,Oil,Oil Hybrid Blend,5510,5287,549,Oil,Oil Hybrid Blend,5287,5287,3/9/2018 16:06
+2481,Sample - Other,3/16/2018 15:32,549,Oil,Oil Hybrid Blend,67,0,,,,,0,3/16/2018 15:33
+2466,Oil - Winterization,3/16/2018 11:20,331(1),Oil,Oil Hybrid Blend,1761,10080,331(1),Oil,Oil Hybrid Blend,10080,10080,3/16/2018 11:21
+2467,Oil - Winterization,3/16/2018 12:56,370(1),Oil,Oil Hybrid Blend,1281.5,5999,370(1),Oil,Oil Hybrid Blend,5999,5999,3/16/2018 12:56
+2469,Oil - Winterization,3/16/2018 13:27,264(1),Oil,Oil Hybrid Blend,757,3458.5,264(1),Oil,Oil Hybrid Blend,3458.5,3458.5,3/16/2018 13:27
+2559,Oil - Winterization/Filtration,3/22/2018 9:56,370(1),Oil,Oil Hybrid Blend,5999,13158,370(1),Oil,Oil Hybrid Blend,13158,13158,3/22/2018 9:57
+2545,Oil - Winterization/Filtration,3/20/2018 11:25,264(1),Oil,Oil Hybrid Blend,3458.5,16621,264(1),Oil,Oil Hybrid Blend,16621,16621,3/20/2018 11:26
+2549,Sample - Other,3/20/2018 15:03,549,Oil,Oil Hybrid Blend,0,0,,,,,0,3/20/2018 15:04
+2555,Oil - Winterization/Filtration,3/21/2018 11:10,331(1),Oil,Oil Hybrid Blend,10080,21905,331(1),Oil,Oil Hybrid Blend,21905,21905,3/21/2018 11:11
+2560,Oil - Rotary Evaporation,3/22/2018 12:43,370(1),Oil,Oil Hybrid Blend,13158,1237.5,370(1),Oil,Oil Hybrid Blend,1237.5,1237.5,3/22/2018 12:44
+2550,Oil - Rotary Evaporation,3/20/2018 16:06,264(1),Oil,Oil Hybrid Blend,16621,727.5,264(1),Oil,Oil Hybrid Blend,727.5,727.5,3/20/2018 16:08
+2552,Oil - PreDilution,3/20/2018 16:33,264(1),Oil,Oil Hybrid Blend,727.5,3717.5,264(1),Oil,Oil Hybrid Blend,3717.5,3717.5,3/20/2018 16:34
+2557,Oil - Rotary Evaporation,3/21/2018 13:10,331(1),Oil,Oil Hybrid Blend,21905,1696,331(1),Oil,Oil Hybrid Blend,1696,1696,3/21/2018 13:12
+2561,Oil - PreDilution,3/22/2018 14:01,370(1),Oil,Oil Hybrid Blend,1237.5,6141,370(1),Oil,Oil Hybrid Blend,6141,6141,3/22/2018 14:02
+2558,Oil - PreDilution,3/21/2018 13:47,331(1),Oil,Oil Hybrid Blend,1696,8315.5,331(1),Oil,Oil Hybrid Blend,8315.5,8315.5,3/21/2018 13:48
+2606,Allocate for Final Packaging,3/29/2018 13:49,549,Oil,Oil Hybrid Blend,5149.8,5149.8,549,Oil,Oil Hybrid Blend,5149.8,5149.8,3/29/2018 13:49
+2641,Inventory Adjust - Pkg Run Variance,4/5/2018 11:09,549,Dried,Oil Hybrid Blend,3170.33,3187.2,549,Dried,Oil Hybrid Blend,3187.2,3187.2,4/5/2018 11:10
+2721,Retain Sample,4/18/2018 16:02,549,Dried,Oil Hybrid Blend,3187.199,3063.8,549,Dried,Oil Hybrid Blend,3063.8,3063.8,4/18/2018 16:06
+2783,Oil - Milling,2/2/2018 12:28,549,Oil,Oil Hybrid Blend,6185.5,6167,549,Oil,Oil Hybrid Blend,6167,6167,2/2/2018 12:30
+2939,Dispose - Process Waste,5/11/2018 14:40,370(1),Oil,Oil Hybrid Blend,27,0,,,,,0,5/11/2018 14:41
+2913,Oil - Dilution,5/9/2018 15:08,331(1),Oil,Oil Hybrid Blend,6614.5,47448,331(1)-1,Oil,Oil Hybrid Blend,47448,47448,5/9/2018 15:12
+2934,Process - Lot Merge,5/11/2018 11:42,331(1),Oil,Oil Hybrid Blend,1701,1701,370(1),Oil,Oil Hybrid Blend,1701,1701,5/11/2018 12:10
+2938,Oil - Dilution,5/11/2018 14:34,370(1),Oil,Oil Hybrid Blend,6800,47451,370(1)-1,Oil,Oil Hybrid Blend,47451,47451,5/11/2018 14:38
+2944,Allocate for Final Packaging,5/11/2018 16:43,549,Dried,Oil Hybrid Blend,3063.8,3063.8,549,Dried,Oil Hybrid Blend,3063.8,3063.8,5/11/2018 16:44
+3036,Sample - QA Release,5/28/2018 12:19,331(1)-1,Oil,Oil Hybrid Blend,71.5,0,,,,,0,5/28/2018 12:20
+3043,Sample - QA Release,5/28/2018 16:07,331(1)-1,Oil,Oil Hybrid Blend,47376.5,47376.5,331(1)-1,Oil,Oil Hybrid Blend,47376.5,47376.5,5/28/2018 16:34
+3044,Inventory Adjust - Correct Entry Error,5/28/2018 16:36,331(1)-1,Oil,Oil Hybrid Blend,47319.5,47376.5,331(1)-1,Oil,Oil Hybrid Blend,47376.5,47376.5,5/28/2018 16:37
+3130,Allocate for Final Packaging,6/8/2018 13:31,331(1)-1,Oil,Oil Hybrid Blend,47376.5,47376.5,331(1)-1,Oil,Oil Hybrid Blend,47376.5,47376.5,6/8/2018 13:32
+3197,Allocate for Bulk Sale,6/18/2018 15:12,331(1)-1,Oil,Oil Hybrid Blend,47376.5,23546,331(1)-1,Oil,Oil Hybrid Blend,23546,23546,6/18/2018 15:13
+3387,Sample - QA Release,7/23/2018 12:12,370(1)-1,Oil,Oil Hybrid Blend,57,57,370(1)-1,Oil,Oil Hybrid Blend,57,57,7/23/2018 12:12
+3393,Process - Lot Merge,7/24/2018 13:20,331(1)-1,Oil,Oil Hybrid Blend,33316,33316,544(1),Oil,Oil Sativa Blend,33316,33316,7/24/2018 13:21
+3225,Inventory Adjust - Correct Entry Error,6/25/2018 15:10,370(1)-1,Oil,Oil Hybrid Blend,47451,47381,370(1)-1,Oil,Oil Hybrid Blend,47381,47381,8/1/2018 15:10
+3447,Oil - Decarboxylation,8/3/2018 14:59,784,Oil,Oil Hybrid Blend,11950.5,10513.5,784,Oil,Oil Hybrid Blend,10513.5,10513.5,8/3/2018 15:01
+3471,Oil - Extraction,8/8/2018 16:45,784,Oil,Oil Hybrid Blend,10513.5,1836,784(1),Oil,Oil Hybrid Blend,1836,1836,8/8/2018 16:47
+3472,Oil - Winterization/Filtration,8/8/2018 17:00,784(1),Oil,Oil Hybrid Blend,1836,11764.5,784(1),Oil,Oil Hybrid Blend,11764.5,11764.5,8/8/2018 17:02
+3483,Oil - Rotary Evaporation,8/10/2018 14:54,784(1),Oil,Oil Hybrid Blend,11764.5,1807,784(1),Oil,Oil Hybrid Blend,1807,1807,8/10/2018 14:56
+3484,Oil - PreDilution,8/10/2018 15:32,784(1),Oil,Oil Hybrid Blend,1807,5638,784(1),Oil,Oil Hybrid Blend,5638,5638,8/10/2018 15:34
+3555,Oil - Milling,7/26/2018 12:35,784,Oil,Oil Hybrid Blend,12187,11950.5,784,Oil,Oil Hybrid Blend,11950.5,11950.5,7/26/2018 12:36
+3644,Oil - Milling,10/30/2018 11:43,854,Oil,Oil Hybrid Blend,13462.22,12831.5,854,Oil,Oil Hybrid Blend,12831.5,12831.5,10/30/2018 11:45
+3682,Inventory Adjust - Pkg Run Variance,10/3/2018 15:50,867-1,Oil,Oil Hybrid Blend,57457,59383.5,867-1,Oil,Oil Hybrid Blend,59383.5,59383.5,10/3/2018 15:50
+3680,Oil - Dilution,10/3/2018 15:35,867,Oil,Oil Hybrid Blend,10334.5,57457,867-1,Oil,Oil Hybrid Blend,57457,57457,10/3/2018 15:38
+3685,Dispose - Spillage,10/3/2018 15:57,867-1,Oil,Oil Hybrid Blend,246,57,867-1,Oil,Oil Hybrid Blend,57,57,10/3/2018 15:58
+3700,Oil - Dilution,10/5/2018 15:27,874,Oil,Oil Hybrid Blend,9757,53048,874,Oil,Oil Hybrid Blend,53048,53048,10/5/2018 15:28
+3719,Process - Lot Merge,10/10/2018 13:39,370(1),Oil,Oil Hybrid Blend,9488,9488,886,Oil,Oil 1:1 (THC:CBD),9488,9488,10/10/2018 13:40
+3719,Process - Lot Merge,10/10/2018 13:39,264(1),Oil,Oil Hybrid Blend,9488,9488,886,Oil,Oil 1:1 (THC:CBD),9488,9488,10/10/2018 13:40
+3725,Inventory Adjust - Pkg Run Variance,10/11/2018 14:23,874,Oil,Oil Hybrid Blend,53048,53658.5,874,Oil,Oil Hybrid Blend,53658.5,53658.5,10/11/2018 14:24
+3726,Dispose - Spillage,10/11/2018 14:31,874,Oil,Oil Hybrid Blend,249.5,57,874,Oil,Oil Hybrid Blend,57,57,10/11/2018 14:31
+3803,Oil - Decarboxylation,10/30/2018 11:47,854,Oil,Oil Hybrid Blend,12831.5,11301.5,854,Oil,Oil Hybrid Blend,11301.5,11301.5,10/31/2018 11:51
+3830,Oil - Dilution,11/2/2018 16:45,909-2,Oil,Oil Hybrid Blend,6700,52039,909-2,Oil,Oil Hybrid Blend,52039,52039,11/2/2018 16:46
+3826,Oil - Dilution,11/2/2018 14:36,909-1,Oil,Oil Hybrid Blend,5774.5,52089,909-1,Oil,Oil Hybrid Blend,52089,52089,11/2/2018 14:37
+3843,Inventory Adjust - Pkg Run Variance,11/7/2018 15:31,909-1,Oil,Oil Hybrid Blend,52088.9,53106,909-1,Oil,Oil Hybrid Blend,53106,53106,11/7/2018 15:35
+3844,Dispose - Process Waste,11/7/2018 15:38,909-1,Oil,Oil Hybrid Blend,53106,182,909-1,Oil,Oil Hybrid Blend,182,182,11/7/2018 15:39
+3845,Dispose - Process Waste,11/7/2018 15:43,909-1,Oil,Oil Hybrid Blend,182,57,909-1,Oil,Oil Hybrid Blend,57,57,11/7/2018 15:45
+3846,Inventory Adjust - Correct Entry Error,11/7/2018 15:56,909-1,Oil,Oil Hybrid Blend,57,53106,909-1,Oil,Oil Hybrid Blend,53106,53106,11/7/2018 15:57
+3847,Dispose - Process Waste,11/7/2018 16:06,909-1,Oil,Oil Hybrid Blend,238.5,57,909-1,Oil,Oil Hybrid Blend,57,57,11/7/2018 16:10
+3870,Oil - Decarboxylation,11/13/2018 16:49,931,Dried,Oil Hybrid Blend,12012.5,12012.5,931,Dried,Oil Hybrid Blend,12012.5,12012.5,11/13/2018 16:50
+3850,Inventory Adjust - Pkg Run Variance,11/8/2018 14:10,909-2,Oil,Oil Hybrid Blend,52038.9,52725,909-2,Oil,Oil Hybrid Blend,52725,52725,11/8/2018 14:14
+3891,Process - Lot Merge,11/20/2018 13:05,784(1),Oil,Oil Hybrid Blend,23831.5,24517,937,Oil,Oil Hybrid Blend,24517,24517,11/20/2018 13:06
+3891,Process - Lot Merge,11/20/2018 13:05,854,Oil,Oil Hybrid Blend,23831.5,24517,937,Oil,Oil Hybrid Blend,24517,24517,11/20/2018 13:06
+3858,Oil - Extraction,11/12/2018 8:45,854,Oil,Oil Hybrid Blend,11301.5,1672.5,854,Oil,Oil Hybrid Blend,1672.5,1672.5,11/12/2018 8:46
+3859,Oil - Winterization,11/12/2018 8:55,854,Oil,Oil Hybrid Blend,1672.5,19487,854,Oil,Oil Hybrid Blend,19487,19487,11/12/2018 8:55
+3860,Oil - Filtration,11/12/2018 8:57,854,Oil,Oil Hybrid Blend,19487,20789,854,Oil,Oil Hybrid Blend,20789,20789,11/12/2018 8:58
+3861,Oil - Filtration,11/12/2018 11:49,854,Oil,Oil Hybrid Blend,20789,21752,854,Oil,Oil Hybrid Blend,21752,21752,11/12/2018 11:50
+3862,Oil - Rotary Evaporation,11/12/2018 13:28,854,Oil,Oil Hybrid Blend,21752,1601,854,Oil,Oil Hybrid Blend,1601,1601,11/12/2018 13:29
+3865,Oil - PreDilution,11/12/2018 15:08,854,Oil,Oil Hybrid Blend,1601,10859,854,Oil,Oil Hybrid Blend,10859,10859,11/12/2018 15:10
+3868,Oil - Transfer to Extraction Department,11/13/2018 15:19,931,Dried,Oil Hybrid Blend,13996.67,12176.81,931,Dried,Oil Hybrid Blend,12176.81,12176.81,11/13/2018 15:20
+3869,Oil - Milling,11/13/2018 16:25,931,Dried,Oil Hybrid Blend,12176.81,12012.5,931,Dried,Oil Hybrid Blend,12012.5,12012.5,11/13/2018 16:27
+3887,Inventory Adjust - Pkg Run Variance,11/19/2018 15:07,854-1,Oil,Oil Hybrid Blend,51941,53751,854-1,Oil,Oil Hybrid Blend,53751,53751,11/19/2018 15:09
+3888,Dispose - Process Waste,11/19/2018 15:32,854-1,Oil,Oil Hybrid Blend,57,57,854-1,Oil,Oil Hybrid Blend,57,57,11/19/2018 15:36
+3884,Oil - Dilution,11/16/2018 14:53,854,Oil,Oil Hybrid Blend,10431,51941,854-1,Oil,Oil Hybrid Blend,51941,51941,11/16/2018 14:57
+3900,Inventory Adjust - Pkg Run Variance,11/21/2018 15:26,937-1,Oil,Oil Hybrid Blend,51946,52028,937-1,Oil,Oil Hybrid Blend,52028,52028,11/21/2018 15:27
+3894,Oil - Dilution,11/20/2018 16:42,937,Oil,Oil Hybrid Blend,6592.25,51946,937-1,Oil,Oil Hybrid Blend,51946,51946,11/20/2018 16:44
+3895,Oil - Dilution,11/20/2018 17:05,937,Oil,Oil Hybrid Blend,6592.25,51863,937-2,Oil,Oil Hybrid Blend,51863,51863,11/20/2018 17:11
+3898,Oil - Mixing to Specific THC:CBD Ratio,11/21/2018 13:34,909,Oil,Oil Hybrid Blend,16847.5,16837,936,Oil,Oil 1:1 (THC:CBD),16837,16837,11/21/2018 13:35
+3906,Dispose - Process Waste,11/23/2018 15:00,937-2,Oil,Oil Hybrid Blend,221,0,,,,,0,11/23/2018 15:01
+3923,Dispose - Process Waste,11/29/2018 12:22,931,Dried,Oil Hybrid Blend,12012.5,57,691(1)-1,Oil,Oil Alien Dawg (APH),57,57,11/29/2018 12:23
+3924,Oil - Dilution,11/29/2018 15:50,937,Oil,Oil Hybrid Blend,6386.5,51964,937-3,Oil,Oil Hybrid Blend,51964,51964,11/29/2018 15:54
+3927,Dispose - Process Waste,11/29/2018 16:31,937-1,Oil,Oil Hybrid Blend,186.5,0,,,,,0,11/29/2018 16:32
+3959,Oil - Extraction,12/4/2018 17:10,931,Dried,Oil Hybrid Blend,10715,1243,931,Dried,Oil Hybrid Blend,1243,1243,12/4/2018 17:11
+3951,Inventory Adjust - Pkg Run Variance,12/4/2018 9:39,937-3,Oil,Oil Hybrid Blend,51964,53569.5,937-3,Oil,Oil Hybrid Blend,53569.5,53569.5,12/4/2018 9:42
+3952,Allocate for Bulk Sale,12/4/2018 9:58,937-3,Oil,Oil Hybrid Blend,117.75,57,937-3,Oil,Oil Hybrid Blend,57,57,12/4/2018 9:59
+3967,Oil - Winterization,12/8/2018 9:16,931,Oil,Oil Hybrid Blend,1243,19326.5,931,Oil,Oil Hybrid Blend,19326.5,19326.5,12/8/2018 9:20
+3968,Oil - Winterization/Filtration,12/8/2018 9:21,931,Oil,Oil Hybrid Blend,19326.5,20647.5,931,Oil,Oil Hybrid Blend,20647.5,20647.5,12/8/2018 9:22
+3969,Oil - Winterization/Filtration,12/8/2018 9:23,931,Oil,Oil Hybrid Blend,20647.5,21964,931,Oil,Oil Hybrid Blend,21964,21964,12/8/2018 9:23
+3990,Oil - Milling,12/11/2018 10:57,974,Dried,Oil Hybrid Blend,11189.5,11389,974,Dried,Oil Hybrid Blend,11389,11389,12/11/2018 10:58
+3974,Oil - Rotary Evaporation,12/10/2018 12:49,931,Oil,Oil Hybrid Blend,21964,1344.9,931,Oil,Oil Hybrid Blend,1344.9,1344.9,12/10/2018 12:50
+3975,Oil - PreDilution,12/10/2018 12:51,931,Oil,Oil Hybrid Blend,1344.9,9391,931,Oil,Oil Hybrid Blend,9391,9391,12/10/2018 13:08
+3977,Oil - Transfer to Extraction Department,12/11/2018 9:34,974,Dried,Oil Hybrid Blend,11964.6,11189.5,974,Dried,Oil Hybrid Blend,11189.5,11189.5,12/11/2018 9:35
+3982,Oil - Decarboxylation,12/12/2018 8:39,974,Dried,Oil Hybrid Blend,11389,10078.5,974,Dried,Oil Hybrid Blend,10078.5,10078.5,12/12/2018 8:40
+4140,Oil - Decarboxylation,1/18/2019 16:51,1023,Dried,Oil Hybrid Blend,11852.1,10700,1023,Dried,Oil Hybrid Blend,10700,10700,1/18/2019 16:52
+4073,Sample - Other,1/9/2019 8:39,937,Oil,Oil Hybrid Blend,100.5,0,,,,,0,1/9/2019 8:40
+4096,Dispose - Process Waste,1/14/2019 11:53,370(1)-1,Oil,Oil Hybrid Blend,1496,0,,,,,0,1/14/2019 11:53
+4126,Oil - Decarboxylation,1/17/2019 16:14,1018,Dried,Oil Hybrid Blend,17806,15386.5,1018,Dried,Oil Hybrid Blend,15386.5,15386.5,1/18/2019 14:07
+4115,Oil - Transfer to Extraction Department,1/17/2019 8:36,1018,Dried,Oil Hybrid Blend,18514.5,18372.5,1018,Dried,Oil Hybrid Blend,18372.5,18372.5,1/17/2019 8:36
+4116,Oil - Milling,1/16/2019 13:04,1016,Dried,Oil Hybrid Blend,17906.5,17708,1016,Dried,Oil Hybrid Blend,17708,17708,1/16/2019 13:04
+4109,Oil - Transfer to Extraction Department,1/16/2019 13:02,1016,Dried,Oil Hybrid Blend,18223.13,17906.5,1016,Dried,Oil Hybrid Blend,17906.5,17906.5,1/16/2019 13:03
+4110,Oil - Milling,1/17/2019 8:37,1018,Dried,Oil Hybrid Blend,18372.5,17806,1018,Dried,Oil Hybrid Blend,17806,17806,1/17/2019 8:38
+4117,Oil - Decarboxylation,1/17/2019 11:04,1016,Dried,Oil Hybrid Blend,17708,15816.5,1016,Dried,Oil Hybrid Blend,15816.5,15816.5,1/17/2019 11:04
+4122,Process - Lot Split,1/17/2019 15:44,931,Oil,Oil Hybrid Blend,52,52,1024,Oil,R&D Oil Research Blends,52,52,1/17/2019 15:45
+4119,Oil - Transfer to Extraction Department,1/17/2019 11:37,1019,Dried,Oil Hybrid Blend,18418.82,17937.5,1019,Dried,Oil Hybrid Blend,17937.5,17937.5,1/17/2019 11:38
+4127,Allocate for Bulk Sale,1/17/2019 16:15,1023,Dried,Oil Hybrid Blend,11904.5,11868,1023,Dried,Oil Hybrid Blend,11868,11868,1/17/2019 16:16
+4120,Oil - Milling,1/17/2019 11:38,1019,Dried,Oil Hybrid Blend,17937.5,17875.5,1019,Dried,Oil Hybrid Blend,17875.5,17875.5,1/17/2019 11:39
+4125,Oil - Transfer to Extraction Department,1/17/2019 16:13,1023,Dried,Oil Hybrid Blend,11968,11904.5,1023,Dried,Oil Hybrid Blend,11904.5,11904.5,1/17/2019 16:15
+4129,Process - Lot Split,1/17/2019 16:35,1023,Dried,Oil Hybrid Blend,15.9,15.9,1025,Dried,R&D Oil Research Blends,15.9,15.9,1/17/2019 16:35
+4134,Allocate for Extraction,1/18/2019 13:49,1026,Dried,Oil Hybrid Blend,18128.6,18128.6,1028,Dried,Oil Sour Kush,18128.6,18128.6,1/18/2019 13:50
+4135,Oil - Decarboxylation,1/18/2019 14:02,1019,Dried,Oil Hybrid Blend,17875.5,15985.5,1019,Dried,Oil Hybrid Blend,15985.5,15985.5,1/18/2019 14:03
+4138,Lot Transfer - Partial,1/18/2019 14:17,1019,Dried,Oil Hybrid Blend,6612,6612,1030,Dried,Oil Hybrid Blend,6612,6612,1/18/2019 14:24
+4139,Process - Transfer to Bulk,1/18/2019 14:46,1030,Dried,Oil Hybrid Blend,6612,6613.8,1030,Dried,Oil Hybrid Blend,6613.8,6613.8,1/18/2019 15:07
+4233,Oil - Decarboxylation,2/4/2019 14:27,1057,Dried,Oil Hybrid Blend,13278,11377,1057,Dried,Oil Hybrid Blend,11377,11377,2/4/2019 14:28
+4222,Oil - Dilution,2/1/2019 14:07,1047,Oil,Oil Hybrid Blend,8701,43990,HB-1047-1,Oil,Oil Hybrid Blend,43990,43990,2/1/2019 14:10
+4204,Oil - Transfer to Extraction Department,1/29/2019 11:42,1043,Dried,Oil Hybrid Blend,12073.9,11643,1043,Dried,Oil Hybrid Blend,11643,11643,1/29/2019 11:43
+4205,Oil - Milling,1/29/2019 11:43,1043,Dried,Oil Hybrid Blend,11643,11629,1043,Dried,Oil Hybrid Blend,11629,11629,1/29/2019 11:44
+4214,Oil - Decarboxylation,1/30/2019 14:35,1043,Dried,Oil Hybrid Blend,11629,10301.5,1043,Dried,Oil Hybrid Blend,10301.5,10301.5,1/30/2019 14:35
+4227,Oil - Transfer to Extraction Department,2/4/2019 11:30,1057,Dried,Oil Hybrid Blend,13381.4,13363,1057,Dried,Oil Hybrid Blend,13363,13363,2/4/2019 11:30
+4218,Oil - PreDilution,1/31/2019 13:19,909,Oil,Oil Hybrid Blend,8701,8701,1047,Oil,Oil Hybrid Blend,8701,8701,1/31/2019 13:20
+4228,Oil - Final Package (Capsules),2/4/2019 11:31,1057,Dried,Oil Hybrid Blend,13363,13278,1057,Dried,Oil Hybrid Blend,13278,13278,2/4/2019 11:31
+4238,Dispose - Process Waste,2/5/2019 13:31,HB-1047-1,Oil,Oil Hybrid Blend,470.5,57,HB-1047-1,Oil,Oil Hybrid Blend,57,57,2/5/2019 13:33
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,478,Oil,Oil Indica Blend,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+2016,Sample - Other,1/31/2018 16:34,550,Oil,Oil Indica Blend,132.5,0,,,,,0,1/31/2018 16:34
+2017,Oil - Decarboxylation,1/31/2018 17:30,550,Oil,Oil Indica Blend,8407,7404.5,550,Oil,Oil Indica Blend,7404.5,7404.5,1/31/2018 17:31
+2043,Oil - Milling,11/2/2018 12:16,478,Dried,Oil Indica Blend,4026,3997.5,478,Dried,Oil Indica Blend,3997.5,3997.5,11/2/2018 12:21
+2417,Transfer to Totes,3/9/2018 16:07,550,Oil,Oil Indica Blend,7404.5,7414,550,Oil,Oil Indica Blend,7414,7414,3/9/2018 16:08
+2480,Sample - Other,3/16/2018 15:27,550,Oil,Oil Indica Blend,67.5,0,,,,,0,3/16/2018 15:28
+2548,Sample - Other,3/20/2018 15:00,550,Oil,Oil Indica Blend,0,0,,,,,0,3/20/2018 15:01
+2608,Allocate for Final Packaging,3/29/2018 15:46,550,Dried,Oil Indica Blend,7277.2,7277.2,550,Dried,Oil Indica Blend,7277.2,7277.2,3/29/2018 15:48
+2620,Inventory Adjust - Pkg Run Variance,4/4/2018 16:08,550,Dried,Oil Indica Blend,5240.47,5257.2,550,Dried,Oil Indica Blend,5257.2,5257.2,4/4/2018 16:10
+2722,Retain Sample,4/18/2018 16:08,550,Dried,Oil Indica Blend,5257.2,5257.2,550,Dried,Oil Indica Blend,5257.2,5257.2,4/18/2018 16:12
+2813,Oil - Milling,1/31/2018 16:21,550,Oil,Oil Indica Blend,8519.5,8539.5,550,Oil,Oil Indica Blend,8539.5,8539.5,1/31/2018 16:29
+2945,Allocate for Final Packaging,5/11/2018 16:45,550,Dried,Oil Indica Blend,5257.2,5257.2,550,Dried,Oil Indica Blend,5257.2,5257.2,5/11/2018 16:45
+3828,Oil - Decarboxylation,11/2/2018 15:40,478,Dried,Oil Indica Blend,3997.5,3546.5,478,Dried,Oil Indica Blend,3546.5,3546.5,11/2/2018 15:43
+288,Oil - Milling,7/13/2017 21:41,254,Oil,Oil Jesus OG,10641,10037.5,254,Oil,Oil Jesus OG,10037.5,10037.5,7/13/2017 21:53
+289,Oil - Decarboxylation,7/13/2017 21:59,254,Oil,Oil Jesus OG,10026.5,8782.5,254,Oil,Oil Jesus OG,8782.5,8782.5,7/13/2017 22:04
+290,Oil - Milling,7/13/2017 22:30,255,Oil,Oil Jesus OG,9805.9,9294,255,Oil,Oil Jesus OG,9294,9294,7/15/2017 22:23
+291,Oil - Decarboxylation,7/15/2017 22:29,255,Oil,Oil Jesus OG,9280,8120,255,Oil,Oil Jesus OG,8120,8120,7/15/2017 22:40
+294,Oil - Extraction,7/18/2017 23:55,254,Oil,Oil Jesus OG,8782.5,1782.5,254,Oil,Oil Jesus OG,1782.5,1782.5,7/21/2017 20:23
+295,Oil - Winterization,7/21/2017 20:23,254,Oil,Oil Jesus OG,1782.5,0,254,Oil,Oil Jesus OG,0,0,7/21/2017 20:24
+296,Oil - Filtration,7/21/2017 20:29,254,Oil,Oil Jesus OG,0,0,254,Oil,Oil Jesus OG,0,0,7/21/2017 20:30
+297,Oil - Rotary Evaporation,7/21/2017 20:31,254,Oil,Oil Jesus OG,0,1727.5,254,Oil,Oil Jesus OG,1727.5,1727.5,7/21/2017 20:31
+298,Oil - PreDilution,7/21/2017 20:32,254,Oil,Oil Jesus OG,1727.5,7829.5,254,Oil,Oil Jesus OG,7829.5,7829.5,7/21/2017 20:33
+299,Transfer Into Child Lot,7/26/2017 1:26,254,Oil,Oil Jesus OG,8145,8145,254(1),Oil,Oil Jesus OG,8145,8145,7/26/2017 1:29
+300,Oil - Dilution,7/26/2017 1:35,254(1),Oil,Oil Jesus OG,2098,15002,254(1)-1,Oil,Oil Jesus OG,15002,15002,
+301,Oil - Dilution,7/26/2017 1:38,254(1),Oil,Oil Jesus OG,2095.5,15061,254(1)-2,Oil,Oil Jesus OG,15061,15061,7/26/2017 1:39
+313,Oil - Dilution,7/31/2017 15:52,254(1),Oil,Oil Jesus OG,1963.5,14143.5,254(1)-3,Oil,Oil Jesus OG,14143.5,14143.5,7/31/2017 15:53
+314,Oil - Dilution,7/31/2017 15:55,254(1),Oil,Oil Jesus OG,1968.5,14266.5,254(1)-4,Oil,Oil Jesus OG,14266.5,14266.5,7/31/2017 15:56
+417,Sample - HPLC,8/23/2017 14:50,254(1)-1,Oil,Oil Jesus OG,57,56.4,254(1)-1,Oil,Oil Jesus OG,56.4,56.4,8/23/2017 14:51
+422,Sample - HPLC,8/23/2017 15:51,254(1)-2,Oil,Oil Jesus OG,57,56.1,254(1)-2,Oil,Oil Jesus OG,56.1,56.1,8/23/2017 15:59
+424,Sample - HPLC,8/23/2017 16:00,254(1)-3,Oil,Oil Jesus OG,57,56.3,254(1)-3,Oil,Oil Jesus OG,56.3,56.3,8/23/2017 16:01
+425,Sample - HPLC,8/23/2017 16:02,254(1)-4,Oil,Oil Jesus OG,57,56.3,254(1)-4,Oil,Oil Jesus OG,56.3,56.3,8/23/2017 16:02
+448,Sample - HPLC,8/25/2017 15:16,254(1)-1,Oil,Oil Jesus OG,56.4,55.9,254(1)-1,Oil,Oil Jesus OG,55.9,55.9,8/25/2017 15:18
+449,Sample - HPLC,8/25/2017 15:20,254(1)-2,Oil,Oil Jesus OG,56.1,55.5,254(1)-2,Oil,Oil Jesus OG,55.5,55.5,8/25/2017 15:21
+450,Sample - HPLC,8/25/2017 15:21,254(1)-3,Oil,Oil Jesus OG,56.3,55.8,254(1)-3,Oil,Oil Jesus OG,55.8,55.8,8/25/2017 15:22
+451,Sample - HPLC,8/25/2017 15:22,254(1)-4,Oil,Oil Jesus OG,56.3,55.8,254(1)-4,Oil,Oil Jesus OG,55.8,55.8,8/25/2017 15:23
+490,Sample - QA Release,8/28/2017 15:46,255,Oil,Oil Jesus OG,50.48,50.48,255,Oil,Oil Jesus OG,50.48,50.48,8/28/2017 15:58
+533,Sample - HPLC,8/31/2017 14:59,254(1)-2,Oil,Oil Jesus OG,0.5,0,,,,,0,8/31/2017 14:59
+532,Sample - HPLC,8/31/2017 14:58,254(1)-1,Oil,Oil Jesus OG,0.6,0,,,,,0,8/31/2017 14:58
+534,Sample - HPLC,8/31/2017 15:00,254(1)-3,Oil,Oil Jesus OG,0.5,0,,,,,0,8/31/2017 15:00
+536,Sample - HPLC,8/31/2017 15:01,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,8/31/2017 15:02
+636,Sample - HPLC,9/7/2017 15:22,254(1)-1,Oil,Oil Jesus OG,0.5,0,,,,,0,9/7/2017 15:22
+637,Sample - HPLC,9/7/2017 15:23,254(1)-2,Oil,Oil Jesus OG,0.5,0,,,,,0,9/7/2017 15:24
+638,Sample - HPLC,9/7/2017 15:25,254(1)-3,Oil,Oil Jesus OG,0.5,0,,,,,0,9/7/2017 15:26
+639,Sample - HPLC,9/7/2017 15:27,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,9/7/2017 15:27
+688,Sample - Other,9/14/2017 12:03,254(1)-3,Oil,Oil Jesus OG,0.5,0,,,,,0,9/14/2017 12:04
+689,Sample - Other,9/14/2017 12:07,254(1)-1,Oil,Oil Jesus OG,0.5,0,,,,,0,9/14/2017 12:07
+690,Sample - Other,9/14/2017 12:08,254(1)-2,Oil,Oil Jesus OG,0.5,0,,,,,0,9/14/2017 12:08
+717,Sample - HPLC,9/21/2017 16:07,254(1)-1,Oil,Oil Jesus OG,0.5,0,,,,,0,9/21/2017 16:07
+718,Sample - HPLC,9/21/2017 16:08,254(1)-2,Oil,Oil Jesus OG,0.5,0,,,,,0,9/21/2017 16:09
+692,Sample - Other,9/14/2017 12:09,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,10/6/2017 10:58
+691,Sample - Other,9/14/2017 12:09,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,10/6/2017 10:59
+719,Sample - HPLC,9/21/2017 16:10,254(1)-3,Oil,Oil Jesus OG,0.5,0,,,,,0,9/21/2017 16:10
+720,Sample - HPLC,9/21/2017 16:11,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,9/21/2017 16:11
+765,Sample - HPLC,9/28/2017 11:04,254(1)-1,Oil,Oil Jesus OG,0.5,0,,,,,0,9/28/2017 11:05
+766,Sample - Other,9/28/2017 11:10,254(1)-2,Oil,Oil Jesus OG,0.5,0,,,,,0,9/28/2017 11:10
+767,Sample - Other,9/28/2017 11:18,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,9/28/2017 11:19
+810,Sample - HPLC,10/5/2017 10:55,254(1)-1,Oil,Oil Jesus OG,0.5,0,,,,,0,10/5/2017 10:55
+811,Sample - HPLC,10/5/2017 10:56,254(1)-2,Oil,Oil Jesus OG,0.5,0,,,,,0,10/5/2017 10:56
+813,Sample - HPLC,10/5/2017 10:58,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,10/5/2017 10:59
+815,Sample - HPLC,10/5/2017 11:00,254(1)-3,Oil,Oil Jesus OG,0.5,0,,,,,0,10/5/2017 11:00
+1001,Oil - Milling,11/28/2017 13:43,345,Oil,Oil Jesus OG,10332,10235,345,Oil,Oil Jesus OG,10235,10235,11/28/2017 15:29
+1014,Sample - HPLC,11/2/2017 11:40,254(1)-1,Oil,Oil Jesus OG,0.5,0,,,,,0,11/2/2017 11:40
+1015,Sample - HPLC,11/2/2017 11:41,254(1)-2,Oil,Oil Jesus OG,0.5,0,,,,,0,11/2/2017 11:41
+1016,Sample - HPLC,11/2/2017 11:42,254(1)-3,Oil,Oil Jesus OG,0.5,0,,,,,0,11/2/2017 11:42
+1017,Sample - HPLC,11/2/2017 11:43,254(1)-4,Oil,Oil Jesus OG,0.5,0,,,,,0,11/2/2017 11:43
+1038,Oil - Milling,11/28/2017 15:14,346,Oil,Oil Jesus OG,8720,8667.5,346,Oil,Oil Jesus OG,8667.5,8667.5,11/28/2017 15:18
+1039,Oil - Milling,11/29/2017 12:35,347,Oil,Oil Jesus OG,8860,8794.5,347,Oil,Oil Jesus OG,8794.5,8794.5,11/29/2017 12:37
+1320,Oil - Milling,11/29/2017 12:45,348,Oil,Oil Jesus OG,9776,9691,348,Oil,Oil Jesus OG,9691,9691,11/29/2017 12:46
+1324,Oil - Decarboxylation,11/29/2017 15:53,347,Oil,Oil Jesus OG,8794.5,7513.5,347,Oil,Oil Jesus OG,7513.5,7513.5,11/29/2017 15:54
+1397,Oil - Extraction,12/11/2017 13:14,346,Oil,Oil Jesus OG,7498.5,1697,346(1),Oil,Oil Jesus OG,1697,1697,12/11/2017 13:17
+1398,Oil - Winterization/Filtration,12/11/2017 13:30,346(1),Oil,Oil Jesus OG,1697,5287.5,346(1),Oil,Oil Jesus OG,5287.5,5287.5,12/11/2017 13:34
+1396,Oil - Decarboxylation,12/11/2017 13:09,346,Oil,Oil Jesus OG,8667.5,7498.5,346,Oil,Oil Jesus OG,7498.5,7498.5,12/11/2017 13:11
+1438,Oil - Winterization/Filtration,12/13/2017 17:35,346(1),Oil,Oil Jesus OG,5287.5,18529.5,346(1),Oil,Oil Jesus OG,18529.5,18529.5,12/13/2017 17:37
+1439,Oil - Rotary Evaporation,12/13/2017 17:55,346(1),Oil,Oil Jesus OG,18529.5,1685,346(1),Oil,Oil Jesus OG,1685,1685,12/13/2017 17:56
+1440,Oil - PreDilution,12/13/2017 18:47,346(1),Oil,Oil Jesus OG,1685,9278,346(1),Oil,Oil Jesus OG,9278,9278,12/13/2017 18:48
+1450,Lot Transfer - Reclaimed Oil Bottles Stored in Level 2 Fridge,12/14/2017 15:09,254(1)-1,Oil,Oil Jesus OG,57,57,487,Oil,Oil Jesus OG,57,57,12/14/2017 15:13
+1451,Sample - HPLC,12/14/2017 15:48,487,Oil,Oil Jesus OG,6.6,0,,,,,0,12/14/2017 15:49
+1541,Sample - QA Release,12/20/2017 16:44,254(1)-1,Oil,Oil Jesus OG,52.3,0,,,,,0,1/8/2018 14:37
+1578,Oil - Decarboxylation,12/21/2017 17:39,348,Oil,Oil Jesus OG,9691,8418,348,Oil,Oil Jesus OG,8418,8418,12/21/2017 17:40
+1691,Oil - Decarboxylation,1/2/2018 14:40,345,Oil,Oil Jesus OG,10235,8939.5,345,Oil,Oil Jesus OG,8939.5,8939.5,1/2/2018 14:44
+1813,Sample - HPLC,1/15/2018 15:46,254(1)-2,Oil,Oil Jesus OG,1,0,,,,,0,1/15/2018 15:46
+1814,Sample - HPLC,1/15/2018 15:47,254(1)-3,Oil,Oil Jesus OG,1,0,,,,,0,1/15/2018 15:48
+1815,Sample - HPLC,1/15/2018 15:48,254(1)-4,Oil,Oil Jesus OG,1,0,,,,,0,1/15/2018 15:49
+1850,Oil - Extraction,1/17/2018 15:10,255,Oil,Oil Jesus OG,8069.52,1598.1,255(1),Oil,Oil Jesus OG,1598.1,1598.1,1/17/2018 15:13
+1863,Oil - Winterization/Filtration,1/18/2018 13:10,255(1),Oil,Oil Jesus OG,1598.1,14200,255(1),Oil,Oil Jesus OG,14200,14200,1/18/2018 13:11
+1868,Oil - Rotary Evaporation,1/18/2018 16:04,255(1),Oil,Oil Jesus OG,14200,1248.5,255(1),Oil,Oil Jesus OG,1248.5,1248.5,1/18/2018 16:06
+1883,Oil - Extraction,1/19/2018 12:00,347,Oil,Oil Jesus OG,7513.5,1528,347(1),Oil,Oil Jesus OG,1528,1528,1/19/2018 12:03
+1933,Sample - HPLC,1/22/2018 16:07,346(1),Oil,Oil Jesus OG,3,0,,,,,0,1/22/2018 16:08
+1934,Oil - Winterization/Filtration,1/22/2018 16:10,347(1),Oil,Oil Jesus OG,1528,21700,347(1),Oil,Oil Jesus OG,21700,21700,1/22/2018 16:11
+1935,Oil - Rotary Evaporation,1/22/2018 16:20,347(1),Oil,Oil Jesus OG,21700,1249.5,347(1),Oil,Oil Jesus OG,1249.5,1249.5,1/22/2018 16:22
+2053,Oil - Extraction,2/5/2018 14:24,348,Oil,Oil Jesus OG,8418,1904.5,348(1),Oil,Oil Jesus OG,1904.5,1904.5,2/5/2018 14:34
+2054,Allocate for Final Packaging,2/5/2018 15:45,254(1)-4,Oil,Oil Jesus OG,51.3,0,,,,,0,
+2055,Allocate for Final Packaging,2/5/2018 15:49,254(1)-3,Oil,Oil Jesus OG,51.8,51.8,254(1)-3,Oil,Oil Jesus OG,51.8,51.8,2/5/2018 15:50
+2056,Allocate for Final Packaging,2/5/2018 15:51,254(1)-2,Oil,Oil Jesus OG,51,51,254(1)-2,Oil,Oil Jesus OG,51,51,2/5/2018 15:52
+2091,Transfer to Totes,2/9/2018 14:37,347(1),Oil,Oil Jesus OG,1249.5,1243,347(1),Oil,Oil Jesus OG,1243,1243,2/9/2018 14:38
+2299,Oil - Winterization/Filtration,3/2/2018 16:16,348(1),Oil,Oil Jesus OG,1904.5,11787,348(1),Oil,Oil Jesus OG,11787,11787,3/2/2018 16:17
+2377,Retain Sample,3/5/2018 16:00,254(1)-1,Oil,Oil Jesus OG,0,0,,,,,0,3/5/2018 16:01
+2388,Oil - Rotary Evaporation,3/6/2018 15:50,348(1),Oil,Oil Jesus OG,20042.5,1637,348(1),Oil,Oil Jesus OG,1637,1637,3/6/2018 15:52
+2384,Oil - Winterization/Filtration,3/6/2018 12:41,348(1),Oil,Oil Jesus OG,11787,20042.5,348(1),Oil,Oil Jesus OG,20042.5,20042.5,3/6/2018 12:42
+2389,Oil - PreDilution,3/6/2018 16:19,348(1),Oil,Oil Jesus OG,1637,8141,348(1),Oil,Oil Jesus OG,8141,8141,3/6/2018 16:20
+2418,Transfer to Totes,3/9/2018 16:09,345,Oil,Oil Jesus OG,8939.5,8952.5,345,Oil,Oil Jesus OG,8952.5,8952.5,3/9/2018 16:10
+2566,Sample - HPLC,3/22/2018 16:19,347(1),Oil,Oil Jesus OG,0.5,0,,,,,0,3/22/2018 16:19
+2576,Sample - Other,3/23/2018 12:18,347(1),Oil,Oil Jesus OG,7.5,0,,,,,0,3/23/2018 12:18
+2580,Oil - Extraction,3/23/2018 13:40,345,Oil,Oil Jesus OG,8952.5,2091.3,345(1),Oil,Oil Jesus OG,2091.3,2091.3,3/23/2018 13:42
+2585,Oil - Winterization,3/23/2018 15:38,345(1),Oil,Oil Jesus OG,2091.3,10078.5,345(1),Oil,Oil Jesus OG,10078.5,10078.5,3/23/2018 15:39
+2596,Oil - Winterization/Filtration,3/27/2018 10:54,345(1),Oil,Oil Jesus OG,10078.5,16557,345(1),Oil,Oil Jesus OG,16557,16557,3/27/2018 10:55
+2598,Oil - Rotary Evaporation,3/27/2018 14:09,345(1),Oil,Oil Jesus OG,16557,1972,345(1),Oil,Oil Jesus OG,1972,1972,3/27/2018 14:10
+2604,Oil - Dilution,3/28/2018 15:49,345(1),Oil,Oil Jesus OG,2612.5,16336,346(1)-1,Oil,Oil Jesus OG,16336,16336,3/28/2018 15:50
+2599,Oil - PreDilution,3/27/2018 14:36,345(1),Oil,Oil Jesus OG,1972,9533.5,345(1),Oil,Oil Jesus OG,9533.5,9533.5,3/27/2018 14:38
+2672,Sample - HPLC,4/12/2018 14:59,254(1)-1,Oil,Oil Jesus OG,3.7,0,,,,,0,4/12/2018 14:59
+2673,Sample - HPLC,4/12/2018 15:00,254(1)-2,Oil,Oil Jesus OG,3.5,0,,,,,0,4/12/2018 15:01
+2674,Sample - HPLC,4/12/2018 15:04,254(1)-1,Oil,Oil Jesus OG,1.3,48.9,254(1)-1,Oil,Oil Jesus OG,48.9,48.9,4/12/2018 15:08
+2675,Allocate for Bulk Sale,4/12/2018 15:14,254(1)-2,Oil,Oil Jesus OG,1.2,0,,,,,0,4/12/2018 15:15
+2676,Sample - HPLC,4/12/2018 15:16,254(1)-3,Oil,Oil Jesus OG,4,0,,,,,0,4/12/2018 15:16
+2677,Sample - HPLC,4/12/2018 15:17,254(1)-4,Oil,Oil Jesus OG,3.7,0,,,,,0,4/12/2018 15:18
+2680,Sample - HPLC,4/12/2018 15:22,254(1)-1,Oil,Oil Jesus OG,46.3,0,,,,,0,4/12/2018 15:23
+2715,Oil - Dilution,4/18/2018 11:06,346(1),Oil,Oil Jesus OG,2615.5,0,,,,,0,4/18/2018 11:08
+2723,Dispose - Process Waste,4/18/2018 16:42,346(1)-1,Oil,Oil Jesus OG,91,0,,,,,0,4/18/2018 16:44
+2749,Inventory Adjust - Pkg Run Variance,4/20/2018 15:07,346(1)-1,Oil,Oil Jesus OG,28.5,57,346(1)-1,Oil,Oil Jesus OG,57,57,4/20/2018 15:08
+2768,Sample - Other,4/23/2018 13:54,346(1)-1,Oil,Oil Jesus OG,57,0,,,,,0,4/23/2018 13:59
+2977,Inventory Adjust - Pkg Run Variance,5/17/2018 12:57,346(1)-1,Oil,Oil Jesus OG,28.5,0,,,,,0,5/17/2018 12:59
+3010,Sample - Other,5/23/2018 13:34,125(2)-1-CapsuleFormulation,Oil,Oil Jesus OG,12,0,,,,,0,5/23/2018 13:35
+3226,Inventory Adjust - Pkg Run Variance,6/25/2018 15:20,346(1)-2,Oil,Oil Jesus OG,656.5,171,346(1)-2,Oil,Oil Jesus OG,171,171,6/25/2018 15:22
+3220,Sample - HPLC,6/22/2018 14:57,348(1),Oil,Oil Jesus OG,0.5,0,,,,,0,6/22/2018 14:57
+3221,Oil - Dilution,6/22/2018 15:01,346(1),Oil,Oil Jesus OG,2328,14165.5,346(1)-2,Oil,Oil Jesus OG,14165.5,14165.5,6/22/2018 15:03
+3282,Sample - QA Release,7/3/2018 13:14,346(1)-2,Oil,Oil Jesus OG,57,57,346(1)-2,Oil,Oil Jesus OG,57,57,7/3/2018 13:14
+3316,Inventory Adjust - Correct Entry Error,7/9/2018 15:18,345(1),Oil,Oil Jesus OG,6921,9533.5,345(1),Oil,Oil Jesus OG,9533.5,9533.5,7/9/2018 15:19
+3318,Oil - Dilution,7/9/2018 15:24,345(1),Oil,Oil Jesus OG,2140.5,14964.5,345(1)-1,Oil,Oil Jesus OG,14964.5,14964.5,7/9/2018 15:25
+3362,Dispose - Process Waste,7/16/2018 14:59,345(1)-1,Oil,Oil Jesus OG,116,0,,,,,0,7/16/2018 15:01
+3365,Sample - QA Release,7/17/2018 9:12,345(1)-1,Oil,Oil Jesus OG,57,57,345(1)-1,Oil,Oil Jesus OG,57,57,7/17/2018 9:16
+3376,Sample - HPLC,7/20/2018 14:47,254(1)-1,Oil,Oil Jesus OG,0.9,0,,,,,0,7/20/2018 14:47
+3377,Sample - HPLC,7/20/2018 14:48,254(1)-2,Oil,Oil Jesus OG,1,0,,,,,0,7/20/2018 14:48
+3378,Sample - HPLC,7/20/2018 14:49,254(1)-3,Oil,Oil Jesus OG,1,0,,,,,0,7/20/2018 14:49
+3379,Sample - HPLC,7/20/2018 14:50,254(1)-4,Oil,Oil Jesus OG,0.9,0,,,,,0,7/20/2018 14:50
+3580,Inventory Adjust - Correct Entry Error,9/13/2018 10:49,345(1)-1,Oil,Oil Jesus OG,57,0,,,,,0,9/13/2018 10:49
+3677,Process - Lot Merge,10/3/2018 9:49,345(1),Oil,Oil Jesus OG,10334.5,10334.5,867,Oil,Oil Hybrid Blend,10334.5,10334.5,10/3/2018 9:56
+3961,Oil - PreDilution,12/5/2018 14:10,972,Oil,Oil Jesus OG,2435.9,17577,972,Oil,Oil Jesus OG,17577,17577,12/5/2018 14:14
+3958,Process - Lot Merge,12/4/2018 16:47,255(1),Oil,Oil Jesus OG,2483.5,2435.9,972,Oil,Oil Jesus OG,2435.9,2435.9,12/4/2018 16:52
+3958,Process - Lot Merge,12/4/2018 16:47,347(1),Oil,Oil Jesus OG,2483.5,2435.9,972,Oil,Oil Jesus OG,2435.9,2435.9,12/4/2018 16:52
+3962,Oil - Dilution,12/5/2018 16:32,972,Oil,Oil Jesus OG,1903,9498,972-1,Oil,Oil Jesus OG,9498,9498,12/5/2018 16:39
+3965,Inventory Adjust - Pkg Run Variance,12/7/2018 12:14,972-1,Oil,Oil Jesus OG,9498,9774.5,972-1,Oil,Oil Jesus OG,9774.5,9774.5,12/7/2018 12:15
+3966,Dispose - Process Waste,12/7/2018 12:29,972-1,Oil,Oil Jesus OG,170,57,972-1,Oil,Oil Jesus OG,57,57,12/7/2018 12:30
+4016,Inventory Adjust - End of Lot,12/19/2018 12:52,346(1)-2,Oil,Oil Jesus OG,4794,0,,,,,0,12/19/2018 12:54
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,472,Oil,Oil Nebula II,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,473,Oil,Oil Nebula II,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+2027,Oil - Milling,9/12/2018 10:47,472,Dried,Oil Nebula II,12389.5,12214,472,Dried,Oil Nebula II,12214,12214,9/12/2018 10:48
+2037,Oil - Milling,9/12/2018 12:36,473,Dried,Oil Nebula II,5725.5,5619.5,473,Dried,Oil Nebula II,5619.5,5619.5,9/12/2018 12:37
+2780,Oil - Decarboxylation,4/23/2018 16:57,626,Oil,Oil Nebula II,9618,8449,626,Oil,Oil Nebula II,8449,8449,4/23/2018 16:58
+2786,Allocate for Bulk Sale,4/24/2018 11:39,629,Oil,Oil Nebula II,3427,3366.5,629,Oil,Oil Nebula II,3366.5,3366.5,4/24/2018 11:48
+2834,Oil - Winterization/Filtration,4/30/2018 16:40,626(1),Oil,Oil Nebula II,9447,20500.5,626(1),Oil,Oil Nebula II,20500.5,20500.5,4/30/2018 16:40
+2820,Oil - Decarboxylation,4/27/2018 16:01,624,Oil,Oil Nebula II,10390.5,9338,624,Oil,Oil Nebula II,9338,9338,4/27/2018 16:02
+2822,Oil - Extraction,4/27/2018 16:59,626,Oil,Oil Nebula II,8449,2068.5,626(1),Oil,Oil Nebula II,2068.5,2068.5,4/27/2018 17:01
+2823,Oil - Winterization/Filtration,4/27/2018 17:21,626(1),Oil,Oil Nebula II,2068.5,9447,626(1),Oil,Oil Nebula II,9447,9447,4/27/2018 17:22
+2829,Oil - Milling,4/27/2018 12:07,624,Oil,Oil Nebula II,10469,10390.5,624,Oil,Oil Nebula II,10390.5,10390.5,4/27/2018 12:08
+2825,Oil - Milling,4/30/2018 11:16,625,Oil,Oil Nebula II,6418.2,6358,625,Oil,Oil Nebula II,6358,6358,4/30/2018 11:17
+2826,Oil - Milling,4/23/2018 14:53,626,Oil,Oil Nebula II,9691,9618,626,Oil,Oil Nebula II,9618,9618,4/23/2018 14:54
+2839,Oil - Decarboxylation,5/1/2018 13:10,625,Oil,Oil Nebula II,6358,5626.5,625,Oil,Oil Nebula II,5626.5,5626.5,5/1/2018 13:11
+2842,Oil - Rotary Evaporation,5/1/2018 14:35,626(1),Oil,Oil Nebula II,20500.5,1819,626(1),Oil,Oil Nebula II,1819,1819,5/1/2018 14:37
+2846,Oil - PreDilution,5/1/2018 16:16,626(1),Oil,Oil Nebula II,1819,12200,626(1),Oil,Oil Nebula II,12200,12200,5/1/2018 16:17
+2851,Oil - PreDilution,5/2/2018 14:06,626(1),Oil,Oil Nebula II,12200,14715.8,626(1),Oil,Oil Nebula II,14715.8,14715.8,5/2/2018 14:08
+2852,Oil - Decarboxylation,5/2/2018 15:26,628,Oil,Oil Nebula II,9843,8764,628,Oil,Oil Nebula II,8764,8764,5/2/2018 15:27
+2886,Oil - Decarboxylation,5/7/2018 16:18,627,Oil,Oil Nebula II,5740.5,5073,627,Oil,Oil Nebula II,5073,5073,5/7/2018 16:19
+2973,Oil - Winterization/Filtration,5/16/2018 16:24,629(1),Oil,Oil Nebula II,2985.5,5679,629(1),Oil,Oil Nebula II,5679,5679,5/16/2018 16:25
+2959,Oil - Extraction,5/15/2018 12:57,629,Oil,Oil Nebula II,3366.5,586,629,Oil,Oil Nebula II,586,586,5/15/2018 13:00
+2980,Allocate for Bulk Sale,5/17/2018 15:32,675(1),Oil,Oil Nebula II,58,58,629(1),Oil,Oil Nebula II,58,58,5/17/2018 15:37
+2975,Oil - Winterization/Filtration,5/17/2018 11:05,629(1),Oil,Oil Nebula II,5679,11958,629(1),Oil,Oil Nebula II,11958,11958,5/17/2018 11:07
+2962,Oil - Winterization,5/15/2018 14:08,629(1),Oil,Oil Nebula II,586,2985.5,629(1),Oil,Oil Nebula II,2985.5,2985.5,5/15/2018 14:09
+2960,Oil - Extraction,5/15/2018 13:02,629,Oil,Oil Nebula II,586,586,629(1),Oil,Oil Nebula II,586,586,5/15/2018 14:55
+2981,Dispose - Process Waste,5/17/2018 15:41,675(1),Oil,Oil Nebula II,7,0,,,,,0,5/17/2018 15:42
+2978,Oil - Rotary Evaporation,5/17/2018 13:37,629(1),Oil,Oil Nebula II,11958,606,629(1),Oil,Oil Nebula II,606,606,5/17/2018 13:39
+2979,Oil - Rotary Evaporation,5/17/2018 13:42,629(1),Oil,Oil Nebula II,606,606,675(1),Oil,Oil Nebula II,606,606,5/17/2018 13:43
+2984,Oil - PreDilution,5/17/2018 16:51,629(1),Oil,Oil Nebula II,58,293.5,629(1),Oil,Oil Nebula II,293.5,293.5,5/17/2018 16:52
+2992,Oil - Winterization,5/18/2018 13:18,628(1),Oil,Oil Nebula II,1275.5,8254.5,628(1),Oil,Oil Nebula II,8254.5,8254.5,5/18/2018 13:19
+2991,Oil - Extraction,5/18/2018 13:15,628,Oil,Oil Nebula II,8764,1275.5,628(1),Oil,Oil Nebula II,1275.5,1275.5,5/18/2018 13:16
+2993,Sample - HPLC,5/18/2018 13:45,629(1),Oil,Oil Nebula II,0.5,0,,,,,0,5/18/2018 13:45
+3000,Oil - Winterization/Filtration,5/22/2018 12:09,628(1),Oil,Oil Nebula II,8254.5,17778.5,628(1),Oil,Oil Nebula II,17778.5,17778.5,5/22/2018 12:10
+3002,Oil - Rotary Evaporation,5/22/2018 14:17,628(1),Oil,Oil Nebula II,17778.5,1215,628(1),Oil,Oil Nebula II,1215,1215,5/22/2018 14:18
+3003,Oil - Rotary Evaporation,5/22/2018 14:23,628(1),Oil,Oil Nebula II,1158,1158,679(1),Oil,Oil Nebula II,1158,1158,5/22/2018 14:24
+3005,Oil - PreDilution,5/22/2018 15:17,628(1),Oil,Oil Nebula II,57,479.5,628(1),Oil,Oil Nebula II,479.5,479.5,5/22/2018 15:18
+3050,Oil - Milling,4/30/2018 9:18,627,Oil,Oil Nebula II,5842,5740.5,627,Oil,Oil Nebula II,5740.5,5740.5,4/30/2018 9:22
+3051,Oil - Milling,4/30/2018 9:26,628,Oil,Oil Nebula II,10083,9843,628,Oil,Oil Nebula II,9843,9843,4/30/2018 9:28
+3166,Process - Lot Merge,6/13/2018 15:10,679(1),Oil,Oil Nebula II,339,339,723,Oil,Canntab (R&D),339,339,6/13/2018 15:11
+3170,Dispose - Process Waste,6/13/2018 16:20,679(1),Oil,Oil Nebula II,10.5,0,,,,,0,6/13/2018 16:21
+3193,Process - Lot Merge,6/18/2018 12:49,624,Oil,Oil Nebula II,14411,14411,624,Oil,Oil Nebula II,14411,14411,6/18/2018 12:50
+3193,Process - Lot Merge,6/18/2018 12:49,627,Oil,Oil Nebula II,14411,14411,624,Oil,Oil Nebula II,14411,14411,6/18/2018 12:50
+3191,Oil - Extraction,6/15/2018 14:20,625,Oil,Oil Nebula II,5626.5,1072,625(1),Oil,Oil Nebula II,1072,1072,6/15/2018 14:21
+3195,Oil - Winterization,6/18/2018 15:10,625(1),Oil,Oil Nebula II,1072,6367,625(1),Oil,Oil Nebula II,6367,6367,6/18/2018 15:11
+3196,Oil - Winterization/Filtration,6/18/2018 15:11,625(1),Oil,Oil Nebula II,6367,10536,625(1),Oil,Oil Nebula II,10536,10536,6/18/2018 15:12
+3206,Oil - Winterization/Filtration,6/19/2018 12:31,625(1),Oil,Oil Nebula II,10536,10292,625(1),Oil,Oil Nebula II,10292,10292,6/19/2018 12:33
+3210,Oil - Rotary Evaporation,6/20/2018 13:04,625(1),Oil,Oil Nebula II,10292,1085.5,625(1),Oil,Oil Nebula II,1085.5,1085.5,6/20/2018 13:05
+3212,Oil - Extraction,6/21/2018 12:34,624,Oil,Oil Nebula II,14411,1990,624(1),Oil,Oil Nebula II,1990,1990,6/21/2018 12:34
+3213,Oil - Winterization,6/21/2018 13:48,624(1),Oil,Oil Nebula II,1990,12629.5,624(1),Oil,Oil Nebula II,12629.5,12629.5,6/21/2018 13:48
+3240,Oil - Rotary Evaporation,6/26/2018 15:07,624(1),Oil,Oil Nebula II,19782.5,1969.5,624(1),Oil,Oil Nebula II,1969.5,1969.5,6/26/2018 15:08
+3235,Oil - Winterization/Filtration,6/26/2018 13:22,624(1),Oil,Oil Nebula II,12629.5,19782.5,624(1),Oil,Oil Nebula II,19782.5,19782.5,6/26/2018 13:23
+3420,Oil - Dilution,7/30/2018 15:00,626(1),Oil,Oil Nebula II,4085.5,17125,626(1)-1,Oil,Oil Nebula II,17125,17125,7/30/2018 15:41
+3428,Inventory Adjust - Pkg Run Variance,8/1/2018 12:08,626(1)-1,Oil,Oil Nebula II,17125,17265,626(1)-1,Oil,Oil Nebula II,17265,17265,8/1/2018 12:08
+3429,Dispose - Process Waste,8/1/2018 12:15,626(1)-1,Oil,Oil Nebula II,222,0,,,,,0,8/1/2018 12:16
+3445,Sample - QA Release,8/3/2018 8:03,626(1)-1,Oil,Oil Nebula II,57,57,626(1)-1,Oil,Oil Nebula II,57,57,8/3/2018 8:03
+3540,Inventory Adjust - Correct Entry Error,8/27/2018 10:45,624(1),Oil,Oil Nebula II,1969.5,1844.5,624(1),Oil,Oil Nebula II,1844.5,1844.5,8/27/2018 10:46
+3541,Inventory Adjust - Correct Entry Error,8/27/2018 10:48,625(1),Oil,Oil Nebula II,1085.5,1070,625(1),Oil,Oil Nebula II,1070,1070,8/27/2018 10:48
+3542,Inventory Adjust - Correct Entry Error,8/27/2018 10:49,675(1),Oil,Oil Nebula II,541,540,675(1),Oil,Oil Nebula II,540,540,8/27/2018 10:49
+3543,Inventory Adjust - Correct Entry Error,8/27/2018 10:51,679(1),Oil,Oil Nebula II,962.5,960,679(1),Oil,Oil Nebula II,960,960,8/27/2018 10:51
+3582,Oil - Rotary Evaporation,9/13/2018 12:32,625(1),Oil,Oil Nebula II,1070,176,625(1),Oil,Oil Nebula II,176,176,9/13/2018 12:33
+3587,Oil - Rotary Evaporation,9/14/2018 12:16,679(1),Oil,Oil Nebula II,960,64.5,679(1),Oil,Oil Nebula II,64.5,64.5,9/14/2018 12:17
+3593,Dispose - Spillage,9/15/2018 10:42,626(1)-1,Oil,Oil Nebula II,28.5,0,,,,,0,9/15/2018 10:43
+3594,Canntab - Transfer From Emblem to Canntab Lot,9/17/2018 12:47,624(1),Oil,Oil Nebula II,919.5,919.5,833,Oil,Canntab (R&D),919.5,919.5,9/17/2018 12:49
+3599,Oil - Decarboxylation,9/17/2018 14:56,473,Dried,Oil Nebula II,5619.5,4982,473,Dried,Oil Nebula II,4982,4982,9/17/2018 14:59
+3603,Oil - Decarboxylation,9/18/2018 15:55,472,Dried,Oil Nebula II,12214,10767.5,472,Dried,Oil Nebula II,10767.5,10767.5,9/18/2018 15:59
+3745,Oil - Extraction,10/16/2018 9:47,473,Dried,Oil Nebula II,4982,874.5,473,Dried,Oil Nebula II,874.5,874.5,10/16/2018 9:49
+3750,Oil - Winterization/Filtration,10/16/2018 14:56,473,Dried,Oil Nebula II,9484.5,20409.5,473,Dried,Oil Nebula II,20409.5,20409.5,10/16/2018 14:56
+3749,Oil - Winterization/Filtration,10/16/2018 14:55,473,Dried,Oil Nebula II,874.5,9484.5,473,Dried,Oil Nebula II,9484.5,9484.5,10/16/2018 14:55
+3751,Oil - Rotary Evaporation,10/16/2018 15:59,473,Dried,Oil Nebula II,20409.5,848.5,473,Dried,Oil Nebula II,848.5,848.5,10/16/2018 16:00
+3752,Oil - PreDilution,10/16/2018 16:36,473,Dried,Oil Nebula II,848.5,6156,473,Dried,Oil Nebula II,6156,6156,10/16/2018 16:39
+3761,Oil - Dilution,10/18/2018 17:06,626(1),Oil,Oil Nebula II,9138.3,35890,626(1)-2,Oil,Oil Nebula II,35890,35890,10/18/2018 17:09
+3777,Process - Lot Split,10/23/2018 10:25,626(1)-2,Oil,Oil Nebula II,19997,19997,626(1)-2-3,Oil,Oil Nebula II,19997,19997,10/23/2018 10:26
+3796,Oil - Encapsulation and Sealing,10/27/2018 13:00,626(1)-2-3,Oil,Oil Nebula II,19997,19304.9,626(1)-2-3,Oil,Oil Nebula II,19304.9,19304.9,10/27/2018 13:02
+3801,Oil - Extraction,10/30/2018 11:20,472,Dried,Oil Nebula II,10767.5,1738.5,472,Dried,Oil Nebula II,1738.5,1738.5,10/30/2018 11:21
+3804,Oil - Winterization,10/30/2018 12:52,472,Dried,Oil Nebula II,1738.5,16581,472,Dried,Oil Nebula II,16581,16581,10/30/2018 12:53
+3816,Oil - Filtration,10/31/2018 14:49,472,Dried,Oil Nebula II,16581,19696,472,Dried,Oil Nebula II,19696,19696,10/31/2018 14:53
+3817,Oil - Filtration,10/31/2018 14:56,472,Dried,Oil Nebula II,19696,21205,472,Dried,Oil Nebula II,21205,21205,10/31/2018 14:58
+3818,Oil - Rotary Evaporation,10/31/2018 15:01,472,Dried,Oil Nebula II,21205,1577,472,Dried,Oil Nebula II,1577,1577,10/31/2018 15:06
+3819,Oil - PreDilution,10/31/2018 15:46,472,Dried,Oil Nebula II,1577,9387,472,Dried,Oil Nebula II,9387,9387,10/31/2018 15:52
+3890,Process - Lot Merge,11/20/2018 10:11,472,Dried,Oil Nebula II,10621.5,10602.5,940,Oil,Oil THC/CBD Mixed Blend ,10602.5,10602.5,11/20/2018 10:17
+4079,Oil - Transfer to Extraction Department,1/10/2019 11:21,1007,Dried,Oil Nebula II,14614.09,14549,1007,Dried,Oil Nebula II,14549,14549,1/10/2019 11:22
+4022,Inventory Adjust - Pkg Run Variance,12/19/2018 14:29,626(1)-2,Oil,Oil Nebula II,15893,16011,626(1)-2,Oil,Oil Nebula II,16011,16011,12/19/2018 14:32
+4026,Dispose - Process Waste,12/19/2018 16:55,626(1)-2,Oil,Oil Nebula II,336,57,626(1)-2,Oil,Oil Nebula II,57,57,12/19/2018 16:57
+4031,Oil - Dilution,12/20/2018 12:52,907,Oil,Oil Nebula II,2197,8603,907-1,Oil,Oil Nebula II,8603,8603,12/20/2018 12:55
+4032,Inventory Adjust - Pkg Run Variance,12/20/2018 13:05,907-1,Oil,Oil Nebula II,8603,8705.5,907-1,Oil,Oil Nebula II,8705.5,8705.5,12/20/2018 13:07
+4033,Dispose - Process Waste,12/20/2018 13:23,907-1,Oil,Oil Nebula II,98.5,57,907-1,Oil,Oil Nebula II,57,57,12/20/2018 13:24
+4066,Dispose - Process Waste,1/7/2019 15:20,626(1)-2-3,Oil,Oil Nebula II,124.3,0,,,,,0,1/7/2019 15:21
+4068,Inventory Adjust - Correct Entry Error,1/8/2019 11:37,626(1)-2,Oil,Oil Nebula II,85.5,0,,,,,0,1/8/2019 11:38
+4099,Oil - Milling,1/10/2019 15:28,1007,Dried,Oil Nebula II,14549,14399.5,1007,Dried,Oil Nebula II,14399.5,14399.5,1/10/2019 15:31
+4084,Oil - Milling,1/11/2019 10:04,1008,Dried,Oil Nebula II,13746.5,13701,1008,Dried,Oil Nebula II,13701,13701,1/11/2019 10:05
+4086,Oil - Transfer to Extraction Department,1/11/2019 9:05,1008,Dried,Oil Nebula II,13765.4,13746.5,1008,Dried,Oil Nebula II,13746.5,13746.5,1/11/2019 9:06
+4087,Oil - Milling,1/11/2019 13:42,1008,Dried,Oil Nebula II,13701,13701,1008,Dried,Oil Nebula II,13701,13701,1/11/2019 13:43
+4090,Oil - Decarboxylation,1/11/2019 13:11,1008,Dried,Oil Nebula II,13701,12728.5,1008,Dried,Oil Nebula II,12728.5,12728.5,1/11/2019 13:12
+4091,Oil - Decarboxylation,1/11/2019 13:39,1007,Dried,Oil Nebula II,14399.5,12728.5,1007,Dried,Oil Nebula II,12728.5,12728.5,1/11/2019 13:40
+4114,Oil - Winterization/Filtration,1/16/2019 16:49,1007,Dried,Oil Nebula II,25930,26944,1007,Dried,Oil Nebula II,26944,26944,1/16/2019 16:49
+4098,Oil - Decarboxylation,1/14/2019 15:10,1008,Dried,Oil Nebula II,13701,12102,1008,Dried,Oil Nebula II,12102,12102,1/14/2019 15:11
+4106,Oil - Extraction,1/16/2019 12:42,1007,Dried,Oil Nebula II,12728.5,2264,1007,Dried,Oil Nebula II,2264,2264,1/16/2019 12:43
+4107,Oil - Winterization,1/16/2019 12:46,1007,Dried,Oil Nebula II,2264,25930,1007,Dried,Oil Nebula II,25930,25930,1/16/2019 12:46
+4131,Oil - PreDilution,1/18/2019 10:09,1007,Oil,Oil Nebula II,2334,13977.5,1007,Oil,Oil Nebula II,13977.5,13977.5,1/18/2019 14:07
+4130,Oil - Rotary Evaporation,1/18/2019 10:00,1007,Oil,Oil Nebula II,26944,2334,1007,Oil,Oil Nebula II,2334,2334,1/18/2019 14:07
+4145,Oil - Extraction,1/21/2019 10:02,1008,Dried,Oil Nebula II,12102,2401,1008,Dried,Oil Nebula II,2401,2401,1/21/2019 10:02
+4148,Oil - Winterization,1/21/2019 10:28,1008,Dried,Oil Nebula II,2401,24634.5,1008,Dried,Oil Nebula II,24634.5,24634.5,1/21/2019 10:29
+4157,Oil - Filtration,1/21/2019 16:22,1008,Dried,Oil Nebula II,24634.5,24561,1008,Dried,Oil Nebula II,24561,24561,1/21/2019 16:23
+4169,Oil - Winterization/Filtration,1/22/2019 14:02,1008,Dried,Oil Nebula II,24561,27779.5,1008,Dried,Oil Nebula II,27779.5,27779.5,1/22/2019 14:02
+4170,Oil - Winterization/Filtration,1/22/2019 14:04,1008,Dried,Oil Nebula II,27779.5,28043.5,1008,Dried,Oil Nebula II,28043.5,28043.5,1/22/2019 14:04
+4171,Oil - Winterization/Filtration,1/22/2019 14:04,1008,Dried,Oil Nebula II,28043.5,29230,1008,Dried,Oil Nebula II,29230,29230,1/22/2019 14:05
+4172,Oil - Rotary Evaporation,1/22/2019 15:31,1008,Dried,Oil Nebula II,29230,2459.5,1008,Dried,Oil Nebula II,2459.5,2459.5,1/22/2019 15:32
+4173,Oil - PreDilution,1/22/2019 16:40,1008,Dried,Oil Nebula II,2459.5,17213.5,1008,Dried,Oil Nebula II,17213.5,17213.5,1/22/2019 16:41
+3991,Oil - Decarboxylation,12/12/2018 16:00,981,Dried,Oil Nightingale (NN),12697,11349,981,Dried,Oil Nightingale (NN),11349,11349,12/12/2018 16:00
+4008,Oil - Decarboxylation,12/14/2018 16:55,983,Dried,Oil Nightingale (NN),15567,14010.5,983,Dried,Oil Nightingale (NN),14010.5,14010.5,12/14/2018 16:56
+3978,Oil - Milling,12/11/2018 15:54,981,Dried,Oil Nightingale (NN),12784.5,12697,981,Dried,Oil Nightingale (NN),12697,12697,12/11/2018 15:54
+4001,Oil - Extraction,12/14/2018 11:00,981,Dried,Oil Nightingale (NN),11349,1102.5,981,Dried,Oil Nightingale (NN),1102.5,1102.5,12/14/2018 11:01
+3980,Oil - Transfer to Extraction Department,12/11/2018 14:17,981,Dried,Oil Nightingale (NN),12774.5,12784.5,981,Dried,Oil Nightingale (NN),12784.5,12784.5,12/11/2018 14:17
+3981,Oil - Milling,12/12/2018 15:56,982,Dried,Oil Nightingale (NN),18583.5,18468.5,982,Dried,Oil Nightingale (NN),18468.5,18468.5,12/12/2018 15:57
+3994,Oil - Transfer to Extraction Department,12/13/2018 14:15,983,Dried,Oil Nightingale (NN),15615.5,15520.5,983,Dried,Oil Nightingale (NN),15520.5,15520.5,12/13/2018 14:17
+3986,Oil - Transfer to Extraction Department,12/12/2018 11:48,982,Dried,Oil Nightingale (NN),18561,18583.5,982,Dried,Oil Nightingale (NN),18583.5,18583.5,12/12/2018 11:49
+4003,Oil - Winterization,12/14/2018 13:19,981,Dried,Oil Nightingale (NN),1102.5,20368,981,Dried,Oil Nightingale (NN),20368,20368,12/14/2018 13:20
+4009,Oil - Winterization/Filtration,12/17/2018 14:51,981,Dried,Oil Nightingale (NN),22353.5,23472,981,Dried,Oil Nightingale (NN),23472,23472,12/17/2018 14:51
+3995,Oil - Milling,12/13/2018 14:18,983,Dried,Oil Nightingale (NN),15520.5,15567,983,Dried,Oil Nightingale (NN),15567,15567,12/13/2018 14:20
+3997,Oil - Decarboxylation,12/13/2018 15:48,982,Dried,Oil Nightingale (NN),18468.5,10817.5,982,Dried,Oil Nightingale (NN),10817.5,10817.5,12/13/2018 15:52
+4010,Oil - Rotary Evaporation,12/17/2018 14:56,981,Dried,Oil Nightingale (NN),23472,1168.3,981,Dried,Oil Nightingale (NN),1168.3,1168.3,12/17/2018 14:56
+4006,Oil - Filtration,12/14/2018 15:01,981,Dried,Oil Nightingale (NN),20368,22353.5,981,Dried,Oil Nightingale (NN),22353.5,22353.5,12/14/2018 15:04
+4011,Oil - PreDilution,12/17/2018 15:00,981,Dried,Oil Nightingale (NN),1168.3,3746,981,Dried,Oil Nightingale (NN),3746,3746,12/17/2018 15:00
+4019,Oil - Extraction,12/19/2018 13:05,982,Dried,Oil Nightingale (NN),16670.5,1180.5,982,Dried,Oil Nightingale (NN),1180.5,1180.5,12/19/2018 13:06
+4023,Process - Lot Merge,12/19/2018 16:18,982,Oil,Oil Nightingale (NN),1577,1577,983,Dried,Oil Nightingale (NN),1577,1577,12/19/2018 16:19
+4024,Oil - Extraction,12/19/2018 16:21,982,Oil,Oil Nightingale (NN),15093.5,1180.5,982,Oil,Oil Nightingale (NN),1180.5,1180.5,12/19/2018 16:22
+4042,Oil - Rotary Evaporation,12/28/2018 14:59,982,Oil,Oil Nightingale (NN),22038,1301.8,982,Oil,Oil Nightingale (NN),1301.8,1301.8,12/28/2018 15:01
+4043,Oil - PreDilution,12/28/2018 15:07,982,Oil,Oil Nightingale (NN),1301.8,7760,982,Oil,Oil Nightingale (NN),7760,7760,12/28/2018 15:08
+4036,Oil - Winterization/Filtration,12/21/2018 16:23,982,Oil,Oil Nightingale (NN),1180.5,18169.5,982,Oil,Oil Nightingale (NN),18169.5,18169.5,12/21/2018 16:24
+4037,Oil - Winterization/Filtration,12/21/2018 16:27,982,Oil,Oil Nightingale (NN),18169.5,22038,982,Oil,Oil Nightingale (NN),22038,22038,12/21/2018 16:27
+4058,Oil - Dilution,1/4/2019 12:48,981,Oil,Oil Nightingale (NN),10321.5,35006,981-1,Oil,Oil Nightingale (NN),35006,35006,1/4/2019 12:50
+4063,Inventory Adjust - Pkg Run Variance,1/7/2019 13:58,981-1,Oil,Oil Nightingale (NN),35006,35406.5,981-1,Oil,Oil Nightingale (NN),35406.5,35406.5,1/7/2019 13:59
+4064,Dispose - Process Waste,1/7/2019 14:06,981-1,Oil,Oil Nightingale (NN),152,57,981-1,Oil,Oil Nightingale (NN),57,57,1/7/2019 14:07
+4100,Allocate for Bulk Sale,1/14/2019 16:51,983,Dried,Oil Nightingale (NN),15127,21168,983,Dried,Oil Nightingale (NN),21168,21168,1/14/2019 16:52
+4101,Allocate for Bulk Sale,1/14/2019 17:12,983,Dried,Oil Nightingale (NN),21168,22426.5,983,Dried,Oil Nightingale (NN),22426.5,22426.5,1/14/2019 17:13
+4088,Oil - Extraction,1/11/2019 12:13,983,Dried,Oil Nightingale (NN),15587.5,1494.5,983,Dried,Oil Nightingale (NN),1494.5,1494.5,1/11/2019 12:15
+4089,Oil - Winterization,1/11/2019 12:17,983,Dried,Oil Nightingale (NN),1494.5,15127,983,Dried,Oil Nightingale (NN),15127,15127,1/11/2019 12:18
+4102,Oil - Rotary Evaporation,1/15/2019 10:28,983,Dried,Oil Nightingale (NN),22426.5,1498.7,983,Dried,Oil Nightingale (NN),1498.7,1498.7,1/15/2019 10:30
+4103,Oil - PreDilution,1/15/2019 12:19,983,Dried,Oil Nightingale (NN),1498.7,8220.5,983,Dried,Oil Nightingale (NN),8220.5,8220.5,1/15/2019 12:20
+4121,Inventory Adjust - Pkg Run Variance,1/17/2019 14:58,982-1,Oil,Oil Nightingale (NN),20718.49,20850.5,982-1,Oil,Oil Nightingale (NN),20850.5,20850.5,1/17/2019 15:00
+4105,Oil - Dilution,1/15/2019 16:43,982,Oil,Oil Nightingale (NN),7604,42863,982-1,Oil,Oil Nightingale (NN),42863,42863,1/15/2019 16:44
+4111,Dispose - Process Waste,1/16/2019 14:32,982-1,Oil,Oil Nightingale (NN),20832.5,20832.5,982-1,Oil,Oil Nightingale (NN),20832.5,20832.5,1/16/2019 14:36
+4176,Oil - PreDilution,1/23/2019 10:52,981,Oil,Oil Nightingale (NN),9723.5,9723.5,1033,Oil,Oil Nightingale (NN),9723.5,9723.5,1/23/2019 12:30
+4176,Oil - PreDilution,1/23/2019 10:52,982,Oil,Oil Nightingale (NN),9723.5,9723.5,1033,Oil,Oil Nightingale (NN),9723.5,9723.5,1/23/2019 12:30
+4176,Oil - PreDilution,1/23/2019 10:52,983,Dried,Oil Nightingale (NN),9723.5,9723.5,1033,Oil,Oil Nightingale (NN),9723.5,9723.5,1/23/2019 12:30
+4181,Oil - Dilution,1/23/2019 16:04,1033,Oil,Oil Nightingale (NN),8617,50890,1033-1,Oil,Oil Nightingale (NN),50890,50890,1/23/2019 16:05
+4196,Dispose - Process Waste,1/25/2019 14:31,1033-1,Oil,Oil Nightingale (NN),616,57,1033-1,Oil,Oil Nightingale (NN),57,57,1/25/2019 14:32
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,467,Oil,Oil Northern Lights,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,466,Oil,Oil Northern Lights,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,468,Oil,Oil Northern Lights,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+2030,Oil - Milling,8/13/2018 15:58,466,Dried,Oil Northern Lights,8415.5,8227,466,Dried,Oil Northern Lights,8227,8227,8/13/2018 15:58
+2011,Oil - Milling,8/8/2018 14:34,467,Dried,Oil Northern Lights,8278,8201.5,467,Dried,Oil Northern Lights,8201.5,8201.5,8/8/2018 14:35
+2006,Oil - Milling,6/26/2018 14:09,468,Oil,Oil Northern Lights,9054.5,9021,468,Oil,Oil Northern Lights,9021,9021,6/26/2018 15:01
+2790,Oil - Decarboxylation,4/25/2018 15:54,630,Oil,Oil Northern Lights,8996,8248.5,630,Oil,Oil Northern Lights,8248.5,8248.5,4/25/2018 15:55
+2898,Oil - Extraction,5/9/2018 11:03,630,Oil,Oil Northern Lights,8248.5,1172.5,630(1),Oil,Oil Northern Lights,1172.5,1172.5,5/9/2018 11:05
+2904,Oil - Winterization,5/9/2018 13:24,630(1),Oil,Oil Northern Lights,1172.5,6025.5,630(1),Oil,Oil Northern Lights,6025.5,6025.5,5/9/2018 13:25
+2929,Oil - Winterization/Filtration,5/10/2018 16:51,630(1),Oil,Oil Northern Lights,6025.5,13815,630(1),Oil,Oil Northern Lights,13815,13815,5/10/2018 16:52
+2942,Oil - PreDilution,5/11/2018 15:49,630(1),Oil,Oil Northern Lights,76,470,630(1),Oil,Oil Northern Lights,470,470,5/11/2018 15:50
+2940,Oil - Rotary Evaporation,5/11/2018 15:26,630(1),Oil,Oil Northern Lights,16952,1143.5,630(1),Oil,Oil Northern Lights,1143.5,1143.5,5/11/2018 15:26
+2941,Oil - Rotary Evaporation,5/11/2018 15:29,630(1),Oil,Oil Northern Lights,1067.5,1067.5,669,Oil,Oil Northern Lights,1067.5,1067.5,5/11/2018 15:32
+2954,Oil - Rotary Evaporation,5/14/2018 12:51,669,Oil,Oil Northern Lights,1067.5,1067.5,669(1),Oil,Oil Northern Lights,1067.5,1067.5,5/14/2018 12:53
+3018,Process - Recieve bulk dry purchase,5/23/2018 14:24,468,Oil,Oil Northern Lights,9057,9057,468,Oil,Oil Northern Lights,9057,9057,5/23/2018 14:25
+3034,Inventory Adjust - Cycle Count,5/28/2018 11:23,468,Oil,Oil Northern Lights,9057,9054.5,468,Oil,Oil Northern Lights,9054.5,9054.5,5/28/2018 11:24
+3058,Oil - Milling,4/23/2018 16:39,630,Oil,Oil Northern Lights,9098.5,8996,630,Oil,Oil Northern Lights,8996,8996,4/23/2018 16:44
+3244,Oil - Decarboxylation,6/26/2018 15:47,468,Oil,Oil Northern Lights,9021,7928,468,Oil,Oil Northern Lights,7928,7928,6/26/2018 15:48
+3283,Oil - Winterization/Filtration,7/3/2018 14:45,468(1),Oil,Oil Northern Lights,11775.5,16182,468(1),Oil,Oil Northern Lights,16182,16182,7/3/2018 14:46
+3273,Oil - Extraction,6/29/2018 13:43,468,Oil,Oil Northern Lights,7928,1090.5,468(1),Oil,Oil Northern Lights,1090.5,1090.5,6/29/2018 13:46
+3277,Oil - Winterization,7/3/2018 10:12,468(1),Oil,Oil Northern Lights,1090.5,11775.5,468(1),Oil,Oil Northern Lights,11775.5,11775.5,7/3/2018 10:12
+3287,Oil - Winterization/Filtration,7/4/2018 11:02,468(1),Oil,Oil Northern Lights,16182,16694,468(1),Oil,Oil Northern Lights,16694,16694,7/4/2018 11:03
+3291,Oil - Rotary Evaporation,7/4/2018 14:54,468(1),Oil,Oil Northern Lights,16694,1117,468(1),Oil,Oil Northern Lights,1117,1117,7/4/2018 14:55
+3487,Oil - Decarboxylation,8/13/2018 16:16,467,Dried,Oil Northern Lights,8201.5,7028.5,467,Dried,Oil Northern Lights,7028.5,7028.5,8/13/2018 16:18
+3501,Oil - Decarboxylation,8/16/2018 11:18,466,Dried,Oil Northern Lights,8227,7205,466,Dried,Oil Northern Lights,7205,7205,8/16/2018 11:19
+3510,Oil - Milling,8/21/2018 12:07,771,Oil,Oil Northern Lights,7452.5,7443,771,Oil,Oil Northern Lights,7443,7443,8/21/2018 12:14
+3524,Oil - Transfer to Extraction Department,8/21/2018 12:02,771,Oil,Oil Northern Lights,7576.9,7452.5,771,Oil,Oil Northern Lights,7452.5,7452.5,8/21/2018 12:03
+3519,Oil - Milling,8/29/2018 15:26,772,Oil,Oil Northern Lights,10174,10163.5,772,Oil,Oil Northern Lights,10163.5,10163.5,8/29/2018 15:30
+3525,Oil - Milling,8/31/2018 16:44,773,Oil,Oil Northern Lights,11668.5,11716.5,773,Oil,Oil Northern Lights,11716.5,11716.5,8/31/2018 16:45
+3532,Oil - Decarboxylation,8/21/2018 16:42,771,Oil,Oil Northern Lights,7443,6483,771,Oil,Oil Northern Lights,6483,6483,8/21/2018 16:43
+3537,Sample - Other,8/23/2018 10:40,669(1),Oil,Oil Northern Lights,2.5,0,,,,,0,8/23/2018 10:40
+3556,Oil - Decarboxylation,8/31/2018 16:45,773,Oil,Oil Northern Lights,11716.5,10227.5,773,Oil,Oil Northern Lights,10227.5,10227.5,8/31/2018 16:47
+3567,Oil - PreDilution,9/6/2018 13:25,466,Dried,Oil Northern Lights,19,234.5,466,Dried,Oil Northern Lights,234.5,234.5,9/6/2018 13:26
+3557,Sample - HPLC,9/4/2018 12:31,773,Oil,Oil Northern Lights,20.9,0,,,,,0,9/4/2018 12:32
+3545,Oil - Transfer to Extraction Department,8/28/2018 13:55,772,Oil,Oil Northern Lights,11256,10174,772,Oil,Oil Northern Lights,10174,10174,8/28/2018 13:57
+3559,Oil - Extraction,9/5/2018 13:34,466,Dried,Oil Northern Lights,7205,1129,466,Dried,Oil Northern Lights,1129,1129,9/5/2018 13:34
+3547,Oil - Decarboxylation,8/29/2018 15:34,772,Oil,Oil Northern Lights,10163.5,8754,772,Oil,Oil Northern Lights,8754,8754,8/29/2018 15:38
+3568,Oil - Extraction,9/10/2018 12:01,467,Dried,Oil Northern Lights,7028.5,1147.5,467,Dried,Oil Northern Lights,1147.5,1147.5,9/10/2018 12:01
+3560,Oil - Winterization,9/5/2018 13:36,466,Dried,Oil Northern Lights,1129,11488.5,466,Dried,Oil Northern Lights,11488.5,11488.5,9/5/2018 13:36
+3561,Oil - Winterization/Filtration,9/5/2018 13:37,466,Dried,Oil Northern Lights,11488.5,13170.5,466,Dried,Oil Northern Lights,13170.5,13170.5,9/5/2018 13:37
+3554,Oil - Transfer to Extraction Department,8/31/2018 16:41,773,Oil,Oil Northern Lights,10771.4,11668.5,773,Oil,Oil Northern Lights,11668.5,11668.5,8/31/2018 16:43
+3565,Oil - Filtration,9/6/2018 10:53,466,Dried,Oil Northern Lights,13170.5,15749,466,Dried,Oil Northern Lights,15749,15749,9/6/2018 10:55
+3566,Oil - Rotary Evaporation,9/6/2018 12:56,466,Dried,Oil Northern Lights,15749,1096,466,Dried,Oil Northern Lights,1096,1096,9/6/2018 12:57
+3572,Oil - Winterization,9/11/2018 8:15,467,Dried,Oil Northern Lights,1147.5,9151,467,Dried,Oil Northern Lights,9151,9151,9/11/2018 8:16
+3581,Oil - Winterization/Filtration,9/13/2018 12:07,467,Dried,Oil Northern Lights,9151,11063.5,467,Dried,Oil Northern Lights,11063.5,11063.5,9/13/2018 12:08
+3583,Oil - Winterization/Filtration,9/13/2018 13:49,467,Dried,Oil Northern Lights,11063.5,23178,467,Dried,Oil Northern Lights,23178,23178,9/13/2018 13:49
+3584,Oil - Rotary Evaporation,9/13/2018 15:28,467,Dried,Oil Northern Lights,23178,1426.5,467,Dried,Oil Northern Lights,1426.5,1426.5,9/13/2018 15:29
+3585,Oil - Extraction,9/14/2018 9:37,771,Oil,Oil Northern Lights,6483,1023.5,771,Oil,Oil Northern Lights,1023.5,1023.5,9/14/2018 9:39
+3586,Oil - Winterization,9/14/2018 9:40,771,Oil,Oil Northern Lights,1023.5,9203,771,Oil,Oil Northern Lights,9203,9203,9/14/2018 9:40
+3588,Oil - Winterization/Filtration,9/14/2018 12:50,771,Oil,Oil Northern Lights,9203,9203,771,Oil,Oil Northern Lights,9203,9203,9/14/2018 12:51
+3590,Oil - Filtration,9/14/2018 14:55,771,Oil,Oil Northern Lights,9203,12589,771,Oil,Oil Northern Lights,12589,12589,9/14/2018 14:55
+3591,Oil - Rotary Evaporation,9/14/2018 15:49,771,Oil,Oil Northern Lights,12589,1307,771,Oil,Oil Northern Lights,1307,1307,9/14/2018 15:50
+3615,Oil - Extraction,9/19/2018 12:32,772,Dried,Oil Northern Lights,8754,1372,772,Dried,Oil Northern Lights,1372,1372,9/19/2018 12:32
+3616,Oil - Winterization,9/19/2018 12:35,772,Dried,Oil Northern Lights,1372,8881,772,Dried,Oil Northern Lights,8881,8881,9/19/2018 12:35
+3634,Oil - Winterization/Filtration,9/24/2018 15:22,773,Dried,Oil Northern Lights,12591,12591,773,Dried,Oil Northern Lights,12591,12591,9/24/2018 15:23
+3625,Oil - Winterization/Filtration,9/20/2018 13:20,772,Dried,Oil Northern Lights,10914,11225,772,Dried,Oil Northern Lights,11225,11225,9/20/2018 13:21
+3617,Oil - Winterization/Filtration,9/19/2018 14:30,772,Dried,Oil Northern Lights,8881,10914,772,Dried,Oil Northern Lights,10914,10914,9/19/2018 14:31
+3631,Oil - Extraction,9/21/2018 14:13,773,Dried,Oil Northern Lights,10206.6,1483,773,Dried,Oil Northern Lights,1483,1483,9/21/2018 14:15
+3630,Oil - Rotary Evaporation,9/21/2018 10:15,772,Dried,Oil Northern Lights,11225,1358.5,772,Dried,Oil Northern Lights,1358.5,1358.5,9/21/2018 10:16
+3633,Oil - Winterization/Filtration,9/24/2018 13:36,773,Dried,Oil Northern Lights,9034,12591,773,Dried,Oil Northern Lights,12591,12591,9/24/2018 13:38
+3632,Oil - Winterization,9/21/2018 14:46,773,Dried,Oil Northern Lights,1483,9034,773,Dried,Oil Northern Lights,9034,9034,9/21/2018 14:47
+3637,Oil - Rotary Evaporation,9/24/2018 16:19,773,Dried,Oil Northern Lights,12591,1509,773,Dried,Oil Northern Lights,1509,1509,9/24/2018 16:20
+3776,Inventory Adjust - Correct Entry Error,10/23/2018 9:49,903,Dried,Oil Northern Lights,2203.5,12108,903,Dried,Oil Northern Lights,12108,12108,10/23/2018 9:50
+3795,Oil - Decarboxylation,10/26/2018 16:17,903,Dried,Oil Northern Lights,12151,10875.5,903,Dried,Oil Northern Lights,10875.5,10875.5,10/26/2018 16:18
+3813,Oil - Milling,10/25/2018 11:25,903,Dried,Oil Northern Lights,12103,12151,903,Dried,Oil Northern Lights,12151,12151,10/25/2018 11:27
+3891,Process - Lot Merge,11/20/2018 13:05,773,Oil,Oil Northern Lights,23831.5,24517,937,Oil,Oil Hybrid Blend,24517,24517,11/20/2018 13:06
+3929,Oil - Extraction,11/29/2018 17:08,903,Dried,Oil Northern Lights,10875.5,1453.5,903,Dried,Oil Northern Lights,1453.5,1453.5,11/29/2018 17:09
+3954,Oil - Winterization/Filtration,12/4/2018 13:14,903,Oil,Oil Northern Lights,17386,30068,903,Oil,Oil Northern Lights,30068,30068,12/4/2018 13:15
+3955,Oil - Rotary Evaporation,12/4/2018 13:16,903,Oil,Oil Northern Lights,30068,1491.6,903,Oil,Oil Northern Lights,1491.6,1491.6,12/4/2018 13:17
+3953,Oil - Winterization/Filtration,12/4/2018 13:12,903,Oil,Oil Northern Lights,1453.5,17386,903,Oil,Oil Northern Lights,17386,17386,12/4/2018 13:13
+3956,Oil - PreDilution,12/4/2018 13:21,903,Oil,Oil Northern Lights,1491.6,10210,903,Oil,Oil Northern Lights,10210,10210,12/4/2018 13:23
+4065,Inventory Adjust - Correct Entry Error,1/7/2019 15:13,772,Oil,Oil Northern Lights,1358.5,2626.5,772,Oil,Oil Northern Lights,2626.5,2626.5,1/7/2019 15:14
+292,Oil - Milling,7/18/2017 11:45,260,Oil,Oil Sativa Blend,20310.12,19873,260,Oil,Oil Sativa Blend,19873,19873,7/18/2017 12:07
+293,Oil - Decarboxylation,7/18/2017 12:08,260,Oil,Oil Sativa Blend,19831,17739,260,Oil,Oil Sativa Blend,17739,17739,7/18/2017 14:13
+491,Sample - QA Release,8/28/2017 16:02,260,Oil,Oil Sativa Blend,50.74,50.74,260,Oil,Oil Sativa Blend,50.74,50.74,8/28/2017 16:06
+861,Oil - Decarboxylation,10/16/2017 9:11,374,Oil,Oil Sativa Blend,4765.5,4159,374,Oil,Oil Sativa Blend,4159,4159,10/16/2017 9:15
+847,Oil - Transfer to Extraction Department,10/12/2017 12:56,369,Oil,Oil Sativa Blend,5023.5,5023.5,374,Oil,Oil Sativa Blend,5023.5,5023.5,10/12/2017 12:56
+893,Oil - Rotary Evaporation,10/19/2017 14:15,374(1),Oil,Oil Sativa Blend,3290.5,293.5,374(1),Oil,Oil Sativa Blend,293.5,293.5,10/19/2017 14:38
+884,Oil - Decarboxylation,10/17/2017 11:26,374,Oil,Oil Sativa Blend,4772,4180,374,Oil,Oil Sativa Blend,4180,4180,10/17/2017 11:27
+894,Oil - Rotary Evaporation,10/19/2017 15:20,374(2),Oil,Oil Sativa Blend,4246.5,363,374(2),Oil,Oil Sativa Blend,363,363,10/19/2017 15:24
+887,Oil - Extraction,10/17/2017 11:48,374,Oil,Oil Sativa Blend,2177.5,620.5,374(1),Oil,Oil Sativa Blend,620.5,620.5,10/17/2017 12:06
+877,Oil - Decarboxylation,10/17/2017 9:18,374,Oil,Oil Sativa Blend,4772,4180,374,Oil,Oil Sativa Blend,4180,4180,10/17/2017 9:20
+878,Inventory Adjust - Correct Entry Error,10/17/2017 9:29,374,Oil,Oil Sativa Blend,4180,4772,374,Oil,Oil Sativa Blend,4772,4772,10/17/2017 9:32
+888,Oil - Extraction,10/17/2017 12:28,374,Oil,Oil Sativa Blend,2177.5,894,374(2),Oil,Oil Sativa Blend,894,894,10/17/2017 12:29
+889,Oil - Winterization,10/18/2017 9:34,374(2),Oil,Oil Sativa Blend,894,0,374(2),Oil,Oil Sativa Blend,0,0,10/18/2017 9:35
+890,Oil - Filtration,10/18/2017 9:37,374(2),Oil,Oil Sativa Blend,0,4246.5,374(2),Oil,Oil Sativa Blend,4246.5,4246.5,10/18/2017 9:37
+891,Oil - Winterization,10/18/2017 9:42,374(1),Oil,Oil Sativa Blend,620.5,0,374(1),Oil,Oil Sativa Blend,0,0,10/18/2017 9:44
+892,Oil - Filtration,10/18/2017 13:36,374(1),Oil,Oil Sativa Blend,0,3290.5,374(1),Oil,Oil Sativa Blend,3290.5,3290.5,10/18/2017 13:36
+948,Oil - Milling,12/9/2017 12:13,330,Oil,Oil Sativa Blend,5790.5,5749,330,Oil,Oil Sativa Blend,5749,5749,12/9/2017 12:15
+1311,Oil - Milling,12/20/2017 11:15,369,Oil,Oil Sativa Blend,5396,5352,369,Oil,Oil Sativa Blend,5352,5352,12/20/2017 11:17
+1348,Sample - Other,12/4/2017 18:05,374(2),Oil,Oil Sativa Blend,55,0,,,,,0,12/4/2017 18:13
+1350,Oil - Extraction,12/5/2017 15:49,260,Oil,Oil Sativa Blend,7547.5,1190.5,260(1),Oil,Oil Sativa Blend,1190.5,1190.5,12/5/2017 15:51
+1355,Oil - Extraction,12/7/2017 16:22,260,Oil,Oil Sativa Blend,10140.76,1629.5,260(2),Oil,Oil Sativa Blend,1629.5,1629.5,12/7/2017 16:25
+1367,Oil - Milling,10/12/2017 15:48,374,Oil,Oil Sativa Blend,5023.5,4772,374,Oil,Oil Sativa Blend,4772,4772,10/12/2017 15:53
+1368,Oil - Milling,10/16/2017 9:39,374,Oil,Oil Sativa Blend,4165.5,4772,374,Oil,Oil Sativa Blend,4772,4772,10/16/2017 9:49
+1399,Sample - Other,12/11/2017 15:30,330,Oil,Oil Sativa Blend,113,0,,,,,0,12/11/2017 15:31
+1403,Oil - Decarboxylation,12/11/2017 15:44,330,Oil,Oil Sativa Blend,5620.5,4904,330,Oil,Oil Sativa Blend,4904,4904,12/11/2017 15:48
+1400,Sample - HPLC,12/11/2017 15:38,330,Oil,Oil Sativa Blend,15.5,0,,,,,0,12/11/2017 15:39
+1421,Sample - QA Release,12/12/2017 12:41,330,Oil,Oil Sativa Blend,56,56,330,Oil,Oil Sativa Blend,56,56,12/12/2017 12:42
+1540,Oil - Decarboxylation,12/20/2017 15:44,369,Oil,Oil Sativa Blend,5233.5,4479.5,369,Oil,Oil Sativa Blend,4479.5,4479.5,12/20/2017 15:46
+1536,Sample - Other,12/20/2017 11:22,369,Oil,Oil Sativa Blend,118.5,0,,,,,0,12/20/2017 11:23
+1553,Oil - Extraction,12/21/2017 9:22,330,Oil,Oil Sativa Blend,4904,946,330(1),Oil,Oil Sativa Blend,946,946,12/21/2017 9:24
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,476,Oil,Oil Sativa Blend,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,475,Oil,Oil Sativa Blend,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,474,Oil,Oil Sativa Blend,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+1745,Oil - Extraction,1/4/2018 16:35,369,Oil,Oil Sativa Blend,4479.5,785.5,369(1),Oil,Oil Sativa Blend,785.5,785.5,1/5/2018 16:04
+1956,Oil - Winterization/Filtration,1/24/2018 15:26,260(2),Oil,Oil Sativa Blend,1629.5,22092,260(2),Oil,Oil Sativa Blend,22092,22092,1/24/2018 15:26
+1957,Oil - Rotary Evaporation,1/24/2018 15:30,260(2),Oil,Oil Sativa Blend,22092,1487.5,260(2),Oil,Oil Sativa Blend,1487.5,1487.5,1/24/2018 15:31
+2008,Sample - Other,1/30/2018 16:42,547,Oil,Oil Sativa Blend,123,0,,,,,0,1/30/2018 16:43
+2009,Oil - Decarboxylation,1/30/2018 17:22,547,Oil,Oil Sativa Blend,9065,8133,547,Oil,Oil Sativa Blend,8133,8133,1/30/2018 17:23
+1995,Sample - Other,1/30/2018 12:50,546,Oil,Oil Sativa Blend,139,0,,,,,0,1/30/2018 12:51
+2012,Sample - Other,1/31/2018 11:24,545,Oil,Oil Sativa Blend,121.5,0,,,,,0,1/31/2018 11:25
+2007,Oil - Decarboxylation,1/30/2018 16:37,546,Oil,Oil Sativa Blend,8968.5,7690.5,546,Oil,Oil Sativa Blend,7690.5,7690.5,1/30/2018 16:38
+2023,Oil - Decarboxylation,2/1/2018 9:12,545,Oil,Oil Sativa Blend,13052,11651.5,545,Oil,Oil Sativa Blend,11651.5,11651.5,2/1/2018 9:15
+2036,Oil - Decarboxylation,2/2/2018 8:45,548,Oil,Oil Sativa Blend,10237.5,8847,548,Oil,Oil Sativa Blend,8847,8847,2/2/2018 8:47
+2031,Oil - Decarboxylation,2/1/2018 13:25,543,Oil,Oil Sativa Blend,9695,8461.5,543,Oil,Oil Sativa Blend,8461.5,8461.5,2/1/2018 13:27
+2029,Sample - Other,2/1/2018 11:26,543,Oil,Oil Sativa Blend,131.5,0,,,,,0,2/1/2018 11:27
+2032,Sample - Other,2/1/2018 13:36,548,Oil,Oil Sativa Blend,130,0,,,,,0,2/1/2018 13:37
+2038,Oil - Milling,9/12/2018 16:17,476,Dried,Oil Sativa Blend,9996,9886.5,476,Dried,Oil Sativa Blend,9886.5,9886.5,9/12/2018 16:20
+2042,Oil - Decarboxylation,2/3/2018 14:24,544,Oil,Oil Sativa Blend,12232.5,10553.5,544,Oil,Oil Sativa Blend,10553.5,10553.5,2/3/2018 14:25
+2047,Oil - Milling,2/3/2018 14:46,542,Oil,Oil Sativa Blend,8477.5,8263.5,542,Oil,Oil Sativa Blend,8263.5,8263.5,2/3/2018 14:47
+2090,Transfer to Totes,2/9/2018 14:32,374(1),Oil,Oil Sativa Blend,293.5,282,374(1),Oil,Oil Sativa Blend,282,282,2/9/2018 14:33
+2406,Oil - Winterization,3/9/2018 11:23,330(1),Oil,Oil Sativa Blend,946,7129,330(1),Oil,Oil Sativa Blend,7129,7129,3/9/2018 11:24
+2407,Oil - Winterization,3/9/2018 12:08,369(1),Oil,Oil Sativa Blend,785.5,5216.5,369(1),Oil,Oil Sativa Blend,5216.5,5216.5,3/9/2018 12:09
+2446,Oil - PreDilution,3/14/2018 16:39,260(1),Oil,Oil Sativa Blend,1145,4842.5,260(1),Oil,Oil Sativa Blend,4842.5,4842.5,3/14/2018 16:41
+2442,Oil - PreDilution,3/14/2018 14:11,330(1),Oil,Oil Sativa Blend,932.5,2369.5,330(1),Oil,Oil Sativa Blend,2369.5,2369.5,3/14/2018 14:12
+2412,Oil - Winterization,3/9/2018 13:04,260(1),Oil,Oil Sativa Blend,1190.5,8014.5,260(1),Oil,Oil Sativa Blend,8014.5,8014.5,3/9/2018 13:06
+2413,Transfer to Totes,3/9/2018 15:55,546,Oil,Oil Sativa Blend,7690.5,7702.5,546,Oil,Oil Sativa Blend,7702.5,7702.5,3/9/2018 15:58
+2414,Transfer to Totes,3/9/2018 16:00,545,Oil,Oil Sativa Blend,11651.5,11650,545,Oil,Oil Sativa Blend,11650,11650,3/9/2018 16:01
+2415,Transfer to Totes,3/9/2018 16:03,543,Oil,Oil Sativa Blend,8461.5,8477.5,543,Oil,Oil Sativa Blend,8477.5,8477.5,3/9/2018 16:04
+2435,Oil - Winterization/Filtration,3/14/2018 11:05,260(1),Oil,Oil Sativa Blend,8014.5,22092,260(1),Oil,Oil Sativa Blend,22092,22092,3/14/2018 11:07
+2426,Oil - Winterization/Filtration,3/13/2018 12:06,369(1),Oil,Oil Sativa Blend,5216.5,15431,369(1),Oil,Oil Sativa Blend,15431,15431,3/13/2018 12:07
+2443,Oil - Rotary Evaporation,3/14/2018 15:39,260(1),Oil,Oil Sativa Blend,22092,1545,260(1),Oil,Oil Sativa Blend,1545,1545,3/14/2018 15:40
+2436,Oil - Winterization/Filtration,3/14/2018 11:38,330(1),Oil,Oil Sativa Blend,7129,17070.5,330(1),Oil,Oil Sativa Blend,17070.5,17070.5,3/14/2018 11:39
+2427,Oil - Rotary Evaporation,3/13/2018 15:03,369(1),Oil,Oil Sativa Blend,15431,1751,369(1),Oil,Oil Sativa Blend,1751,1751,3/15/2018 11:10
+2444,Oil - Rotary Evaporation,3/14/2018 16:20,260(1),Oil,Oil Sativa Blend,1545,1145,260(1),Oil,Oil Sativa Blend,1145,1145,3/14/2018 16:21
+2445,Oil - Rotary Evaporation,3/14/2018 16:23,260(2),Oil,Oil Sativa Blend,1487.5,1545,260(2),Oil,Oil Sativa Blend,1545,1545,3/14/2018 16:25
+2441,Oil - Rotary Evaporation,3/14/2018 14:08,330(1),Oil,Oil Sativa Blend,17070.5,932.5,330(1),Oil,Oil Sativa Blend,932.5,932.5,3/14/2018 14:09
+2457,Inventory Adjust - Correct Entry Error,3/15/2018 10:14,260(2),Oil,Oil Sativa Blend,57.5,0,,,,,0,3/15/2018 10:16
+2458,Oil - PreDilution,3/15/2018 10:16,260(2),Oil,Oil Sativa Blend,1487.5,6105,260(2),Oil,Oil Sativa Blend,6105,6105,3/15/2018 10:19
+2459,Inventory Adjust - Correct Entry Error,3/15/2018 11:17,369(1),Oil,Oil Sativa Blend,1000,0,,,,,0,3/15/2018 11:17
+2460,Oil - PreDilution,3/15/2018 11:19,369(1),Oil,Oil Sativa Blend,751,7887.5,369(1),Oil,Oil Sativa Blend,7887.5,7887.5,3/15/2018 11:21
+2462,Destroy Whole Lot,3/15/2018 14:11,374(2),Oil,Oil Sativa Blend,275.5,0,,,,,0,3/15/2018 14:12
+2463,Transfer to Totes,3/15/2018 15:37,544,Oil,Oil Sativa Blend,10553.5,10569.5,544,Oil,Oil Sativa Blend,10569.5,10569.5,3/15/2018 15:39
+2464,Transfer to Totes,3/15/2018 15:43,547,Oil,Oil Sativa Blend,8133,8041.5,547,Oil,Oil Sativa Blend,8041.5,8041.5,3/15/2018 15:44
+2465,Transfer to Totes,3/15/2018 15:52,548,Oil,Oil Sativa Blend,8847,8846.5,548,Oil,Oil Sativa Blend,8846.5,8846.5,3/15/2018 15:54
+2482,Sample - Other,3/16/2018 15:34,548,Oil,Oil Sativa Blend,64.5,0,,,,,0,3/16/2018 15:35
+2468,Oil - PreDilution,3/16/2018 13:25,369(1),Oil,Oil Sativa Blend,21204.5,24498,613,Oil,Oil Sativa Blend,24498,24498,3/16/2018 13:27
+2468,Oil - PreDilution,3/16/2018 13:25,260(2),Oil,Oil Sativa Blend,21204.5,24498,613,Oil,Oil Sativa Blend,24498,24498,3/16/2018 13:27
+2468,Oil - PreDilution,3/16/2018 13:25,330(1),Oil,Oil Sativa Blend,21204.5,24498,613,Oil,Oil Sativa Blend,24498,24498,3/16/2018 13:27
+2468,Oil - PreDilution,3/16/2018 13:25,260(1),Oil,Oil Sativa Blend,21204.5,24498,613,Oil,Oil Sativa Blend,24498,24498,3/16/2018 13:27
+2470,Sample - Other,3/16/2018 14:49,613,Oil,Oil Sativa Blend,58,0,,,,,0,3/16/2018 14:50
+2547,Sample - Other,3/20/2018 14:55,548,Oil,Oil Sativa Blend,0,0,,,,,0,3/20/2018 14:57
+2551,Oil - Decarboxylation,3/20/2018 16:13,542,Oil,Oil Sativa Blend,8263.5,7247.5,542,Oil,Oil Sativa Blend,7247.5,7247.5,3/20/2018 16:15
+2563,Oil - Milling,2/1/2018 11:18,543,Oil,Oil Sativa Blend,9878,9826.5,543,Oil,Oil Sativa Blend,9826.5,9826.5,2/1/2018 11:22
+2577,Oil - Milling,2/2/2018 10:24,544,Oil,Oil Sativa Blend,12304.5,12232.5,544,Oil,Oil Sativa Blend,12232.5,12232.5,2/2/2018 10:52
+2581,Oil - Milling,1/31/2018 11:20,545,Oil,Oil Sativa Blend,13203.5,13173.5,545,Oil,Oil Sativa Blend,13173.5,13173.5,1/31/2018 11:22
+2611,Allocate for Final Packaging,3/29/2018 16:40,548,Dried,Oil Sativa Blend,8715.9,8715.9,548,Dried,Oil Sativa Blend,8715.9,8715.9,3/29/2018 16:42
+2656,Inventory Adjust - Pkg Run Variance,4/6/2018 15:34,548,Dried,Oil Sativa Blend,8129.37,8133.4,548,Dried,Oil Sativa Blend,8133.4,8133.4,4/6/2018 15:35
+2670,Inventory Adjust - Pkg Run Variance,4/12/2018 11:46,548,Dried,Oil Sativa Blend,6776.32,6810.5,548,Dried,Oil Sativa Blend,6810.5,6810.5,4/12/2018 11:47
+2717,Retain Sample,4/18/2018 15:30,548,Dried,Oil Sativa Blend,6810.5,6686.711,548,Dried,Oil Sativa Blend,6686.711,6686.711,4/18/2018 15:36
+2772,Oil - Milling,1/30/2018 12:07,546,Oil,Oil Sativa Blend,9167,9107.5,546,Oil,Oil Sativa Blend,9107.5,9107.5,1/30/2018 12:10
+2765,Oil - Milling,1/30/2018 16:27,547,Oil,Oil Sativa Blend,9229,9188,547,Oil,Oil Sativa Blend,9188,9188,1/30/2018 16:29
+2779,Oil - Milling,2/1/2018 12:38,548,Oil,Oil Sativa Blend,10431.5,10367.5,548,Oil,Oil Sativa Blend,10367.5,10367.5,2/1/2018 12:42
+2946,Allocate for Final Packaging,5/11/2018 16:47,548,Dried,Oil Sativa Blend,6686.71,6686.71,548,Dried,Oil Sativa Blend,6686.71,6686.71,5/11/2018 16:48
+2957,Process - Bulk Shipment,5/14/2018 16:53,613,Oil,Oil Sativa Blend,20064,0,,,,,0,5/14/2018 17:00
+3261,Oil - Winterization,6/27/2018 15:20,542(1),Oil,Oil Sativa Blend,1226.5,6571.5,542(1),Oil,Oil Sativa Blend,6571.5,6571.5,6/27/2018 15:24
+3258,Oil - Extraction,6/27/2018 15:08,542,Oil,Oil Sativa Blend,7247.5,1226.5,542(1),Oil,Oil Sativa Blend,1226.5,1226.5,8/1/2018 15:10
+3310,Oil - Winterization/Filtration,7/9/2018 11:18,544(1),Oil,Oil Sativa Blend,1740,8567.5,544(1),Oil,Oil Sativa Blend,8567.5,8567.5,7/9/2018 11:18
+3303,Oil - PreDilution,7/6/2018 14:20,542(1),Oil,Oil Sativa Blend,1263.5,7478,542(1),Oil,Oil Sativa Blend,7478,7478,8/1/2018 15:10
+3302,Oil - Rotary Evaporation,7/6/2018 13:46,542(1),Oil,Oil Sativa Blend,13551,1263.5,542(1),Oil,Oil Sativa Blend,1263.5,1263.5,7/6/2018 13:46
+3306,Oil - Extraction,7/6/2018 15:51,544,Oil,Oil Sativa Blend,10569.5,1740,544(1),Oil,Oil Sativa Blend,1740,1740,7/6/2018 15:52
+3299,Oil - Winterization/Filtration,7/6/2018 11:39,542(1),Oil,Oil Sativa Blend,6571.5,13551,542(1),Oil,Oil Sativa Blend,13551,13551,7/6/2018 11:40
+3323,Oil - Winterization/Filtration,7/10/2018 16:47,544(1),Oil,Oil Sativa Blend,8567.5,13989,544(1),Oil,Oil Sativa Blend,13989,13989,7/10/2018 16:47
+3359,Oil - Winterization/Filtration,7/16/2018 11:35,544(1),Oil,Oil Sativa Blend,13989,17854.5,544(1),Oil,Oil Sativa Blend,17854.5,17854.5,7/16/2018 11:36
+3360,Oil - Rotary Evaporation,7/16/2018 13:35,544(1),Oil,Oil Sativa Blend,17854.5,1637.5,544(1),Oil,Oil Sativa Blend,1637.5,1637.5,7/16/2018 13:36
+3361,Oil - PreDilution,7/16/2018 14:16,544(1),Oil,Oil Sativa Blend,1637.5,9770,544(1),Oil,Oil Sativa Blend,9770,9770,7/16/2018 14:17
+3394,Oil - Dilution,7/24/2018 13:30,544(1),Oil,Oil Sativa Blend,11423,25671.5,544(1)-1,Oil,Oil Sativa Blend,25671.5,25671.5,7/24/2018 13:32
+3395,Inventory Adjust - Pkg Run Variance,7/24/2018 13:40,544(1)-1,Oil,Oil Sativa Blend,25671.5,26452,544(1)-1,Oil,Oil Sativa Blend,26452,26452,7/24/2018 13:41
+3397,Dispose - Process Waste,7/24/2018 14:36,544(1)-1,Oil,Oil Sativa Blend,745,0,,,,,0,7/24/2018 14:37
+3393,Process - Lot Merge,7/24/2018 13:20,544(1),Oil,Oil Sativa Blend,33316,33316,544(1),Oil,Oil Sativa Blend,33316,33316,7/24/2018 13:21
+3400,Sample - QA Release,7/25/2018 10:20,544(1)-1,Oil,Oil Sativa Blend,57,57,544(1)-1,Oil,Oil Sativa Blend,57,57,7/25/2018 10:21
+3401,Oil - PreDilution,7/25/2018 14:41,544(1),Oil,Oil Sativa Blend,9506,9505,788,Oil,Oil 1:1 (THC:CBD),9505,9505,7/25/2018 14:43
+3437,Inventory Adjust - Correct Entry Error,8/1/2018 15:09,544(1),Oil,Oil Sativa Blend,16711.5,16441,544(1),Oil,Oil Sativa Blend,16441,16441,8/1/2018 15:09
+3436,Oil - Mixing to Specific THC:CBD Ratio,8/1/2018 15:05,544(1),Oil,Oil Sativa Blend,8507,8490.5,799,Oil,Oil 1:1 (THC:CBD),8490.5,8490.5,8/1/2018 15:13
+3618,Oil - Decarboxylation,9/19/2018 15:03,476,Dried,Oil Sativa Blend,9886.5,8587,476,Dried,Oil Sativa Blend,8587,8587,9/19/2018 15:04
+3650,Oil - Extraction,9/27/2018 10:55,476,Dried,Oil Sativa Blend,8587,1602.5,476,Dried,Oil Sativa Blend,1602.5,1602.5,9/27/2018 11:02
+3651,Oil - Winterization,9/27/2018 11:24,476,Oil,Oil Sativa Blend,1602.5,11846,476,Oil,Oil Sativa Blend,11846,11846,9/27/2018 11:24
+3665,Inventory Adjust - Correct Entry Error,10/1/2018 12:39,544(1),Oil,Oil Sativa Blend,12150.5,12039.5,544(1),Oil,Oil Sativa Blend,12039.5,12039.5,10/1/2018 12:40
+3652,Oil - Winterization/Filtration,9/27/2018 11:25,476,Oil,Oil Sativa Blend,11846,10902,476,Oil,Oil Sativa Blend,10902,10902,9/27/2018 11:26
+3653,Oil - Winterization/Filtration,9/27/2018 13:44,476,Oil,Oil Sativa Blend,10902,18027.5,476,Oil,Oil Sativa Blend,18027.5,18027.5,9/27/2018 13:45
+3655,Oil - Rotary Evaporation,9/27/2018 15:12,476,Oil,Oil Sativa Blend,18027.5,1449.5,476,Oil,Oil Sativa Blend,1449.5,1449.5,9/27/2018 15:13
+3656,Oil - PreDilution,9/27/2018 15:36,476,Oil,Oil Sativa Blend,1449.5,8847,476,Oil,Oil Sativa Blend,8847,8847,9/27/2018 15:37
+3677,Process - Lot Merge,10/3/2018 9:49,542(1),Oil,Oil Sativa Blend,10334.5,10334.5,867,Oil,Oil Hybrid Blend,10334.5,10334.5,10/3/2018 9:56
+3692,Process - Lot Merge,10/4/2018 14:26,544(1),Oil,Oil Sativa Blend,16602,16602,871,Oil,Oil 1:1 (THC:CBD),16602,16602,10/4/2018 14:27
+3734,Oil - Extraction,10/15/2018 9:54,543,Dried,Oil Sativa Blend,8477.5,1354,543,Dried,Oil Sativa Blend,1354,1354,10/15/2018 10:01
+3735,Oil - Winterization/Filtration,10/15/2018 10:03,543,Dried,Oil Sativa Blend,1354,9787,543,Dried,Oil Sativa Blend,9787,9787,10/15/2018 10:04
+3736,Oil - Winterization/Filtration,10/15/2018 10:05,543,Dried,Oil Sativa Blend,9787,16122,543,Dried,Oil Sativa Blend,16122,16122,10/15/2018 10:06
+3737,Oil - Rotary Evaporation,10/15/2018 10:07,543,Dried,Oil Sativa Blend,16122,1249.5,543,Dried,Oil Sativa Blend,1249.5,1249.5,10/15/2018 10:09
+3741,Oil - Dilution,10/15/2018 14:20,613-1,Oil,Oil Sativa Blend,2630.5,14470.5,613-1,Oil,Oil Sativa Blend,14470.5,14470.5,10/15/2018 14:20
+3738,Oil - PreDilution,10/15/2018 10:13,543,Dried,Oil Sativa Blend,1249.5,3757.5,543,Dried,Oil Sativa Blend,3757.5,3757.5,10/15/2018 10:16
+3747,Allocate for Bulk Sale,10/16/2018 11:56,613-1,Oil,Oil Sativa Blend,14470.5,14939,613-1,Oil,Oil Sativa Blend,14939,14939,10/16/2018 12:05
+3748,Dispose - Process Waste,10/16/2018 13:36,613-1,Oil,Oil Sativa Blend,261.5,57,613-1,Oil,Oil Sativa Blend,57,57,10/16/2018 13:36
+3891,Process - Lot Merge,11/20/2018 13:05,613,Oil,Oil Sativa Blend,23831.5,24517,937,Oil,Oil Hybrid Blend,24517,24517,11/20/2018 13:06
+4000,Oil - Rotary Evaporation,12/13/2018 16:51,545,Oil,Oil Sativa Blend,26481,1538.2,545,Oil,Oil Sativa Blend,1538.2,1538.2,12/13/2018 16:52
+3976,Oil - Extraction,12/10/2018 17:18,545,Dried,Oil Sativa Blend,11650,1634,545,Dried,Oil Sativa Blend,1634,1634,12/13/2018 14:39
+3998,Oil - Winterization/Filtration,12/13/2018 16:50,545,Oil,Oil Sativa Blend,1634,14118,545,Oil,Oil Sativa Blend,14118,14118,12/13/2018 16:50
+3999,Oil - Winterization/Filtration,12/13/2018 16:50,545,Oil,Oil Sativa Blend,14118,26481,545,Oil,Oil Sativa Blend,26481,26481,12/13/2018 16:51
+4005,Oil - PreDilution,12/14/2018 14:56,545,Oil,Oil Sativa Blend,1538.2,5148,545,Oil,Oil Sativa Blend,5148,5148,12/14/2018 14:57
+4112,Allocate for Extraction,1/16/2019 15:11,474,Dried,Oil Sativa Blend,18514.5,18514.5,1018,Dried,Oil Hybrid Blend,18514.5,18514.5,1/16/2019 15:12
+4112,Allocate for Extraction,1/16/2019 15:11,475,Dried,Oil Sativa Blend,18514.5,18514.5,1018,Dried,Oil Hybrid Blend,18514.5,18514.5,1/16/2019 15:12
+4092,Oil - Milling,1/14/2019 16:08,1014,Dried,Oil Sativa Blend,13110.68,12683.5,1014,Dried,Oil Sativa Blend,12683.5,12683.5,1/14/2019 16:09
+4104,Oil - Decarboxylation,1/15/2019 15:58,1014,Dried,Oil Sativa Blend,12683.5,11372,1014,Dried,Oil Sativa Blend,11372,11372,1/15/2019 15:58
+4097,Oil - Transfer to Extraction Department,1/14/2019 12:34,1014,Dried,Oil Sativa Blend,13110.68,13110.68,1014,Dried,Oil Sativa Blend,13110.68,13110.68,1/18/2019 14:07
+4218,Oil - PreDilution,1/31/2019 13:19,545,Oil,Oil Sativa Blend,8701,8701,1047,Oil,Oil Hybrid Blend,8701,8701,1/31/2019 13:20
+3764,Oil - Transfer to Extraction Department,10/19/2018 13:26,899,Dried,Oil Sour Kush,12758.94,12792.5,899,Dried,Oil Sour Kush,12792.5,12792.5,10/19/2018 13:27
+3766,Oil - Transfer to Extraction Department,10/22/2018 10:10,897,Dried,Oil Sour Kush,12027.24,12109,897,Dried,Oil Sour Kush,12109,12109,10/22/2018 10:11
+3768,Oil - Decarboxylation,10/22/2018 10:15,897,Dried,Oil Sour Kush,12049.5,10576,897,Dried,Oil Sour Kush,10576,10576,10/22/2018 10:16
+3773,Oil - Decarboxylation,10/22/2018 15:01,899,Dried,Oil Sour Kush,12712,11404,899,Dried,Oil Sour Kush,11404,11404,10/22/2018 15:03
+3779,Oil - Milling,10/22/2018 10:12,897,Dried,Oil Sour Kush,12109,12049.5,897,Dried,Oil Sour Kush,12049.5,12049.5,10/22/2018 10:14
+3784,Oil - Extraction,10/25/2018 8:20,897,Dried,Oil Sour Kush,10576,1864.5,897,Dried,Oil Sour Kush,1864.5,1864.5,10/25/2018 8:20
+3785,Oil - Winterization,10/25/2018 8:21,897,Dried,Oil Sour Kush,1864.5,14565.5,897,Dried,Oil Sour Kush,14565.5,14565.5,10/25/2018 8:22
+3786,Oil - Milling,10/22/2018 14:55,899,Dried,Oil Sour Kush,12792.5,12712,899,Dried,Oil Sour Kush,12712,12712,10/22/2018 14:58
+3787,Oil - Winterization/Filtration,10/25/2018 11:45,897,Dried,Oil Sour Kush,14565.5,17449.5,897,Dried,Oil Sour Kush,17449.5,17449.5,10/25/2018 11:57
+3789,Oil - Winterization/Filtration,10/25/2018 14:35,897,Dried,Oil Sour Kush,17449.5,19126,897,Dried,Oil Sour Kush,19126,19126,10/25/2018 14:36
+3790,Oil - Rotary Evaporation,10/25/2018 15:00,897,Dried,Oil Sour Kush,19126,1788,897,Dried,Oil Sour Kush,1788,1788,10/25/2018 15:01
+3791,Oil - PreDilution,10/25/2018 16:56,897,Dried,Oil Sour Kush,1788,16196.5,897,Dried,Oil Sour Kush,16196.5,16196.5,10/25/2018 16:57
+3822,Oil - Dilution,11/1/2018 16:42,897-1,Oil,Oil Sour Kush,4674,38591.5,897-1,Oil,Oil Sour Kush,38591.5,38591.5,11/1/2018 16:45
+3836,Process - Lot Split,11/5/2018 15:37,897-1,Oil,Oil Sour Kush,19952.5,19952.5,897-1-3,Oil,Oil Sour Kush,19952.5,19952.5,11/5/2018 15:38
+3857,Oil - Encapsulation and Sealing,11/9/2018 16:30,897-1-3,Oil,Oil Sour Kush,19952.5,19600.9,897-1-3,Oil,Oil Sour Kush,19600.9,19600.9,11/9/2018 16:31
+3879,Dispose - Spillage,11/15/2018 16:06,897-1-3,Oil,Oil Sour Kush,106.9,0,,,,,0,11/16/2018 16:33
+3910,Allocate for Bulk Sale,11/27/2018 11:42,899,Dried,Oil Sour Kush,11404,1446,899,Dried,Oil Sour Kush,1446,1446,11/27/2018 11:45
+3913,Oil - Winterization/Filtration,11/28/2018 11:13,899,Oil,Oil Sour Kush,1446,16394,899,Oil,Oil Sour Kush,16394,16394,11/28/2018 11:17
+3914,Oil - Winterization/Filtration,11/28/2018 11:18,899,Oil,Oil Sour Kush,16394,27969.5,899,Oil,Oil Sour Kush,27969.5,27969.5,11/28/2018 11:20
+3915,Oil - Rotary Evaporation,11/28/2018 11:21,899,Oil,Oil Sour Kush,27969.5,1478.5,899,Oil,Oil Sour Kush,1478.5,1478.5,11/28/2018 11:23
+3916,Oil - PreDilution,11/28/2018 11:56,899,Oil,Oil Sour Kush,1478.5,11761.5,899,Oil,Oil Sour Kush,11761.5,11761.5,11/28/2018 11:58
+4136,Oil - Transfer to Extraction Department,1/18/2019 14:04,1028,Dried,Oil Sour Kush,18128.6,17890,1028,Dried,Oil Sour Kush,17890,17890,1/18/2019 14:06
+4142,Allocate for Bulk Sale,1/21/2019 9:04,1029,Dried,Oil Sour Kush,11429.65,11258,1029,Dried,Oil Sour Kush,11258,11258,1/21/2019 9:05
+4152,Oil - Milling,1/18/2019 14:05,1028,Dried,Oil Sour Kush,17890,17830.5,1028,Dried,Oil Sour Kush,17830.5,17830.5,1/18/2019 14:08
+4156,Oil - Decarboxylation,1/21/2019 15:22,1028,Dried,Oil Sour Kush,17830.5,15947,1028,Dried,Oil Sour Kush,15947,15947,1/21/2019 15:23
+4168,Oil - Milling,1/21/2019 9:06,1029,Dried,Oil Sour Kush,11258,11234.5,1029,Dried,Oil Sour Kush,11234.5,11234.5,1/21/2019 9:07
+4160,Oil - Decarboxylation,1/22/2019 11:09,1029,Dried,Oil Sour Kush,11234.5,10068,1029,Dried,Oil Sour Kush,10068,10068,1/22/2019 11:10
+4224,Oil - Encapsulation and Sealing,2/4/2019 10:21,897-1,Oil,Oil Sour Kush,18055,18055,897-1-3(1),Oil,Oil Sour Kush,18055,18055,2/4/2019 10:24
+4217,Oil - Dilution,1/31/2019 13:10,899,Oil,Oil Sour Kush,10936.5,54020,899-1,Oil,Oil Sour Kush,54020,54020,1/31/2019 13:11
+4236,Dispose - Process Waste,2/5/2019 11:05,897-1-3(1),Oil,Oil Sour Kush,328,0,,,,,0,2/5/2019 11:05
+4247,Oil - Dilution,2/7/2019 8:14,897,Oil,Oil Sour Kush,12350.5,80000,1064,Oil,Oil Sour Kush,80000,80000,2/7/2019 8:15
+4247,Oil - Dilution,2/7/2019 8:14,899,Oil,Oil Sour Kush,12350.5,80000,1064,Oil,Oil Sour Kush,80000,80000,2/7/2019 8:15
+4277,Oil - Dilution,2/15/2019 14:17,899-1,Oil,Oil Sour Kush,55349.5,55222,1071-1,Oil,Oil Sour Kush,55222,55222,2/15/2019 14:19
+4277,Oil - Dilution,2/15/2019 14:17,1028,Oil,Oil Sour Kush,55349.5,55222,1071-1,Oil,Oil Sour Kush,55222,55222,2/15/2019 14:19
+4266,Oil - Extraction,2/12/2019 15:07,1028,Dried,Oil Sour Kush,15947,2700.5,1028,Dried,Oil Sour Kush,2700.5,2700.5,2/12/2019 15:09
+4267,Oil - Winterization,2/13/2019 16:00,1028,Oil,Oil Sour Kush,2700.5,37437,1028,Oil,Oil Sour Kush,37437,37437,2/13/2019 16:01
+4268,Oil - Winterization/Filtration,2/13/2019 16:03,1028,Oil,Oil Sour Kush,37437,40851,1028,Oil,Oil Sour Kush,40851,40851,2/13/2019 16:03
+4274,Oil - Winterization/Filtration,2/14/2019 16:27,1028,Oil,Oil Sour Kush,40851,47971,1028,Oil,Oil Sour Kush,47971,47971,2/14/2019 16:28
+4275,Oil - PreDilution,2/14/2019 18:44,1028,Oil,Oil Sour Kush,47971,2620.5,1028,Oil,Oil Sour Kush,2620.5,2620.5,2/14/2019 18:45
+4276,Oil - PreDilution,2/14/2019 18:45,1028,Oil,Oil Sour Kush,2620.5,15286.5,1028,Oil,Oil Sour Kush,15286.5,15286.5,2/14/2019 18:46
+864,Oil - Milling,12/20/2017 15:33,265,Oil,Oil THC/CBD Mixed Blend ,8892.5,8863,265,Oil,Oil THC/CBD Mixed Blend ,8863,8863,12/20/2017 15:41
+1542,Oil - Decarboxylation,12/20/2017 17:02,265,Oil,Oil THC/CBD Mixed Blend ,8737.5,7631,265,Oil,Oil THC/CBD Mixed Blend ,7631,7631,12/20/2017 17:03
+1539,Sample - Other,12/20/2017 15:42,265,Oil,Oil THC/CBD Mixed Blend ,125.5,0,,,,,0,12/20/2017 15:43
+1589,Oil - Extraction,12/22/2017 13:49,265,Oil,Oil THC/CBD Mixed Blend ,7631,968.5,265(1),Oil,Oil THC/CBD Mixed Blend ,968.5,968.5,12/22/2017 13:52
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,472,Oil,Oil Nebula II,12416.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,467,Oil,Oil Northern Lights,8292,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,466,Oil,Oil Northern Lights,8417.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,468,Oil,Oil Northern Lights,9057,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,476,Oil,Oil Sativa Blend,10011,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,475,Oil,Oil Sativa Blend,9929,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,474,Oil,Oil Sativa Blend,8614,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,477,Oil,Oil THC/CBD Mixed Blend ,3827.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,478,Oil,Oil Indica Blend,4022.5,80324,12/31/2017 12:18
+1681,Process - Bulk Shipment,12/31/2017 12:03,477,Oil,Oil THC/CBD Mixed Blend ,80324,80324,473,Oil,Oil Nebula II,5737,80324,12/31/2017 12:18
+1982,Oil - Winterization/Filtration,1/26/2018 15:08,265(1),Oil,Oil THC/CBD Mixed Blend ,968.5,14735,265(1),Oil,Oil THC/CBD Mixed Blend ,14735,14735,1/26/2018 15:10
+1983,Oil - Rotary Evaporation,1/26/2018 15:11,265(1),Oil,Oil THC/CBD Mixed Blend ,14735,867.5,265(1),Oil,Oil THC/CBD Mixed Blend ,867.5,867.5,1/26/2018 15:12
+2575,Oil - PreDilution,3/23/2018 12:01,265(1),Oil,Oil THC/CBD Mixed Blend ,867.5,4324.5,265(1),Oil,Oil THC/CBD Mixed Blend ,4324.5,4324.5,3/23/2018 12:03
+3415,Oil - Winterization/Filtration,7/27/2018 16:58,776,Oil,Oil THC/CBD Mixed Blend ,783.5,9982.5,776,Oil,Oil THC/CBD Mixed Blend ,9982.5,9982.5,7/27/2018 16:58
+3406,Sample - HPLC,7/25/2018 15:57,776,Oil,Oil THC/CBD Mixed Blend ,8.9,0,,,,,0,7/25/2018 15:58
+3407,Oil - Decarboxylation,7/25/2018 15:59,776,Oil,Oil THC/CBD Mixed Blend ,5540.1,4869,776,Oil,Oil THC/CBD Mixed Blend ,4869,4869,7/25/2018 16:00
+3401,Oil - PreDilution,7/25/2018 14:41,265(1),Oil,Oil THC/CBD Mixed Blend ,9506,9505,788,Oil,Oil 1:1 (THC:CBD),9505,9505,7/25/2018 14:43
+3414,Oil - Extraction,7/27/2018 16:57,776,Oil,Oil THC/CBD Mixed Blend ,4869,783.5,776,Oil,Oil THC/CBD Mixed Blend ,783.5,783.5,7/27/2018 16:57
+3425,Oil - PreDilution,7/31/2018 13:58,776,Oil,Oil THC/CBD Mixed Blend ,770,4216.5,776,Oil,Oil THC/CBD Mixed Blend ,4216.5,4216.5,7/31/2018 14:00
+3424,Oil - Rotary Evaporation,7/31/2018 13:56,776,Oil,Oil THC/CBD Mixed Blend ,9982.5,770,776,Oil,Oil THC/CBD Mixed Blend ,770,770,7/31/2018 13:58
+3436,Oil - Mixing to Specific THC:CBD Ratio,8/1/2018 15:05,776,Oil,Oil THC/CBD Mixed Blend ,8507,8490.5,799,Oil,Oil 1:1 (THC:CBD),8490.5,8490.5,8/1/2018 15:13
+3546,Oil - Milling,7/25/2018 15:52,776,Oil,Oil THC/CBD Mixed Blend ,5446.5,5549,776,Oil,Oil THC/CBD Mixed Blend ,5549,5549,7/25/2018 15:56
+3898,Oil - Mixing to Specific THC:CBD Ratio,11/21/2018 13:34,940,Oil,Oil THC/CBD Mixed Blend ,16847.5,16837,936,Oil,Oil 1:1 (THC:CBD),16837,16837,11/21/2018 13:35
+945,Sample - MBA,10/26/2017 10:55,379,Oil,Oil Treasure Island (APH),9.18,0,,,,,0,10/26/2017 10:58
+945,Sample - MBA,10/26/2017 10:55,380,Oil,Oil Treasure Island (APH),9.18,0,,,,,0,10/26/2017 10:58
+956,Lab Sample,10/27/2017 11:14,380,Oil,Oil Treasure Island (APH),2.42,0,,,,,0,10/27/2017 11:14
+1053,Oil - Decarboxylation,11/10/2017 15:25,379,Oil,Oil Treasure Island (APH),6561.03,5665.5,379,Oil,Oil Treasure Island (APH),5665.5,5665.5,11/10/2017 15:27
+1054,Oil - Decarboxylation,11/10/2017 16:17,380,Oil,Oil Treasure Island (APH),5923,5115,380,Oil,Oil Treasure Island (APH),5115,5115,11/10/2017 16:18
+1048,Sample - HPLC,11/10/2017 10:51,379,Oil,Oil Treasure Island (APH),4.97,0,,,,,0,11/10/2017 11:00
+1081,Oil - Winterization/Filtration,11/14/2017 10:20,379,Oil,Oil Treasure Island (APH),5665.5,6970,379(1),Oil,Oil Treasure Island (APH),6970,6970,11/14/2017 10:41
+1089,Oil - Extraction,11/15/2017 13:17,380,Oil,Oil Treasure Island (APH),5115,876.84,380(1),Oil,Oil Treasure Island (APH),876.84,876.84,11/15/2017 13:29
+1091,Oil - PreDilution,11/15/2017 15:18,379(1),Oil,Oil Treasure Island (APH),6970,5283,379(1),Oil,Oil Treasure Island (APH),5283,5283,11/15/2017 15:21
+1098,Sample - HPLC,11/16/2017 16:04,379(1),Oil,Oil Treasure Island (APH),6,0,,,,,0,11/16/2017 16:04
+1100,Oil - Dilution,11/16/2017 16:14,379(1),Oil,Oil Treasure Island (APH),5277,38310,379(1)-1,Oil,Oil Treasure Island (APH),38310,38310,11/16/2017 16:20
+1110,Sample - HPLC,11/17/2017 10:43,380(1),Oil,Oil Treasure Island (APH),19,0,,,,,0,11/17/2017 10:43
+1112,Oil - Winterization/Filtration,11/17/2017 10:58,380(1),Oil,Oil Treasure Island (APH),857.84,6337,380(1),Oil,Oil Treasure Island (APH),6337,6337,11/17/2017 11:00
+1115,Oil - Dilution,11/17/2017 12:53,380(1),Oil,Oil Treasure Island (APH),4439,30478,380(1)-1,Oil,Oil Treasure Island (APH),30478,30478,11/17/2017 12:57
+1113,Oil - PreDilution,11/17/2017 11:40,380(1),Oil,Oil Treasure Island (APH),6337,4439,380(1),Oil,Oil Treasure Island (APH),4439,4439,11/17/2017 11:41
+1175,Dispose - Process Waste,11/21/2017 13:12,379(1)-1,Oil,Oil Treasure Island (APH),690,0,,,,,0,11/21/2017 13:15
+1193,Dispose - Process Waste,11/22/2017 12:27,380(1)-1,Oil,Oil Treasure Island (APH),211,0,,,,,0,11/22/2017 12:28
+1180,Sample - QA Release,11/21/2017 14:41,379(1)-1,Oil,Oil Treasure Island (APH),56.12,56.12,379(1)-1,Oil,Oil Treasure Island (APH),56.12,56.12,11/21/2017 14:48
+1369,Oil - Milling,11/8/2017 19:36,379,Oil,Oil Treasure Island (APH),6716.48,6566,379,Oil,Oil Treasure Island (APH),6566,6566,11/8/2017 19:37
+1199,Sample - QA Release,11/22/2017 14:51,380(1)-1,Oil,Oil Treasure Island (APH),56.75,0,,,,,0,12/14/2017 9:18
+1443,Sample - QA Release,12/14/2017 9:19,379(1)-1,Oil,Oil Treasure Island (APH),0,0,,,,,0,12/14/2017 9:22
+1436,Sample - QA Release,12/13/2017 16:56,380(1)-1,Oil,Oil Treasure Island (APH),0,0,,,,,0,12/14/2017 9:16
+1475,Lab Sample,12/15/2017 15:44,379(1)-1,Oil,Oil Treasure Island (APH),5.7,0,,,,,0,12/15/2017 15:45
+1514,Lab Sample,12/18/2017 18:24,379(1)-1,Oil,Oil Treasure Island (APH),5.6,0,,,,,0,12/18/2017 18:25
+1538,Oil - Milling,11/8/2017 19:38,380,Oil,Oil Treasure Island (APH),6066.92,5923,380,Oil,Oil Treasure Island (APH),5923,5923,11/8/2017 19:40
+1994,Oil - Milling,2/5/2018 11:49,441,Oil,Oil Treasure Island (APH),9983,9898.5,441,Oil,Oil Treasure Island (APH),9898.5,9898.5,2/5/2018 11:53
+2015,Oil - Milling,3/22/2018 14:23,442,Oil,Oil Treasure Island (APH),9981,9904,442,Oil,Oil Treasure Island (APH),9904,9904,3/22/2018 14:26
+2052,Oil - Decarboxylation,2/5/2018 14:16,441,Oil,Oil Treasure Island (APH),9898.5,8489,441,Oil,Oil Treasure Island (APH),8489,8489,2/5/2018 14:19
+2103,Oil - Extraction,2/14/2018 14:55,441,Oil,Oil Treasure Island (APH),4006.5,820,441(1),Oil,Oil Treasure Island (APH),820,820,2/14/2018 15:04
+2118,Oil - Extraction,2/16/2018 11:40,441,Oil,Oil Treasure Island (APH),4482.5,846,441(2),Oil,Oil Treasure Island (APH),846,846,2/16/2018 11:42
+2179,Oil - Winterization/Filtration,2/22/2018 10:45,441(2),Oil,Oil Treasure Island (APH),846,7081,441(2),Oil,Oil Treasure Island (APH),7081,7081,2/22/2018 10:46
+2185,Oil - Rotary Evaporation,2/22/2018 13:14,441(2),Oil,Oil Treasure Island (APH),7081,815.5,441(2),Oil,Oil Treasure Island (APH),815.5,815.5,2/22/2018 13:15
+2173,Oil - Winterization/Filtration,2/21/2018 13:55,441(1),Oil,Oil Treasure Island (APH),820,9877.5,441(1),Oil,Oil Treasure Island (APH),9877.5,9877.5,2/21/2018 13:58
+2174,Oil - Rotary Evaporation,2/21/2018 14:17,441(1),Oil,Oil Treasure Island (APH),9877.5,552.5,441(1),Oil,Oil Treasure Island (APH),552.5,552.5,2/21/2018 14:19
+2186,Oil - PreDilution,2/22/2018 15:26,441(2),Oil,Oil Treasure Island (APH),815.5,4119.5,441(2),Oil,Oil Treasure Island (APH),4119.5,4119.5,2/22/2018 15:27
+2203,Transfer to Totes,2/26/2018 11:14,441(1),Oil,Oil Treasure Island (APH),552.5,530.5,441(1),Oil,Oil Treasure Island (APH),530.5,530.5,2/26/2018 11:15
+2293,Lab Sample,3/2/2018 10:41,441(2),Oil,Oil Treasure Island (APH),2,0,,,,,0,3/2/2018 10:42
+2372,Retain Sample,3/5/2018 15:50,379(1)-1,Oil,Oil Treasure Island (APH),0,0,,,,,0,3/5/2018 15:55
+2374,Retain Sample,3/5/2018 15:57,380(1)-1,Oil,Oil Treasure Island (APH),0,0,,,,,0,3/5/2018 15:59
+2564,Sample - Other,3/22/2018 14:28,442,Oil,Oil Treasure Island (APH),132.5,0,,,,,0,3/22/2018 14:29
+2565,Oil - Decarboxylation,3/22/2018 15:20,442,Oil,Oil Treasure Island (APH),9771.5,8571.5,442,Oil,Oil Treasure Island (APH),8571.5,8571.5,3/22/2018 15:22
+2592,Transfer to Totes,3/26/2018 12:46,442,Oil,Oil Treasure Island (APH),8571.5,8559.5,442,Oil,Oil Treasure Island (APH),8559.5,8559.5,3/26/2018 12:47
+2593,Oil - Dilution,3/26/2018 15:44,441(2),Oil,Oil Treasure Island (APH),2085,16931.5,441(2)-1,Oil,Oil Treasure Island (APH),16931.5,16931.5,4/17/2018 9:33
+2582,Sample - Other,3/23/2018 13:54,615,Oil,Oil Treasure Island (APH),130.5,0,,,,,0,3/23/2018 13:55
+2607,Oil - Extraction,3/29/2018 15:35,442,Oil,Oil Treasure Island (APH),8559.5,1647,442,Oil,Oil Treasure Island (APH),1647,1647,3/29/2018 15:37
+2586,Oil - Decarboxylation,3/23/2018 15:47,615,Oil,Oil Treasure Island (APH),4600,4113,615,Oil,Oil Treasure Island (APH),4113,4113,3/23/2018 15:48
+2591,Transfer to Totes,3/26/2018 12:40,615,Oil,Oil Treasure Island (APH),4113,4111,615,Oil,Oil Treasure Island (APH),4111,4111,3/26/2018 12:41
+2609,Oil - Extraction,3/29/2018 16:00,442,Oil,Oil Treasure Island (APH),1647,1647,442(1),Oil,Oil Treasure Island (APH),1647,1647,3/29/2018 16:01
+2613,Oil - Winterization/Filtration,4/3/2018 12:04,442(1),Oil,Oil Treasure Island (APH),18317,15992,442(1),Oil,Oil Treasure Island (APH),15992,15992,4/3/2018 12:06
+2610,Oil - Winterization/Filtration,3/29/2018 16:02,442(1),Oil,Oil Treasure Island (APH),1647,18317,442(1),Oil,Oil Treasure Island (APH),18317,18317,3/29/2018 16:02
+2614,Oil - Rotary Evaporation,4/3/2018 14:21,442(1),Oil,Oil Treasure Island (APH),15992,1575.5,442(1),Oil,Oil Treasure Island (APH),1575.5,1575.5,4/3/2018 14:23
+2619,Oil - PreDilution,4/3/2018 15:59,442(1),Oil,Oil Treasure Island (APH),1575.5,7855,442(1),Oil,Oil Treasure Island (APH),7855,7855,4/3/2018 16:00
+2711,Oil - Dilution,4/17/2018 9:34,441(2)-1,Oil,Oil Treasure Island (APH),16931.5,14974,441(2)-1,Oil,Oil Treasure Island (APH),14974,14974,4/17/2018 9:36
+2713,Dispose - Process Waste,4/17/2018 18:37,441(2)-1,Oil,Oil Treasure Island (APH),325,0,,,,,0,4/17/2018 18:38
+2750,Inventory Adjust - Pkg Run Variance,4/20/2018 15:09,441(2)-1,Oil,Oil Treasure Island (APH),28.5,57,441(2)-1,Oil,Oil Treasure Island (APH),57,57,4/20/2018 15:09
+2770,Sample - Other,4/23/2018 14:15,441(2)-1,Oil,Oil Treasure Island (APH),57,0,,,,,0,4/23/2018 14:15
+2824,Oil - Milling,3/23/2018 13:45,615,Oil,Oil Treasure Island (APH),4776.22,4730.5,615,Oil,Oil Treasure Island (APH),4730.5,4730.5,3/23/2018 13:46
+2849,Oil - Dilution,5/1/2018 21:30,442(1),Oil,Oil Treasure Island (APH),7179,48074,442(1)-1,Oil,Oil Treasure Island (APH),48074,48074,5/1/2018 21:36
+2867,Inventory Adjust - Pkg Run Variance,5/4/2018 16:43,442(1)-1,Oil,Oil Treasure Island (APH),48074,48958,442(1)-1,Oil,Oil Treasure Island (APH),48958,48958,5/4/2018 16:50
+2868,Dispose - Process Waste,5/4/2018 17:04,442(1)-1,Oil,Oil Treasure Island (APH),166,0,,,,,0,5/4/2018 17:04
+2872,Sample - QA Release,5/7/2018 9:55,442(1)-1,Oil,Oil Treasure Island (APH),57,57,442(1)-1,Oil,Oil Treasure Island (APH),57,57,5/7/2018 9:56
+2928,Dispose - Out of Spec,5/10/2018 16:46,380(1)-1,Oil,Oil Treasure Island (APH),57,0,,,,,0,5/10/2018 16:46
+2974,Sample - Other,5/17/2018 10:50,442(1),Oil,Oil Treasure Island (APH),519,,,,,,0,
+3026,Oil - Winterization/Filtration,5/24/2018 13:27,615(1),Oil,Oil Treasure Island (APH),3132.5,6374.5,615(1),Oil,Oil Treasure Island (APH),6374.5,6374.5,5/24/2018 13:28
+3108,Oil - Decarboxylation,6/6/2018 16:53,687,Oil,Oil Treasure Island (APH),9958.5,8633.5,687,Oil,Oil Treasure Island (APH),8633.5,8633.5,6/6/2018 16:55
+3031,Oil - Rotary Evaporation,5/25/2018 12:53,615(1),Oil,Oil Treasure Island (APH),9341,600,615(1),Oil,Oil Treasure Island (APH),600,600,5/25/2018 12:54
+3027,Oil - Dilution,5/24/2018 15:58,442(1),Oil,Oil Treasure Island (APH),3756,36517.5,442(1)-2,Oil,Oil Treasure Island (APH),36517.5,36517.5,5/24/2018 16:02
+3023,Inventory Adjust - Pkg Run Variance,5/24/2018 9:57,441(2)-1,Oil,Oil Treasure Island (APH),28.5,0,,,,,0,5/24/2018 9:59
+3020,Oil - PreDilution,5/24/2018 8:23,441(1),Oil,Oil Treasure Island (APH),530.5,1566.5,441(1),Oil,Oil Treasure Island (APH),1566.5,1566.5,5/29/2018 11:10
+3012,Oil - Winterization,5/23/2018 13:55,615(1),Oil,Oil Treasure Island (APH),608,3132.5,615(1),Oil,Oil Treasure Island (APH),3132.5,3132.5,5/23/2018 13:56
+3032,Oil - PreDilution,5/25/2018 13:56,615(1),Oil,Oil Treasure Island (APH),600,3637.5,615(1),Oil,Oil Treasure Island (APH),3637.5,3637.5,5/25/2018 13:57
+3029,Oil - Winterization/Filtration,5/25/2018 11:22,615(1),Oil,Oil Treasure Island (APH),6374.5,9341,615(1),Oil,Oil Treasure Island (APH),9341,9341,5/25/2018 11:23
+3025,Process - Lot Merge,5/24/2018 11:16,442(1),Oil,Oil Treasure Island (APH),3756,3756,442(1),Oil,Oil Treasure Island (APH),3756,3756,5/24/2018 11:18
+3025,Process - Lot Merge,5/24/2018 11:16,441(2),Oil,Oil Treasure Island (APH),3756,3756,442(1),Oil,Oil Treasure Island (APH),3756,3756,5/24/2018 11:18
+3025,Process - Lot Merge,5/24/2018 11:16,441(1),Oil,Oil Treasure Island (APH),3756,3756,442(1),Oil,Oil Treasure Island (APH),3756,3756,5/24/2018 11:18
+3011,Oil - Extraction,5/23/2018 13:35,615,Oil,Oil Treasure Island (APH),4111,608,615(1),Oil,Oil Treasure Island (APH),608,608,5/29/2018 11:10
+3042,Sample - QA Release,5/28/2018 16:02,442(1)-2,Oil,Oil Treasure Island (APH),36460.5,36517.5,442(1),Oil,Oil Treasure Island (APH),36517.5,36517.5,5/29/2018 12:21
+3088,Oil - Rotary Evaporation,6/5/2018 14:48,686(1),Oil,Oil Treasure Island (APH),12560,1625,686(1),Oil,Oil Treasure Island (APH),1625,1625,6/5/2018 14:49
+3084,Oil - Winterization/Filtration,6/5/2018 13:26,686(1),Oil,Oil Treasure Island (APH),12693,12560,686(1),Oil,Oil Treasure Island (APH),12560,12560,6/5/2018 13:28
+3062,Oil - Decarboxylation,5/30/2018 12:29,686,Oil,Oil Treasure Island (APH),9354,8122,686,Oil,Oil Treasure Island (APH),8122,8122,5/30/2018 12:30
+3091,Oil - PreDilution,6/5/2018 15:59,686(1),Oil,Oil Treasure Island (APH),1625,9740,686(1),Oil,Oil Treasure Island (APH),9740,9740,6/5/2018 16:00
+3079,Oil - Winterization/Filtration,6/4/2018 13:47,686(1),Oil,Oil Treasure Island (APH),8853.5,12693,686(1),Oil,Oil Treasure Island (APH),12693,12693,6/4/2018 13:47
+3074,Oil - Extraction,6/1/2018 14:59,686,Oil,Oil Treasure Island (APH),8122,1665,686(1),Oil,Oil Treasure Island (APH),1665,1665,6/1/2018 15:01
+3075,Oil - Winterization,6/1/2018 15:19,686(1),Oil,Oil Treasure Island (APH),1665,8853.5,686(1),Oil,Oil Treasure Island (APH),8853.5,8853.5,6/1/2018 15:20
+3145,Allocate for Final Packaging,6/11/2018 14:26,442(1)-2,Oil,Oil Treasure Island (APH),36517.5,36517.5,442(1)-2,Oil,Oil Treasure Island (APH),36517.5,36517.5,6/11/2018 14:27
+3162,Oil - Extraction,6/13/2018 11:32,687,Oil,Oil Treasure Island (APH),8633.5,1990.5,687(1),Oil,Oil Treasure Island (APH),1990.5,1990.5,6/13/2018 11:33
+3187,Oil - Winterization,6/14/2018 16:05,687(1),Oil,Oil Treasure Island (APH),1990.5,20994.5,687(1),Oil,Oil Treasure Island (APH),20994.5,20994.5,6/14/2018 16:05
+3188,Oil - Winterization/Filtration,6/15/2018 12:28,687(1),Oil,Oil Treasure Island (APH),20994.5,20994.5,687(1),Oil,Oil Treasure Island (APH),20994.5,20994.5,6/15/2018 12:28
+3198,Oil - Rotary Evaporation,6/18/2018 15:20,687(1),Oil,Oil Treasure Island (APH),20994.5,1973,687(1),Oil,Oil Treasure Island (APH),1973,1973,6/18/2018 15:21
+3202,Allocate for Bulk Sale,6/19/2018 9:13,442(1)-2,Oil,Oil Treasure Island (APH),36517.5,12759,442(1)-2,Oil,Oil Treasure Island (APH),12759,12759,
+3200,Oil - PreDilution,6/18/2018 15:43,687(1),Oil,Oil Treasure Island (APH),1973,11579,687(1),Oil,Oil Treasure Island (APH),11579,11579,6/18/2018 15:43
+3242,Oil - Dilution,6/26/2018 15:44,687(1),Oil,Oil Treasure Island (APH),7218.5,40493,687(1)-1,Oil,Oil Treasure Island (APH),40493,40493,6/26/2018 15:45
+3263,Inventory Adjust - Pkg Run Variance,6/27/2018 17:16,687(1)-1,Oil,Oil Treasure Island (APH),40493,41125.5,687(1)-1,Oil,Oil Treasure Island (APH),41125.5,41125.5,6/27/2018 17:16
+3281,Sample - QA Release,7/3/2018 13:08,687(1)-1,Oil,Oil Treasure Island (APH),57,57,687(1)-1,Oil,Oil Treasure Island (APH),57,57,7/3/2018 13:10
+3293,Inventory Adjust - Pkg Run Variance,7/5/2018 13:39,687(1)-2,Oil,Oil Treasure Island (APH),38552,39075,687(1)-2,Oil,Oil Treasure Island (APH),39075,39075,7/5/2018 13:40
+3290,Process - Lot Merge,7/4/2018 14:54,687(1),Oil,Oil Treasure Island (APH),17119.5,17112,687(1),Oil,Oil Treasure Island (APH),17112,17112,7/4/2018 14:56
+3290,Process - Lot Merge,7/4/2018 14:54,442(1)-2,Oil,Oil Treasure Island (APH),17119.5,17112,687(1),Oil,Oil Treasure Island (APH),17112,17112,7/4/2018 14:56
+3292,Oil - Dilution,7/4/2018 17:11,687(1),Oil,Oil Treasure Island (APH),17112,38552,687(1)-2,Oil,Oil Treasure Island (APH),38552,38552,7/4/2018 17:13
+3307,Oil - Final Package (60 mL Bottle),7/6/2018 15:52,687(1)-2,Oil,Oil Treasure Island (APH),144,0,,,,,0,7/6/2018 15:52
+3317,Sample - QA Release,7/9/2018 15:21,687(1)-2,Oil,Oil Treasure Island (APH),57,57,687(1)-2,Oil,Oil Treasure Island (APH),57,57,7/9/2018 15:30
+3336,Oil - Dilution,7/12/2018 15:15,615(1),Oil,Oil Treasure Island (APH),3637.5,20278,615(1)-1,Oil,Oil Treasure Island (APH),20278,20278,7/12/2018 15:16
+3364,Dispose - Process Waste,7/16/2018 15:32,615(1)-1,Oil,Oil Treasure Island (APH),570.25,0,,,,,0,7/16/2018 15:32
+3367,Sample - QA Release,7/17/2018 11:43,615(1)-1,Oil,Oil Treasure Island (APH),57,57,615(1)-1,Oil,Oil Treasure Island (APH),57,57,7/17/2018 11:44
+3380,Oil - Dilution,7/20/2018 15:08,686(1),Oil,Oil Treasure Island (APH),9740,57878.5,686(1)-1,Oil,Oil Treasure Island (APH),57878.5,57878.5,7/20/2018 15:10
+3396,Inventory Adjust - Pkg Run Variance,7/24/2018 14:32,686(1)-1,Oil,Oil Treasure Island (APH),3130,0,,,,,0,7/24/2018 14:33
+3388,Sample - QA Release,7/23/2018 12:15,686(1)-1,Oil,Oil Treasure Island (APH),57,57,686(1)-1,Oil,Oil Treasure Island (APH),57,57,7/23/2018 12:15
+3460,Allocate for Bulk Sale,8/7/2018 12:12,804,Oil,Oil Treasure Island (APH),8938,8495.5,804,Oil,Oil Treasure Island (APH),8495.5,8495.5,8/7/2018 12:14
+3470,Oil - Decarboxylation,8/8/2018 15:25,806,Oil,Oil Treasure Island (APH),6997,6129,806,Oil,Oil Treasure Island (APH),6129,6129,8/8/2018 15:27
+3455,Allocate for Extraction,8/7/2018 8:43,804,Oil,Oil Treasure Island (APH),30011,30011,802,Dried,DP Treasure Island,30011,30011,8/7/2018 8:44
+3462,Allocate for Bulk Sale,8/7/2018 13:47,805,Oil,Oil Treasure Island (APH),7009,7009,805,Oil,Oil Treasure Island (APH),7009,7009,8/7/2018 13:48
+3463,Oil - Decarboxylation,8/7/2018 16:40,804,Oil,Oil Treasure Island (APH),8495.5,7550.5,804,Oil,Oil Treasure Island (APH),7550.5,7550.5,8/7/2018 16:41
+3458,Oil - Transfer to Extraction Department,8/7/2018 11:47,804,Oil,Oil Treasure Island (APH),8938,8938,804,Oil,Oil Treasure Island (APH),8938,8938,8/7/2018 11:48
+3467,Oil - Transfer to Extraction Department,8/8/2018 11:51,806,Oil,Oil Treasure Island (APH),7033.5,7033.5,806,Oil,Oil Treasure Island (APH),7033.5,7033.5,8/8/2018 11:52
+3468,Oil - Milling,5/29/2018 13:41,686,Oil,Oil Treasure Island (APH),9432.5,9354,686,Oil,Oil Treasure Island (APH),9354,9354,5/29/2018 13:42
+3469,Oil - Milling,5/29/2018 14:17,687,Oil,Oil Treasure Island (APH),10263,9958.5,687,Oil,Oil Treasure Island (APH),9958.5,9958.5,5/29/2018 14:18
+3482,Oil - Decarboxylation,8/9/2018 16:41,805,Oil,Oil Treasure Island (APH),6994.5,6221,805,Oil,Oil Treasure Island (APH),6221,6221,8/9/2018 16:43
+3497,Oil - Rotary Evaporation,8/15/2018 15:07,804(1),Dried,Oil Treasure Island (APH),15769,1301.5,804(1),Dried,Oil Treasure Island (APH),1301.5,1301.5,8/15/2018 15:08
+3521,Oil - Winterization/Filtration,8/20/2018 13:35,806,Dried,Oil Treasure Island (APH),9557.5,11410.5,806,Dried,Oil Treasure Island (APH),11410.5,11410.5,8/20/2018 13:36
+3498,Oil - PreDilution,8/15/2018 15:30,804(1),Dried,Oil Treasure Island (APH),1301.5,7783,804(1),Dried,Oil Treasure Island (APH),7783,7783,8/15/2018 15:31
+3512,Oil - PreDilution,8/17/2018 16:05,805,Oil,Oil Treasure Island (APH),956,5671,805,Oil,Oil Treasure Island (APH),5671,5671,8/17/2018 16:07
+3489,Oil - Extraction,8/14/2018 11:06,804,Dried,Oil Treasure Island (APH),7550.5,1541,804(1),Dried,Oil Treasure Island (APH),1541,1541,8/14/2018 11:08
+3490,Oil - Winterization,8/14/2018 15:57,804(1),Dried,Oil Treasure Island (APH),1541,9681.5,804(1),Dried,Oil Treasure Island (APH),9681.5,9681.5,8/14/2018 15:58
+3491,Oil - Winterization/Filtration,8/14/2018 15:59,804(1),Dried,Oil Treasure Island (APH),9681.5,13990.5,804(1),Dried,Oil Treasure Island (APH),13990.5,13990.5,8/14/2018 15:59
+3513,Oil - Extraction,8/17/2018 16:21,806,Dried,Oil Treasure Island (APH),6129,1104.5,806,Dried,Oil Treasure Island (APH),1104.5,1104.5,8/17/2018 16:22
+3503,Oil - Extraction,8/16/2018 14:29,805,Dried,Oil Treasure Island (APH),6221,1017,805,Dried,Oil Treasure Island (APH),1017,1017,8/16/2018 14:30
+3504,Oil - Winterization,8/16/2018 14:40,805,Oil,Oil Treasure Island (APH),1017,11200.5,805,Oil,Oil Treasure Island (APH),11200.5,11200.5,8/16/2018 14:41
+3531,Oil - PreDilution,8/21/2018 15:21,806,Dried,Oil Treasure Island (APH),998,5001,806,Dried,Oil Treasure Island (APH),5001,5001,8/21/2018 15:21
+3505,Oil - Winterization/Filtration,8/16/2018 14:41,805,Oil,Oil Treasure Island (APH),11200.5,16946.5,805,Oil,Oil Treasure Island (APH),16946.5,16946.5,8/16/2018 14:42
+3496,Oil - Winterization/Filtration,8/15/2018 14:31,804(1),Dried,Oil Treasure Island (APH),13990.5,15769,804(1),Dried,Oil Treasure Island (APH),15769,15769,8/15/2018 14:31
+3507,Oil - Winterization/Filtration,8/17/2018 12:49,805,Oil,Oil Treasure Island (APH),16946.5,22441.5,805,Oil,Oil Treasure Island (APH),22441.5,22441.5,8/17/2018 12:49
+3522,Oil - Decarboxylation,8/20/2018 14:03,815,Oil,Oil Treasure Island (APH),6962,6019.5,815,Oil,Oil Treasure Island (APH),6019.5,6019.5,8/20/2018 14:04
+3508,Oil - Transfer to Extraction Department,8/17/2018 13:15,815,Oil,Oil Treasure Island (APH),7030.5,7030.5,815,Oil,Oil Treasure Island (APH),7030.5,7030.5,8/17/2018 13:15
+3509,Oil - Rotary Evaporation,8/17/2018 13:45,805,Oil,Oil Treasure Island (APH),22441.5,956,805,Oil,Oil Treasure Island (APH),956,956,8/17/2018 13:46
+3511,Inventory Adjust - Correct Entry Error,8/17/2018 15:25,815,Oil,Oil Treasure Island (APH),6969.5,6962,815,Oil,Oil Treasure Island (APH),6962,6962,8/17/2018 15:25
+3523,Oil - Winterization/Filtration,8/21/2018 10:51,806,Dried,Oil Treasure Island (APH),11410.5,13740.5,806,Dried,Oil Treasure Island (APH),13740.5,13740.5,8/21/2018 10:51
+3520,Oil - Winterization,8/20/2018 13:33,806,Dried,Oil Treasure Island (APH),1104.5,9557.5,806,Dried,Oil Treasure Island (APH),9557.5,9557.5,8/20/2018 13:33
+3526,Oil - Rotary Evaporation,8/21/2018 14:24,806,Dried,Oil Treasure Island (APH),13740.5,998,806,Dried,Oil Treasure Island (APH),998,998,8/21/2018 14:26
+3533,Oil - Dilution,8/22/2018 8:23,818,Oil,Oil Treasure Island (APH),11044,63825,818-1,Oil,Oil Treasure Island (APH),63825,63825,8/22/2018 8:25
+3534,Inventory Adjust - Pkg Run Variance,8/22/2018 15:26,818-1,Oil,Oil Treasure Island (APH),63825,64366.5,818-1,Oil,Oil Treasure Island (APH),64366.5,64366.5,8/22/2018 15:27
+3535,Dispose - Process Waste,8/22/2018 15:40,818-1,Oil,Oil Treasure Island (APH),127.5,0,,,,,0,8/22/2018 15:41
+3536,Oil - Dilution,8/22/2018 16:45,820,Oil,Oil Treasure Island (APH),7411,50914,820-1,Oil,Oil Treasure Island (APH),50914,50914,8/22/2018 16:45
+3538,Inventory Adjust - Pkg Run Variance,8/23/2018 15:17,820-1,Oil,Oil Treasure Island (APH),50914,49658,820-1,Oil,Oil Treasure Island (APH),49658,49658,8/23/2018 15:18
+3539,Dispose - Process Waste,8/23/2018 15:30,820-1,Oil,Oil Treasure Island (APH),410,57,820-1,Oil,Oil Treasure Island (APH),57,57,8/23/2018 15:33
+3574,Inventory Adjust - Correct Entry Error,9/11/2018 12:21,615(1)-1,Oil,Oil Treasure Island (APH),57,0,,,,,0,9/11/2018 12:23
+3548,Oil - Extraction,8/30/2018 14:52,815,Oil,Oil Treasure Island (APH),6019.5,962,815,Oil,Oil Treasure Island (APH),962,962,8/30/2018 14:52
+3549,Oil - Winterization,8/30/2018 14:54,815,Oil,Oil Treasure Island (APH),962,6943,815,Oil,Oil Treasure Island (APH),6943,6943,8/30/2018 14:54
+3550,Oil - Winterization/Filtration,8/30/2018 14:56,815,Oil,Oil Treasure Island (APH),6943,10449.5,815,Oil,Oil Treasure Island (APH),10449.5,10449.5,8/30/2018 14:57
+3551,Oil - Winterization/Filtration,8/31/2018 10:45,815,Oil,Oil Treasure Island (APH),10449.5,15195,815,Oil,Oil Treasure Island (APH),15195,15195,8/31/2018 10:45
+3552,Oil - Rotary Evaporation,8/31/2018 14:17,815,Oil,Oil Treasure Island (APH),15195,949,815,Oil,Oil Treasure Island (APH),949,949,8/31/2018 14:30
+3553,Oil - PreDilution,8/31/2018 15:08,815,Oil,Oil Treasure Island (APH),949,5694,815,Oil,Oil Treasure Island (APH),5694,5694,8/31/2018 15:09
+3575,Oil - Milling,8/9/2018 16:37,805,Oil,Oil Treasure Island (APH),7009,6994.5,805,Oil,Oil Treasure Island (APH),6994.5,6994.5,8/9/2018 16:40
+3576,Oil - Milling,8/8/2018 11:52,806,Oil,Oil Treasure Island (APH),7033.5,6997,806,Oil,Oil Treasure Island (APH),6997,6997,8/8/2018 11:54
+3577,Oil - Milling,8/17/2018 14:57,815,Oil,Oil Treasure Island (APH),7030.5,6969.5,815,Oil,Oil Treasure Island (APH),6969.5,6969.5,8/17/2018 14:58
+3642,Oil - Milling,8/20/2018 13:31,815,Oil,Oil Treasure Island (APH),6962,6962,815,Oil,Oil Treasure Island (APH),6962,6962,8/20/2018 13:34
+3662,Oil - Winterization/Filtration,9/28/2018 16:36,857(1),Oil,Oil Treasure Island (APH),1669,9558,857(1),Oil,Oil Treasure Island (APH),9558,9558,9/28/2018 16:37
+3675,Oil - Rotary Evaporation,10/2/2018 15:56,857(2),Oil,Oil Treasure Island (APH),13109.5,940,857(2),Oil,Oil Treasure Island (APH),940,940,10/2/2018 15:58
+3649,Oil - Decarboxylation,9/27/2018 8:57,857,Oil,Oil Treasure Island (APH),20776.5,18241.5,857,Oil,Oil Treasure Island (APH),18241.5,18241.5,9/27/2018 8:58
+3676,Oil - PreDilution,10/2/2018 16:14,857(2),Oil,Oil Treasure Island (APH),940,5691.5,857(2),Oil,Oil Treasure Island (APH),5691.5,5691.5,10/2/2018 16:15
+3654,Oil - Milling,9/26/2018 11:59,857,Oil,Oil Treasure Island (APH),20771,20776.5,857,Oil,Oil Treasure Island (APH),20776.5,20776.5,9/26/2018 12:01
+3666,Oil - Winterization/Filtration,10/1/2018 13:36,857(1),Oil,Oil Treasure Island (APH),9558,15524.5,857(1),Oil,Oil Treasure Island (APH),15524.5,15524.5,10/1/2018 13:36
+3667,Oil - Winterization/Filtration,10/1/2018 15:24,857(1),Oil,Oil Treasure Island (APH),15524.5,19708.5,857(1),Oil,Oil Treasure Island (APH),19708.5,19708.5,10/1/2018 15:24
+3657,Oil - Decarboxylation,9/27/2018 16:32,858,Oil,Oil Treasure Island (APH),9218.5,8090.5,858,Oil,Oil Treasure Island (APH),8090.5,8090.5,9/27/2018 16:33
+3668,Oil - Rotary Evaporation,10/1/2018 16:09,857(1),Oil,Oil Treasure Island (APH),19708.5,1620.5,857(1),Oil,Oil Treasure Island (APH),1620.5,1620.5,10/1/2018 16:10
+3669,Oil - PreDilution,10/1/2018 16:32,857(1),Oil,Oil Treasure Island (APH),1620.5,9832,857(1),Oil,Oil Treasure Island (APH),9832,9832,10/1/2018 16:33
+3659,Oil - Decarboxylation,9/28/2018 13:49,860,Oil,Oil Treasure Island (APH),9879.5,8605.5,860,Oil,Oil Treasure Island (APH),8605.5,8605.5,9/28/2018 13:50
+3660,Oil - Extraction,9/28/2018 16:21,857,Oil,Oil Treasure Island (APH),10510.5,1669,857(1),Oil,Oil Treasure Island (APH),1669,1669,9/28/2018 16:26
+3670,Oil - Extraction,10/1/2018 17:31,857,Oil,Oil Treasure Island (APH),7731,1243,857(2),Oil,Oil Treasure Island (APH),1243,1243,10/1/2018 17:36
+3671,Oil - Winterization/Filtration,10/1/2018 17:45,857(2),Oil,Oil Treasure Island (APH),1243,12068.5,857(2),Oil,Oil Treasure Island (APH),12068.5,12068.5,10/1/2018 17:47
+3672,Oil - Winterization/Filtration,10/2/2018 13:52,857(2),Oil,Oil Treasure Island (APH),12068.5,14442.5,857(2),Oil,Oil Treasure Island (APH),14442.5,14442.5,10/2/2018 13:53
+3673,Oil - Winterization/Filtration,10/2/2018 14:43,857(2),Oil,Oil Treasure Island (APH),14442.5,13109.5,857(2),Oil,Oil Treasure Island (APH),13109.5,13109.5,10/2/2018 14:43
+3679,Oil - Dilution,10/3/2018 15:09,857(1),Oil,Oil Treasure Island (APH),9832,54334,857(1)-1,Oil,Oil Treasure Island (APH),54334,54334,10/3/2018 15:11
+3695,Oil - Winterization/Filtration,10/5/2018 11:22,858,Oil,Oil Treasure Island (APH),1343.5,16772,858,Oil,Oil Treasure Island (APH),16772,16772,10/5/2018 11:22
+3692,Process - Lot Merge,10/4/2018 14:26,815,Oil,Oil Treasure Island (APH),16602,16602,871,Oil,Oil 1:1 (THC:CBD),16602,16602,10/4/2018 14:27
+3690,Inventory Adjust - Pkg Run Variance,10/4/2018 14:03,857(1)-1,Oil,Oil Treasure Island (APH),54334,55829,857(1)-1,Oil,Oil Treasure Island (APH),55829,55829,10/4/2018 14:07
+3691,Dispose - Spillage,10/4/2018 14:16,857(1)-1,Oil,Oil Treasure Island (APH),168.5,57,857(1)-1,Oil,Oil Treasure Island (APH),57,57,10/4/2018 14:17
+3693,Oil - Extraction,10/4/2018 16:33,858,Dried,Oil Treasure Island (APH),8090.5,1343.5,858,Dried,Oil Treasure Island (APH),1343.5,1343.5,10/4/2018 16:37
+3697,Process - Lot Merge,10/5/2018 13:04,815,Oil,Oil Treasure Island (APH),6823,6823,873,Oil,Oil Treasure Island (APH),6823,6823,10/5/2018 13:04
+3697,Process - Lot Merge,10/5/2018 13:04,857(2),Oil,Oil Treasure Island (APH),6823,6823,873,Oil,Oil Treasure Island (APH),6823,6823,10/5/2018 13:04
+3696,Oil - Winterization/Filtration,10/5/2018 13:04,858,Oil,Oil Treasure Island (APH),16772,20146,858,Oil,Oil Treasure Island (APH),20146,20146,10/5/2018 13:04
+3698,Oil - Dilution,10/5/2018 13:15,873,Oil,Oil Treasure Island (APH),6823,36832,873,Oil,Oil Treasure Island (APH),36832,36832,10/5/2018 13:16
+3699,Oil - Winterization/Filtration,10/5/2018 14:54,858,Oil,Oil Treasure Island (APH),20146,14236,858,Oil,Oil Treasure Island (APH),14236,14236,10/5/2018 14:55
+3701,Oil - Rotary Evaporation,10/5/2018 15:53,858,Oil,Oil Treasure Island (APH),14236,1291.5,858,Oil,Oil Treasure Island (APH),1291.5,1291.5,10/5/2018 15:54
+3719,Process - Lot Merge,10/10/2018 13:39,860,Oil,Oil Treasure Island (APH),9488,9488,886,Oil,Oil 1:1 (THC:CBD),9488,9488,10/10/2018 13:40
+3703,Oil - Extraction,10/5/2018 16:14,860,Dried,Oil Treasure Island (APH),8605.5,1394,860,Dried,Oil Treasure Island (APH),1394,1394,10/5/2018 16:17
+3744,Oil - PreDilution,10/15/2018 16:51,857(3),Oil,Oil Treasure Island (APH),213,919.5,857(3),Oil,Oil Treasure Island (APH),919.5,919.5,10/15/2018 16:52
+3723,Oil - PreDilution,10/11/2018 13:13,858,Oil,Oil Treasure Island (APH),1291.5,4176,858,Oil,Oil Treasure Island (APH),4176,4176,10/11/2018 13:15
+3740,Oil - Dilution,10/15/2018 14:09,860-1,Oil,Oil Treasure Island (APH),3172.5,14170.5,860-1,Oil,Oil Treasure Island (APH),14170.5,14170.5,10/15/2018 14:12
+3714,Oil - Winterization/Filtration,10/9/2018 15:54,860,Oil,Oil Treasure Island (APH),1394,11925,860,Oil,Oil Treasure Island (APH),11925,11925,10/9/2018 15:54
+3715,Oil - Rotary Evaporation,10/9/2018 16:35,860,Oil,Oil Treasure Island (APH),11925,1342.5,860,Oil,Oil Treasure Island (APH),1342.5,1342.5,10/9/2018 16:41
+3716,Oil - PreDilution,10/9/2018 16:42,860,Oil,Oil Treasure Island (APH),1342.5,9816,860,Oil,Oil Treasure Island (APH),9816,9816,10/9/2018 16:43
+3718,Inventory Adjust - Pkg Run Variance,10/10/2018 13:31,873,Oil,Oil Treasure Island (APH),36832,37392,873,Oil,Oil Treasure Island (APH),37392,37392,10/10/2018 13:32
+3742,Oil - Winterization/Filtration,10/15/2018 16:45,857(3),Oil,Oil Treasure Island (APH),2277,4350,857(3),Oil,Oil Treasure Island (APH),4350,4350,10/15/2018 16:46
+3743,Oil - Rotary Evaporation,10/15/2018 16:47,857(3),Oil,Oil Treasure Island (APH),4350,213,857(3),Oil,Oil Treasure Island (APH),213,213,10/15/2018 16:48
+3755,Inventory Adjust - Pkg Run Variance,10/17/2018 11:14,860-1,Oil,Oil Treasure Island (APH),14170.5,14968,860-1,Oil,Oil Treasure Island (APH),14968,14968,10/17/2018 11:15
+3756,Dispose - Process Waste,10/17/2018 11:35,860-1,Oil,Oil Treasure Island (APH),190.75,57,860-1,Oil,Oil Treasure Island (APH),57,57,10/17/2018 11:37
+3762,Oil - Milling,9/26/2018 15:41,858,Oil,Oil Treasure Island (APH),9212,9218.5,858,Oil,Oil Treasure Island (APH),9218.5,9218.5,9/26/2018 15:42
+3767,Oil - Milling,9/27/2018 13:56,860,Oil,Oil Treasure Island (APH),9823.5,9879.5,860,Oil,Oil Treasure Island (APH),9879.5,9879.5,9/27/2018 13:58
+3788,Oil - Dilution,10/25/2018 12:39,858-1,Oil,Oil Treasure Island (APH),8682.5,39000,858-1,Oil,Oil Treasure Island (APH),39000,39000,10/25/2018 12:40
+3793,Inventory Adjust - Pkg Run Variance,10/26/2018 15:11,858-1,Oil,Oil Treasure Island (APH),39000,40029.5,858-1,Oil,Oil Treasure Island (APH),40029.5,40029.5,10/26/2018 15:12
+3794,Dispose - Process Waste,10/26/2018 15:19,858-1,Oil,Oil Treasure Island (APH),699.5,57,858-1,Oil,Oil Treasure Island (APH),57,57,10/26/2018 15:20
+3890,Process - Lot Merge,11/20/2018 10:11,858,Oil,Oil Treasure Island (APH),10621.5,10602.5,940,Oil,Oil THC/CBD Mixed Blend ,10602.5,10602.5,11/20/2018 10:17
+4004,Dispose - Spillage,12/14/2018 13:46,615(1)-1,Oil,Oil Treasure Island (APH),14.25,0,,,,,0,12/14/2018 13:47
+4014,Oil - Transfer to Extraction Department,12/19/2018 10:04,984,Dried,Oil Treasure Island (APH),12939.5,12184.5,984,Dried,Oil Treasure Island (APH),12184.5,12184.5,12/19/2018 10:05
+4015,Oil - Milling,12/19/2018 10:05,984,Dried,Oil Treasure Island (APH),12184.5,12174,984,Dried,Oil Treasure Island (APH),12174,12174,12/19/2018 10:09
+4076,Dispose - Process Waste,1/9/2019 14:43,994-1,Oil,Oil Treasure Island (APH),127.5,57,994-1,Oil,Oil Treasure Island (APH),57,57,1/9/2019 14:45
+4020,Inventory Adjust - End of Lot,12/19/2018 13:08,687(1)-1,Oil,Oil Treasure Island (APH),5472,0,,,,,0,12/19/2018 13:09
+4021,Inventory Adjust - End of Lot,12/19/2018 13:10,820-1,Oil,Oil Treasure Island (APH),168.5,0,,,,,0,12/19/2018 13:11
+4025,Oil - Decarboxylation,12/19/2018 16:50,984,Dried,Oil Treasure Island (APH),12174,10763.5,984,Dried,Oil Treasure Island (APH),10763.5,10763.5,12/19/2018 16:51
+4051,Oil - Milling,1/2/2019 12:55,994,Dried,Oil Treasure Island (APH),12830,12814.5,994,Dried,Oil Treasure Island (APH),12814.5,12814.5,1/2/2019 12:55
+4061,Oil - Winterization,1/4/2019 14:35,994,Dried,Oil Treasure Island (APH),2021.5,26014.5,994,Dried,Oil Treasure Island (APH),26014.5,26014.5,1/4/2019 14:36
+4052,Oil - Decarboxylation,1/2/2019 12:56,994,Dried,Oil Treasure Island (APH),12814.5,11281.5,994,Dried,Oil Treasure Island (APH),11281.5,11281.5,1/2/2019 12:57
+4035,Oil - Extraction,12/21/2018 15:46,984,Dried,Oil Treasure Island (APH),10763.5,1993,984,Dried,Oil Treasure Island (APH),1993,1993,12/21/2018 15:48
+4044,Oil - Winterization,12/28/2018 15:13,984,Oil,Oil Treasure Island (APH),1993,15073,984,Oil,Oil Treasure Island (APH),15073,15073,12/28/2018 15:13
+4057,Oil - Dilution,1/3/2019 15:12,984,Oil,Oil Treasure Island (APH),12588.5,62584,984-1,Oil,Oil Treasure Island (APH),62584,62584,1/3/2019 15:15
+4045,Oil - Winterization/Filtration,12/28/2018 15:17,984,Oil,Oil Treasure Island (APH),15073,19031.5,984,Oil,Oil Treasure Island (APH),19031.5,19031.5,12/28/2018 15:17
+4046,Oil - Winterization/Filtration,12/28/2018 15:19,984,Oil,Oil Treasure Island (APH),19031.5,17893.5,984,Oil,Oil Treasure Island (APH),17893.5,17893.5,12/28/2018 15:20
+4054,Oil - Rotary Evaporation,1/2/2019 13:43,984,Oil,Oil Treasure Island (APH),17893.5,1920.4,984,Oil,Oil Treasure Island (APH),1920.4,1920.4,1/2/2019 13:45
+4050,Oil - Transfer to Extraction Department,1/2/2019 12:54,994,Dried,Oil Treasure Island (APH),12830,12830,994,Dried,Oil Treasure Island (APH),12830,12830,1/2/2019 12:54
+4055,Oil - PreDilution,1/2/2019 15:20,984,Oil,Oil Treasure Island (APH),1920.4,13619,984,Oil,Oil Treasure Island (APH),13619,13619,1/2/2019 15:22
+4059,Dispose - Process Waste,1/4/2019 14:24,984-1,Oil,Oil Treasure Island (APH),116,0,,,,,0,1/4/2019 14:26
+4060,Oil - Extraction,1/4/2019 14:32,994,Dried,Oil Treasure Island (APH),11281.5,2021.5,994,Dried,Oil Treasure Island (APH),2021.5,2021.5,1/4/2019 14:34
+4069,Oil - Winterization/Filtration,1/8/2019 15:52,994,Dried,Oil Treasure Island (APH),25956.21,28576,994,Dried,Oil Treasure Island (APH),28576,28576,1/8/2019 15:53
+4070,Oil - Winterization/Filtration,1/8/2019 16:11,994,Dried,Oil Treasure Island (APH),28576,29968,994,Dried,Oil Treasure Island (APH),29968,29968,1/8/2019 16:11
+4071,Oil - Rotary Evaporation,1/8/2019 17:26,994,Dried,Oil Treasure Island (APH),29968,2074.5,994,Dried,Oil Treasure Island (APH),2074.5,2074.5,1/8/2019 17:28
+4072,Oil - PreDilution,1/8/2019 17:35,994,Dried,Oil Treasure Island (APH),2074.5,14747.5,994,Dried,Oil Treasure Island (APH),14747.5,14747.5,1/8/2019 17:36
+4074,Oil - Dilution,1/9/2019 12:55,994,Dried,Oil Treasure Island (APH),10417,51900,994-1,Oil,Oil Treasure Island (APH),51900,51900,1/9/2019 13:01
+4075,Inventory Adjust - Pkg Run Variance,1/9/2019 14:31,994-1,Oil,Oil Treasure Island (APH),51843,53650.5,994-1,Oil,Oil Treasure Island (APH),53650.5,53650.5,1/9/2019 14:32
+4221,Allocate for Bulk Sale,2/1/2019 10:57,994,Oil,Oil Treasure Island (APH),5522.5,5522.5,1048,Oil,Oil Treasure Island (APH),5522.5,5522.5,2/1/2019 10:58
+4221,Allocate for Bulk Sale,2/1/2019 10:57,984,Oil,Oil Treasure Island (APH),5522.5,5522.5,1048,Oil,Oil Treasure Island (APH),5522.5,5522.5,2/1/2019 10:58
+4241,Dispose - Process Waste,2/5/2019 15:44,984-1,Oil,Oil Treasure Island (APH),28.5,0,,,,,0,2/5/2019 15:45
+4244,Oil - Dilution,2/6/2019 12:41,1048,Oil,Oil Treasure Island (APH),5522.5,24857,TI-1048-1,Oil,Oil Treasure Island (APH),24857,24857,2/6/2019 12:43
+4260,Lot Transfer - Partial,2/11/2019 12:48,615(1)-1,Oil,Oil Treasure Island (APH),7464.5,7464.5,1066,Oil,R&D Oil Research Blends,7464.5,7464.5,2/11/2019 12:52
+4264,Dispose - Process Waste,2/12/2019 9:47,TI-1048-1,Oil,Oil Treasure Island (APH),1224.99,0,,,,,0,2/12/2019 9:48
