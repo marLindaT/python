@@ -62,6 +62,21 @@ print(lotList)
 
 result["Lot List"] = getOilLotCodes()
 
+def getAllInputs(result = result, inputFile="workOrders",):
+  ""
+
+  with open(inputFile+".csv", "r") as sourceFile:
+    file = csv.reader(sourceFile, delimiter=',')
+
+    for order in result["Work Orders Completed"]:
+      getInput(workOrderType = order)
+
+
+
+
+
+  return None
+
 
 def getInput(inputFile="workOrders", lotList = lotList, workOrderType="Oil - Milling"):
   "given a list of lot numbers return a list of equal len/order of input mass in grams"
@@ -98,5 +113,4 @@ def getInput(inputFile="workOrders", lotList = lotList, workOrderType="Oil - Mil
     
 
     
-
 
