@@ -13,7 +13,7 @@ import pandas as pd
 
 import matplotlib.pyplot as plt
 
-dataFrame = pd.read_csv("matplotlibTrial.txt", sep="\t", skiprows=2)
+dataFrame = pd.read_csv("extractionRunResult_.txt", sep="\t", skiprows=2)
 
 columnList = dataFrame.columns
 
@@ -44,7 +44,7 @@ y = dataFrame["% Mass Extracted"]
 # a dashed line. You can use help(plt.plot) to find out more
 # about formatting plots. 
 
-plt.plot(x,y,"ro--")
+plt.plot(x,y,"ro")
 
 plt.title("Trial Graph")
 
@@ -57,7 +57,7 @@ plt.text(450, 50, "This is a text point")
 
 #  format for plt.axis() is [xmin, xmax, ymin, ymax] 
 
-plt.axis([0,100,0,1.0])
+plt.axis([0,100,0,100])
 
 
 plt.show()
