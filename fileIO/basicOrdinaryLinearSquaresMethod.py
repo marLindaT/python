@@ -35,17 +35,17 @@ column_list = df.columns
 X = df["Time (mins)"]
 Y = df["Mass CO2 Used lbs"]
 
-X = [1,2,3,4,5,6,7,8]
-Y = [2,4,6,8,10,12,14,19]
+
 
 #### Ordinary least Squares fitting
 model = sm.OLS(Y,X).fit()
 #model.predict(X)
 model_print = model.summary()
-
 print(print_model)
 
-
+f = open("extractionPlotsScratch.txt", "w")
+f.write(str(print_model))
+f.close()
 
 #
 #plt.xlabel(X.name)
