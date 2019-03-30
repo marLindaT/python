@@ -4,6 +4,7 @@ Created on Thu Mar 28 16:16:23 2019
 
 @author: Marshall
 """
+
 #################
 # https://datatofish.com/statsmodels-linear-regression/
 #################
