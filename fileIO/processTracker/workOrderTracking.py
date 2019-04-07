@@ -13,6 +13,7 @@ pd.read_excel('file.xlsx')
 pd.to_excel('dir/myDataFrame.xlsx', sheet_name='Sheet1')
 
 """
+import os
 import re
 import pandas as pd
 import numpy as np
@@ -47,6 +48,7 @@ def fillEmptyCellsWithNAN():
         
 fillEmptyCellsWithNAN()
 
+df.dropna(axis=0, how='any', inplace=True)
 
 #create a global dataframe that is updated before analysis
 working_df = None
@@ -96,8 +98,8 @@ def filtering(filteringTerm, colName, dataFrameToFilter):
         else:
             bools.append(False)
     boolsSeries = pd.Series(bools, name="bools")#make pd series of booleans
-    holding = (dataFrameToFilter[boolsSeries.values])#shorten with return once working
-    return holding
+    return (dataFrameToFilter[boolsSeries.values])#return boolean filtered DataFrame
+    
     
 
 def plotIt(Xseries, Yseries):
@@ -136,9 +138,9 @@ def getDateRange(text_prompt):
 #filter for only wokrorders that are OIL related
 working_df = filtering("Oil", "WO Type", df)
 #get start date 
-start_date = getDateRange("Start Date please")
+#start_date = getDateRange("Start Date please")
 #get end date
-end_date = getDateRange("End Date please")
+#end_date = getDateRange("End Date please")
 
     
 def filterDateRange(start_date, end_date):
@@ -164,25 +166,69 @@ def getIndependentVariable():
             print(f"==       {item} ")
         print("=====================")
         ind_var = str(input("Enter independent variable: "))
-        
+  
     
-    
-    
-
-
 def getDependentVariable():
     """
     """
-    print("From the following enter an dependent variable to analyze")
+    print("From the following enter an independent variable to analyze")
     for item in working_df.columns:
         print(item)
-        
-    return str(input("Enter dependent variable: "))
+    
+    dep_var = str(input("Enter dependent variable: "))
+    
+    while dep_var not in working_df.columns:
+        print("Please enter a valid option from the list provided: ")
+        print("=====================")
+        for item in working_df.columns:
+            print(f"==       {item} ")
+        print("=====================")
+        dep_var = str(input("Enter dependent variable: "))
 
-        
-getIndependentVariable()
 
+#ind_var = getIndependentVariable()
+
+#dep_var = getDependentVariable()
+
+working_df = filtering("Oil - Extraction", "WO Type", working_df)
+
+
+def getStatsForSeries(var, write_file = False):
+    """
+    """
+    show = working_df["Total Output Weight"] / working_df["Total WO Input Weight"] #pd series
+    #plot a histogram
+    plt.hist(show, bins=200)
+    plt.show()
+    #basic stats given for the process below
+    total_mass_input = 0
+    for mass in working_df[input_weight]:
+        total_mass_input += mass
+        total_mass_output = 0
+    for omass in working_df[output_weight]:
+        total_mass_output += omass
+    length = len(var)
+    the_sum = 0
+    for item in var:
+        the_sum +=item
+    avg = the_sum / len(var)
+    print("======================================")
+    print(f"{var} \n\n is {length} items long. Percent yield total = {the_sum}. Average percent yield = {avg*100}%.")
+    print(f"Total mass input = {total_mass_input} grams ")
+    print(f"Total mass output = {total_mass_output} grams")
+    print("======================================")
+     
+    if write_file:
+        file = open("workOrderAnalysis.txt", "w")
+        file.write("======================================\n")
+        file.write(f"{var} \n\n is {length} items long. Percent yield total = {the_sum}. \nAverage percent yield = {avg*100}%.")
+        file.write(f"\nTotal mass input = {total_mass_input} grams ")
+        file.write(f"\nTotal mass output = {total_mass_output} grams\n")
+        file.write("======================================\n")
+        
+        file.close()
  
+    
         
         
         
