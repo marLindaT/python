@@ -15,6 +15,7 @@ import matplotlib.pyplot as plt
 from matplotlib import cm
 from matplotlib.ticker import LinearLocator, FormatStrFormatter
 import numpy as np
+import pandas as pd
 
 df = pd.read_csv("Extraction_experimentalDesignResultsSummary_incomplt.csv", sep=",")
 
@@ -22,22 +23,26 @@ df = pd.read_csv("Extraction_experimentalDesignResultsSummary_incomplt.csv", sep
 #================================
 # https://jakevdp.github.io/PythonDataScienceHandbook/04.04-density-and-contour-plots.html
 #=================================
-#
-#def f(x, y):
-#    return np.sin(x) ** 10 + np.cos(10 + y * x) * np.cos(x)
-#x = np.linspace(0, 5, 50)
-#y = np.linspace(0, 5, 40)
-#
-#X, Y = np.meshgrid(x, y)
+
+def f(x, y):
+    return np.sin(x) ** 10 + np.cos(10 + y * x) * np.cos(x)
+x = np.linspace(0, 5, 50)
+y = np.linspace(0, 5, 40)
+z = np.linspace(0, 1, 40)
+
+X, Y, Z = np.meshgrid(x, y, z)
+
+
 #Z = f(X, Y)
-#
-#plt.contour(X, Y, Z, colors='black');
-#
-#plt.contour(X, Y, Z, 20, cmap='RdGy');
-#
-#plt.contourf(X, Y, Z, 20, cmap='RdGy')
-#plt.colorbar();
-#
+
+plt.contour(X, Y, Z, colors='black');
+
+plt.contour(X, Y, Z, 20, cmap='RdGy');
+
+plt.contourf(X, Y, Z, 20, cmap='RdGy')
+plt.colorbar();
+plt.show()
+
 
 
 
