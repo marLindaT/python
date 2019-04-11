@@ -133,6 +133,8 @@ def regressionAnalysis(datafr, response, var1, var2, var3, var4):
     
 regressionAnalysis(df, "col_1_percent_API_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp") 
         
+#regressionAnalysis(df, " Crude C1 % w/w", "C1 press", "C1 temp", "C2 press", "C2 temp") #causing error: ValueError: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+
 
 
 df.to_csv(r'dataFrame_out.csv')
