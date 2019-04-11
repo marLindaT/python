@@ -94,14 +94,15 @@ fillBlankWithNan(df)
 dropNaCols(df)
 dropNaRows(df)
 
-def plotLots(arr1, saveToFile=False):
-
+def plotLots(arr1,numContinuousRows, saveToFile=False):
+    """
+    """
     for item in arr1:
         fig = plt.figure()
         ax = fig.add_subplot(111, projection="3d")
         X = df["C1 press"]
         Y = df["C2 press"]
-        Z = item
+        Z = item[:numContinuousRows]
         ax.scatter(X, Y, Z)
         ax.set_xlabel(X.name)
         ax.set_ylabel(Y.name)
@@ -111,10 +112,26 @@ def plotLots(arr1, saveToFile=False):
             plt.savefig(f'{X.name}_{Y.name}_{item.name}_3dscatter.pdf', transparent=True, )
         plt.show()
 #call
-plotLots(collectors_percent_API, saveToFile = True)
+plotLots(collectors_percent_API, 8, saveToFile = True)
 
 
+def regressionAnalysis(datafr, response, var1, var2, var3, var4):
+    """
+    """
+    df =datafr.iloc[:8]
+    print(df)
+    X = df[[var1, var2, var3, var4]] # here we have 2 variables for multiple regression. If you just want to use one variable for simple linear regression, then use X = df['Interest_Rate'] for example.Alternatively, you may add additional variables within the brackets
+    Y = df[response]
+
+    X = sm.add_constant(X) # adding a constant
+
+    model = sm.OLS(Y, X).fit()
+    predictions = model.predict(X) 
+
+    print_model = model.summary()
+    print(print_model)
     
+regressionAnalysis(df, "col_1_percent_API_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp") 
         
 
 
