@@ -24,42 +24,58 @@ import statsmodels.api as sm
 df = pd.read_csv("Extraction_experimentalDesignResultsSummary_incomplt.csv", sep=",")
 
 
+def writeToFile(fileName, text):
+    file = open(f"{fileName}.txt", "a")
+    file.write(str(text))
+    file.close()
+
 
 
 #====================
 #
 #['Experiment Number', 'C3 press', 'C2 press', 'C1 press', 'C1 temp',
 #       'C2 temp', 'C3 temp', 'Decarb Cannabinoids % w/w',
-#       ' Water Content % w/w', 'Spent Ex-1 Post-Ext. Weight g',
-#       ' Ex-1 Cannabinoids % w/w', ' Ex-1 Water Content % w/w',
-#       ' Ex-2 Post-Ext. Weight g', ' Ex-2 Cannabinoids % w/w',
-#       ' Ex-2 Water Content % w/w', 'Crude C1 - Weight g', ' C2 - Weight g',
-#       ' C3 - Weight g', ' C1 - Cannabinoids % w/w',
-#       ' C2 - Cannabinoids % w/w', ' C3 - Cannabinoids % w/w',
-#       ' C1 - Pictures Mark "complete" when taken',
-#       ' C2 - Pictures Mark "complete" when taken',
-#       ' C3 - Pictures Mark "complete" when taken', 'Waxes C1 - Dry Weight g',
-#       ' C2 - Dry Weight g', ' C3 - Dry Weight g', 'Refined C1 - Weight g',
-#       ' C2 - Weight g.1', ' C3 - Weight g.1', ' C1 - Cannabinoids % w/w.1',
-#       ' C2 - Cannabinoids % w/w.1', ' C3 - Cannabinoids % w/w.1',
-#       ' C1 - Pictures Mark "complete" when taken.1',
-#       ' C2 - Pictures Mark "complete" when taken.1',
-#       ' C3 - Pictures Mark "complete" when taken.1',
-#       'Terpenes Decarb High THC  % w/w',
-#       ' Spent (pooled) High THC-EXP02-Spent N/A', ' Crude C1 % w/w',
-#       '  C2 % w/w', '  C3 % w/w', ' Refined C1 % w/w', '  C2 % w/w.1',
-#       '  C3 % w/w.1', 'Unnamed: 44']
+#       ' Decarb Water Content % w/w', 'Spent1 Post-Ext. Weight g',
+#       'Spent1 Cannabinoids % w/w', 'Spent1 Water Content % w/w',
+#       'Spent2 Post-Ext. Weight g', 'Spent2 Cannabinoids % w/w',
+#       'Spent2 Water Content % w/w', 
+
+#       'Crude C1 - Weight g',
+#       'Crude C2 - Weight g', 'Crude C3 - Weight g',
+#       'Crude C1 - Cannabinoids % w/w', 'Crude C2 - Cannabinoids % w/w',
+#       'Crude C3 - Cannabinoids % w/w',
+
+
+#        'Waxes C1 - Dry Weight g',
+#       'Waxes C2 - Dry Weight g', 'Waxes C3 - Dry Weight g',
+
+
+#       'Refined C1 - Weight g', 'Refined C2 - Weight g',
+#       'Refined C3 - Weight g',
+
+# ' Refined C1 - Cannabinoids % w/w',
+#       ' Refined C2 - Cannabinoids % w/w', ' Refined C3 - Cannabinoids % w/w',
+
+#       'Terpenes Decarb % w/w',
+#       'Terpenes Spent %w/w',
+
+# 'Terpenes Crude C1 % w/w',
+#       'Terpenes Crude C2 % w/w', 'Terpenes Crude C3 % w/w',
+#       'Terpenes Refined C1 % w/w', 'Terpenes Refined C2 % w/w',
+#       'Terpenes Refined C3 % w/w'],
+#     
 
 #===============================
 
-df['sum_crude'] = df['Crude C1 - Weight g'] + df[' C2 - Weight g'] + df[" C3 - Weight g"]
+#==============   CANNABINOIDS
 
-df["col_1_grams_API"] = (df[" C1 - Cannabinoids % w/w"] / 100) * df["Crude C1 - Weight g"]
+df['sum_crude'] = df['Crude C1 - Weight g'] + df['Crude C2 - Weight g'] + df["Crude C3 - Weight g"]
 
-df["col_2_grams_API"] = (df[" C2 - Cannabinoids % w/w"] / 100) * df[" C2 - Weight g"]
+df["col_1_grams_API"] = (df["Crude C1 - Cannabinoids % w/w"] / 100) * df["Crude C1 - Weight g"]
 
-df["col_3_grams_API"] = (df[" C3 - Cannabinoids % w/w"] / 100) * df[" C3 - Weight g"]
+df["col_2_grams_API"] = (df["Crude C2 - Cannabinoids % w/w"] / 100) * df["Crude C2 - Weight g"]
 
+df["col_3_grams_API"] = (df["Crude C3 - Cannabinoids % w/w"] / 100) * df["Crude C3 - Weight g"]
 
 df["col_1_percent_API_of_total"] = (df["col_1_grams_API"] / df["sum_crude"]) * 100
 
@@ -68,6 +84,24 @@ df["col_2_percent_API_of_total"] = (df["col_2_grams_API"] / df["sum_crude"]) * 1
 df["col_3_percent_API_of_total"] = (df["col_3_grams_API"] / df["sum_crude"]) * 100 
 
 collectors_percent_API = [df["col_1_percent_API_of_total"], df["col_2_percent_API_of_total"], df["col_3_percent_API_of_total"]  ]
+
+#================= TERPENES
+
+df["sum_terpenes_crude_grams"] = (df["Crude C1 - Weight g"]*(df["Terpenes Crude C1 % w/w"] / 100)) + (df["Crude C2 - Weight g"]*(df["Terpenes Crude C2 % w/w"] / 100)) + (df["Crude C3 - Weight g"]*(df["Terpenes Crude C3 % w/w"] / 100))
+
+df["col_1_crude_grams_terps"] = df["Crude C1 - Weight g"] * (df["Terpenes Crude C1 % w/w"] / 100)
+
+df["col_2_crude_grams_terps"] = df["Crude C2 - Weight g"] * (df["Terpenes Crude C2 % w/w"] / 100)
+
+df["col_3_crude_grams_terps"] = df["Crude C3 - Weight g"] * (df["Terpenes Crude C3 % w/w"] / 100)
+
+df["col_1_percent_terps_of_total"] = 100 * df["col_1_crude_grams_terps"] / df["sum_terpenes_crude_grams"]
+
+df["col_2_percent_terps_of_total"] = 100 * df["col_2_crude_grams_terps"] / df["sum_terpenes_crude_grams"]
+
+df["col_3_percent_terps_of_total"] = 100 * df["col_3_crude_grams_terps"] / df["sum_terpenes_crude_grams"]
+
+collectors_percent_terps =[df["col_1_percent_terps_of_total"], df["col_2_percent_terps_of_total"], df["col_3_percent_terps_of_total"]  ]
 
 
 X = df.values[:,2]
@@ -92,7 +126,7 @@ def dropNaRows(datafr):
 
 fillBlankWithNan(df)
 dropNaCols(df)
-dropNaRows(df)
+#dropNaRows(df)
 
 def plotLots(arr1,numContinuousRows, saveToFile=False):
     """
@@ -100,9 +134,9 @@ def plotLots(arr1,numContinuousRows, saveToFile=False):
     for item in arr1:
         fig = plt.figure()
         ax = fig.add_subplot(111, projection="3d")
-        X = df["C1 press"]
-        Y = df["C2 press"]
-        Z = item[:numContinuousRows]
+        X = df["C1 press"][:numContinuousRows+1]
+        Y = df["C2 press"][:numContinuousRows+1]
+        Z = item[:numContinuousRows+1]
         ax.scatter(X, Y, Z)
         ax.set_xlabel(X.name)
         ax.set_ylabel(Y.name)
@@ -111,8 +145,12 @@ def plotLots(arr1,numContinuousRows, saveToFile=False):
         if saveToFile:
             plt.savefig(f'{X.name}_{Y.name}_{item.name}_3dscatter.pdf', transparent=True, )
         plt.show()
+        
 #call
+#cannabinoids
 plotLots(collectors_percent_API, 8, saveToFile = True)
+#terpenes
+plotLots(collectors_percent_terps, 8, saveToFile = True)
 
 
 def regressionAnalysis(datafr, response, var1, var2, var3, var4):
@@ -129,12 +167,24 @@ def regressionAnalysis(datafr, response, var1, var2, var3, var4):
     predictions = model.predict(X) 
 
     print_model = model.summary()
+    
+    writeToFile("regression_out", print_model)
+    
     print(print_model)
     
-regressionAnalysis(df, "col_1_percent_API_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp") 
-        
-#regressionAnalysis(df, " Crude C1 % w/w", "C1 press", "C1 temp", "C2 press", "C2 temp") #causing error: ValueError: Pandas data cast to numpy dtype of object. Check input data with np.asarray(data).
+regressionAnalysis(df, "col_1_percent_API_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
 
+regressionAnalysis(df, "col_2_percent_API_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp") 
 
+regressionAnalysis(df, "col_3_percent_API_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
 
+regressionAnalysis(df, "col_1_percent_terps_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
+
+regressionAnalysis(df, "col_2_percent_terps_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
+
+regressionAnalysis(df, "col_3_percent_terps_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
+
+#store dataframe as csv file
 df.to_csv(r'dataFrame_out.csv')
+
+
