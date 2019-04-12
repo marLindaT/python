@@ -135,7 +135,7 @@ def plotLots(arr1,numContinuousRows, saveToFile=False):
         fig = plt.figure()
         ax = fig.add_subplot(111, projection="3d")
         X = df["C1 press"][:numContinuousRows+1]
-        Y = df["C2 press"][:numContinuousRows+1]
+        Y = df["C1 temp"][:numContinuousRows+1]
         Z = item[:numContinuousRows+1]
         ax.scatter(X, Y, Z)
         ax.set_xlabel(X.name)
@@ -183,6 +183,9 @@ regressionAnalysis(df, "col_1_percent_terps_of_total", "C1 press", "C1 temp", "C
 regressionAnalysis(df, "col_2_percent_terps_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
 
 regressionAnalysis(df, "col_3_percent_terps_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
+
+regressionAnalysis(df, "col_3_percent_terps_of_total", "C1 press", "C1 temp", "C2 press", "C2 temp")
+
 
 #store dataframe as csv file
 df.to_csv(r'dataFrame_out.csv')
